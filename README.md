@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently a 2nd year at Ho Chi Minh University of Technology and Education.
+
+- cout << "Hello World\n";
 <!--
 **ndhoc/ndhoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
