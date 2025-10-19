@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ndhoc&color=ff69b4)
+
 I'm currently a 2nd year at Ho Chi Minh University of Technology and Education.
 
 - cout << "Hello World\n";
