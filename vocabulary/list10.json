@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_10",
+      "name": "List 10",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accessory",
+          "meaning": "đồng phạm",
+          "pronunciation": "/əkˈses.ər.i/",
+          "type": "noun",
+          "example": "He was charged as an accessory to murder.",
+          "exampleMeaning": "Anh ta bị buộc tội là đồng phạm giết người.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "airfare",
+          "meaning": "tiền máy bay, phí hàng không",
+          "pronunciation": "/ˈeə.feər/",
+          "type": "noun",
+          "example": "Transatlantic airfares are going up.",
+          "exampleMeaning": "Giá vé máy bay xuyên Đại Tây Dương đang tăng lên.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "alert",
+          "meaning": "tỉnh táo, cảnh giác",
+          "pronunciation": "/əˈlɜːt/",
+          "type": "adjective",
+          "example": "Parents should be alert to sudden changes in children's behaviour.",
+          "exampleMeaning": "Cha mẹ nên cảnh giác với những thay đổi đột ngột trong hành vi của trẻ.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "assembly",
+          "meaning": "cuộc tụ tập, cuộc họp, hội đồng",
+          "pronunciation": "/əˈsem.bli/",
+          "type": "noun",
+          "example": "She has been tipped as a future member of the Welsh Assembly.",
+          "exampleMeaning": "Cô ấy đã được dự đoán sẽ là một thành viên tương lai của Hội đồng Quốc gia Wales.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "auditorium",
+          "meaning": "khán phòng, giảng đường",
+          "pronunciation": "/ˌɔː.dɪˈtɔː.ri.əm/",
+          "type": "noun",
+          "example": "The ten-thousand seat auditorium was filled to capacity.",
+          "exampleMeaning": "Khán phòng mười nghìn chỗ ngồi đã được lấp đầy.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pronunciation": "/beɪk/",
+          "type": "verb",
+          "example": "Bake for 5–7 minutes in a preheated oven.",
+          "exampleMeaning": "Nướng trong 5–7 phút trong lò đã được làm nóng trước.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "basket",
+          "meaning": "giỏ, rổ",
+          "pronunciation": "/ˈbɑː.skɪt/",
+          "type": "noun",
+          "example": "The little kittens and their mother were all curled up asleep in the same basket.",
+          "exampleMeaning": "Những chú mèo con và mẹ của chúng đều nằm cuộn tròn ngủ trong cùng một giỏ.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "businessperson",
+          "meaning": "doanh nhân",
+          "pronunciation": "/ˈbɪz.nɪsˌpɜː.sən/",
+          "type": "noun",
+          "example": "He was a successful businessperson before becoming a writer.",
+          "exampleMeaning": "Anh ấy là một doanh nhân thành đạt trước khi trở thành nhà văn.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "celebrity",
+          "meaning": "người nổi tiếng",
+          "pronunciation": "/səˈlebrəti/",
+          "type": "noun",
+          "example": "The magazine is all about the lives of celebrities.",
+          "exampleMeaning": "Tạp chí nói về cuộc sống của những người nổi tiếng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "certification",
+          "meaning": "giấy chứng nhận, chứng chỉ",
+          "pronunciation": "/ˌsɜː.tɪ.fɪˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "He will seek organic certification of his beef and poultry products.",
+          "exampleMeaning": "Anh ấy sẽ tìm kiếm chứng nhận hữu cơ cho các sản phẩm thịt bò và gia cầm của mình.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "closure",
+          "meaning": "sự đóng cửa (cơ sở kinh doanh)",
+          "pronunciation": "/ˈkləʊ.ʒər/",
+          "type": "noun",
+          "example": "The shop is now facing closure after local councillors dismissed the licence application.",
+          "exampleMeaning": "Cửa hàng hiện đang đối mặt với việc đóng cửa sau khi các ủy viên hội đồng địa phương bác bỏ đơn xin giấy phép.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "considerably",
+          "meaning": "một cách đáng kể",
+          "pronunciation": "/kənˈsɪd.ər.ə.bli/",
+          "type": "adverb",
+          "example": "The interests of both parties may not be identical, but they do overlap considerably.",
+          "exampleMeaning": "Lợi ích của cả hai bên có thể không giống nhau, nhưng chúng đan xen nhau đáng kể.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "deduct",
+          "meaning": "trừ hoặc lấy đi",
+          "pronunciation": "/dɪˈdʌkt/",
+          "type": "verb",
+          "example": "Each week a small amount is deducted from her wages for the pension plan.",
+          "exampleMeaning": "Mỗi tuần một khoản nhỏ được khấu trừ từ tiền lương của cô ấy cho kế hoạch hưu trí.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "dislike",
+          "meaning": "không thích, ghét",
+          "pronunciation": "/dɪsˈlaɪk/",
+          "type": "verb",
+          "example": "The producer disliked the script and said it must be rewritten.",
+          "exampleMeaning": "Nhà sản xuất không thích kịch bản và nói rằng nó phải được viết lại.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "disruption",
+          "meaning": "hành động gián đoạn và gây ra sự hỗn loạn",
+          "pronunciation": "/dɪsˈrʌp.ʃən/",
+          "type": "noun",
+          "example": "It would cause a tremendous disruption to our work schedule to install a different computer system.",
+          "exampleMeaning": "Việc cài đặt một hệ thống máy tính khác sẽ gây ra sự gián đoạn lớn cho lịch trình làm việc của chúng tôi.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "downstairs",
+          "meaning": "tầng dưới",
+          "pronunciation": "/ˌdaʊnˈsteəz/",
+          "type": "adverb/adjective",
+          "example": "I went downstairs to answer the phone.",
+          "exampleMeaning": "Tôi đi xuống cầu thang để trả lời điện thoại.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "electrician",
+          "meaning": "thợ điện",
+          "pronunciation": "/ɪˌlekˈtrɪʃ.ən/",
+          "type": "noun",
+          "example": "The electrician has diagnosed a fault in the wiring.",
+          "exampleMeaning": "Thợ điện đã chẩn đoán một lỗi trong hệ thống dây điện.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "enthusiastic",
+          "meaning": "hăng hái, nhiệt tình",
+          "pronunciation": "/ɪnˌθjuːziˈæstɪk/",
+          "type": "adjective",
+          "example": "The officers from Manchester are enthusiastic and keen to take on the challenge.",
+          "exampleMeaning": "Các sĩ quan từ Manchester rất nhiệt tình và háo hức đón nhận thử thách.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "faulty",
+          "meaning": "bị lỗi, mắc khuyết điểm",
+          "pronunciation": "/ˈfɔːl.ti/",
+          "type": "adjective",
+          "example": "The company recalled over 500,000 cars last year because of a faulty connection in their new model.",
+          "exampleMeaning": "Công ty đã thu hồi hơn 500.000 xe vào năm ngoái vì một kết nối bị lỗi trong mô hình mới của họ.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "graduation",
+          "meaning": "lễ tốt nghiệp, sự tốt nghiệp",
+          "pronunciation": "/ˌɡrædʒuˈeɪʃn/",
+          "type": "noun",
+          "example": "Clinton gave an antiwar speech at her graduation from Wellesley College.",
+          "exampleMeaning": "Clinton đã có một bài phát biểu chống chiến tranh tại lễ tốt nghiệp của cô ấy từ trường Đại học Wellesley.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "hobby",
+          "meaning": "sở thích",
+          "pronunciation": "/ˈhɒb.i/",
+          "type": "noun",
+          "example": "Sonya's hobbies include traveling, sailing, and reading fiction.",
+          "exampleMeaning": "Sở thích của Sonya bao gồm du lịch, chèo thuyền và đọc tiểu thuyết.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "icy",
+          "meaning": "Đóng băng, băng giá",
+          "pronunciation": "/ˈaɪ.si/",
+          "type": "adjective",
+          "example": "Too cold and too much snow, rail signal systems freeze and roads become icy.",
+          "exampleMeaning": "Quá lạnh và quá nhiều tuyết, hệ thống tín hiệu đường sắt bị đóng băng và đường trở nên đóng băng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "informal",
+          "meaning": "(trang phục) thông thường, thoải mái; (sự kiện) không trang trọng",
+          "pronunciation": "/ɪnˈfɔː.məl/",
+          "type": "adjective",
+          "example": "Discussions are held on an informal basis within the department.",
+          "exampleMeaning": "Các cuộc thảo luận được tổ chức một cách không chính thức trong bộ phận.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "irregular",
+          "meaning": "không đều, không theo quy luật",
+          "pronunciation": "/ɪˈreɡ.jə.lər/",
+          "type": "adjective",
+          "example": "The cells are slightly irregular in shape.",
+          "exampleMeaning": "Các tế bào có hình dạng hơi bất thường.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "kilometer",
+          "meaning": "kilômet",
+          "pronunciation": "/ˈkɪl.əˌmiː.tər/",
+          "type": "noun",
+          "example": "The industrial estate is 6 kilometers from the city centre.",
+          "exampleMeaning": "Khu công nghiệp cách trung tâm thành phố 6 km.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "lawn",
+          "meaning": "bãi cỏ",
+          "pronunciation": "/lɔːn/",
+          "type": "noun",
+          "example": "They were sitting on the lawn under a large beech tree.",
+          "exampleMeaning": "Họ đang ngồi trên bãi cỏ dưới một cây sồi lớn.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "login",
+          "meaning": "đăng nhập",
+          "pronunciation": "/ˈlɒɡ.ɪn/",
+          "type": "verb",
+          "example": "You need a password to login.",
+          "exampleMeaning": "Bạn cần mật khẩu để đăng nhập.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "managerial",
+          "meaning": "(thuộc) giám đốc; (thuộc) quản lý",
+          "pronunciation": "/ˌmæn.ɪˈdʒɪə.ri.əl/",
+          "type": "adjective",
+          "example": "Does she have any managerial experience?",
+          "exampleMeaning": "Cô ấy có kinh nghiệm quản lý nào không?",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "microscope",
+          "meaning": "kính hiển vi",
+          "pronunciation": "/ˈmaɪ.krə.skoʊp/",
+          "type": "noun",
+          "example": "The bacteria were then examined under the microscope.",
+          "exampleMeaning": "Sau đó, vi khuẩn được kiểm tra dưới kính hiển vi.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "mineral",
+          "meaning": "khoáng chất",
+          "pronunciation": "/ˈmɪn.ər.əl/",
+          "type": "noun",
+          "example": "Low bone mineral density is linked with vitamin deficiency.",
+          "exampleMeaning": "Mật độ khoáng chất xương thấp có liên quan đến sự thiếu hụt vitamin.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "mislead",
+          "meaning": "làm cho lạc đường; lừa dối",
+          "pronunciation": "/ˌmɪsˈliːd/",
+          "type": "verb",
+          "example": "He deliberately misled us about the nature of their relationship.",
+          "exampleMeaning": "Anh ấy cố ý lừa dối chúng tôi về bản chất mối quan hệ của họ.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "misplace",
+          "meaning": "để nhầm chỗ",
+          "pronunciation": "/mɪsˈpleɪs/",
+          "type": "verb",
+          "example": "He misplaces his reading glasses with such regularity that aides carry extras.",
+          "exampleMeaning": "Anh ấy thường xuyên để lạc kính đọc sách đến mức các trợ lý phải mang kính dự phòng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "motorcycle",
+          "meaning": "Xe môtô",
+          "pronunciation": "/ˈməʊ.təˌsaɪ.kəl/",
+          "type": "noun",
+          "example": "He never learned to ride a motorcycle or to drive a car.",
+          "exampleMeaning": "Anh ấy chưa bao giờ học lái xe máy hoặc lái ô tô.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "necessity",
+          "meaning": "vật dụng cần thiết",
+          "pronunciation": "/nəˈses.ə.ti/",
+          "type": "noun",
+          "example": "Many people cannot even afford basic necessities such as food and clothing.",
+          "exampleMeaning": "Nhiều người thậm chí không đủ khả năng mua các nhu yếu phẩm cơ bản như thực phẩm và quần áo.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "newsstand",
+          "meaning": "quầy bán báo",
+          "pronunciation": "/ˈnjuːz.stænd/",
+          "type": "noun",
+          "example": "It is the best-selling holiday magazine on the newsstand.",
+          "exampleMeaning": "Đây là tạp chí bán chạy nhất trong mùa lễ trên quầy báo.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "overhead",
+          "meaning": "chi phí cố định của một doanh nghiệp",
+          "pronunciation": "/ˈoʊ.vɚ.hed/",
+          "type": "noun",
+          "example": "One way of increasing profit margins is to cut overhead costs.",
+          "exampleMeaning": "Một cách để tăng tỷ suất lợi nhuận là cắt giảm chi phí cố định.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "planner",
+          "meaning": "người đặt kế hoạch",
+          "pronunciation": "/ˈplæn.ər/",
+          "type": "noun",
+          "example": "It is designed as a guide for curriculum planners and materials writers.",
+          "exampleMeaning": "Nó được thiết kế như một hướng dẫn cho các nhà lập kế hoạch giáo án và viết tài liệu.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "portfolio",
+          "meaning": "danh mục đầu tư (của công ty, ngân hàng)",
+          "pronunciation": "/pɔːrtˈfəʊ.li.əʊ/",
+          "type": "noun",
+          "example": "These funds are less risky because you hold a portfolio selected and monitored by a specialist manager.",
+          "exampleMeaning": "Những quỹ này ít rủi ro hơn vì bạn nắm giữ một danh mục được chọn và giám sát bởi một nhà quản lý chuyên gia.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "programmer",
+          "meaning": "lập trình viên",
+          "pronunciation": "/ˈprəʊ.ɡræm.ər/",
+          "type": "noun",
+          "example": "He used to work as a computer programmer for a software company.",
+          "exampleMeaning": "Anh ấy từng làm việc như một lập trình viên máy tính cho một công ty phần mềm.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "proofread",
+          "meaning": "Đọc rà soát (để tìm ra lỗi)",
+          "pronunciation": "/ˈpruːf.riːd/",
+          "type": "verb",
+          "example": "Tondra proofreads (books) for a small publishing company.",
+          "exampleMeaning": "Tondra hiệu đính (sách) cho một công ty xuất bản nhỏ.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "rack",
+          "meaning": "giá đỡ, kệ để đồ",
+          "pronunciation": "/ræk/",
+          "type": "noun",
+          "example": "I looked through a rack of clothes at the back of the shop.",
+          "exampleMeaning": "Tôi nhìn qua một giá quần áo ở phía sau cửa hàng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "recruiter",
+          "meaning": "nhà tuyển dụng",
+          "pronunciation": "/rɪˈkruː.tər/",
+          "type": "noun",
+          "example": "Executive recruiters placed him in two previous jobs.",
+          "exampleMeaning": "Những người tuyển dụng điều hành đã đặt anh ấy vào hai công việc trước đây.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "remainder",
+          "meaning": "phần còn lại, phần dư",
+          "pronunciation": "/rɪˈmeɪn.dər/",
+          "type": "noun",
+          "example": "It rained the first day but was sunny for the remainder of the trip.",
+          "exampleMeaning": "Ngày đầu tiên trời mưa nhưng những ngày còn lại của chuyến đi thì nắng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "remodel",
+          "meaning": "tu sửa",
+          "pronunciation": "/ˌriːˈmɒd.əl/",
+          "type": "verb",
+          "example": "The warehouse is being cleaned and will be remodeled into 20 lofts.",
+          "exampleMeaning": "Nhà kho đang được dọn sạch và sẽ được cải tạo thành 20 căn gác xép.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "rose",
+          "meaning": "hoa hồng",
+          "pronunciation": "/rəʊz/",
+          "type": "noun",
+          "example": "A rose is the national emblem of England.",
+          "exampleMeaning": "Một bông hồng là biểu tượng quốc gia của nước Anh.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "statistics",
+          "meaning": "số liệu thống kê",
+          "pronunciation": "/stəˈtɪs.tɪks/",
+          "type": "noun",
+          "example": "The statistics show that, in general, women live longer than men.",
+          "exampleMeaning": "Thống kê cho thấy rằng, nói chung, phụ nữ sống lâu hơn đàn ông.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "statue",
+          "meaning": "tượng",
+          "pronunciation": "/ˈstætʃ.uː/",
+          "type": "noun",
+          "example": "In the centre of the hall stood a colossal wooden statue, decorated in ivory and gold.",
+          "exampleMeaning": "Ở trung tâm của đại sảnh đứng một bức tượng gỗ khổng lồ, được trang trí bằng ngà voi và vàng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "steadily",
+          "meaning": "một cách đều đặn, từ từ",
+          "pronunciation": "/ˈsted.əl.i/",
+          "type": "adverb",
+          "example": "Prices have been rising steadily during the summer.",
+          "exampleMeaning": "Giá cả đã tăng đều đặn trong suốt mùa hè.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "stockholder",
+          "meaning": "cổ đông, người góp vốn",
+          "pronunciation": "/ˈstɒkˌhəʊl.dər/",
+          "type": "noun",
+          "example": "Stockholders will be voting on the proposed merger of the companies next week.",
+          "exampleMeaning": "Các cổ đông sẽ bỏ phiếu về việc sáp nhập các công ty được đề xuất vào tuần tới.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "superior",
+          "meaning": "cấp trên",
+          "pronunciation": "/suːˈpɪəriər/",
+          "type": "noun",
+          "example": "I will pass your complaint on to my superiors.",
+          "exampleMeaning": "Tôi sẽ chuyển lời phàn nàn của bạn tới cấp trên của tôi.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "tunnel",
+          "meaning": "đường hầm",
+          "pronunciation": "/ˈtʌn.əl/",
+          "type": "noun",
+          "example": "The tunnel was dug with the aid of heavy machinery.",
+          "exampleMeaning": "Đường hầm được đào với sự hỗ trợ của máy móc hạng nặng.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "unlimited",
+          "meaning": "không giới hạn",
+          "pronunciation": "/ʌnˈlɪm.ɪ.tɪd/",
+          "type": "adjective",
+          "example": "Passes are available for one month's unlimited travel within Europe.",
+          "exampleMeaning": "Vé có sẵn cho một tháng đi lại không giới hạn trong châu Âu.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "vacant",
+          "meaning": "trống không",
+          "pronunciation": "/ˈveɪ.kənt/",
+          "type": "adjective",
+          "example": "The hospital has no vacant beds.",
+          "exampleMeaning": "Bệnh viện không còn giường trống.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "vitamin",
+          "meaning": "vitamin",
+          "pronunciation": "/ˈvɪt.ə.mɪn/",
+          "type": "noun",
+          "example": "A diet deficient in vitamin D may cause the disease rickets.",
+          "exampleMeaning": "Một chế độ ăn thiếu vitamin D có thể gây ra bệnh còi xương.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "zoo",
+          "meaning": "sở thú",
+          "pronunciation": "/zuː/",
+          "type": "noun",
+          "example": "The bad weather really took the gloss off our trip to the zoo.",
+          "exampleMeaning": "Thời tiết xấu thực sự làm mất vẻ đẹp chuyến đi của chúng tôi đến sở thú.",
+          "note": "Từ vựng List 10"
+        }
+      ]
+    }
+  ]
+}
