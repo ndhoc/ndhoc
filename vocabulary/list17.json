@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_17",
+      "name": "List 17",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "amateur",
+          "meaning": "người mới bắt đầu, dân nghiệp dư",
+          "pronunciation": "/ˈæm.ə.tʃər/",
+          "type": "noun",
+          "example": "This tennis tournament is open to both amateurs and professionals.",
+          "exampleMeaning": "Giải đấu quần vợt này dành cho cả người nghiệp dư và chuyên nghiệp.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "ambassador",
+          "meaning": "đại sứ, người đại diện (thường cho một quốc gia)",
+          "pronunciation": "/æmˈbæs.ə.dər/",
+          "type": "noun",
+          "example": "She's a former ambassador to the United States.",
+          "exampleMeaning": "Cô ấy là cựu đại sứ tại Hoa Kỳ.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "anew",
+          "meaning": "bắt đầu lại từ đầu, một lần nữa",
+          "pronunciation": "/əˈnjuː/",
+          "type": "adverb",
+          "example": "The film tells anew the story of his rise to fame and power.",
+          "exampleMeaning": "Bộ phim kể lại câu chuyện về sự nổi tiếng và quyền lực của anh ấy.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "architectural",
+          "meaning": "thuộc về kiến trúc",
+          "pronunciation": "/ˌɑːkɪˈtek.tʃər.əl/",
+          "type": "adjective",
+          "example": "Several architectural styles are being considered for the proposed housing development.",
+          "exampleMeaning": "Có nhiều phong cách kiến trúc đang được xem xét cho khu phát triển nhà ở được đề xuất.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "attain",
+          "meaning": "để có được hoặc đạt được",
+          "pronunciation": "/əˈteɪn/",
+          "type": "verb",
+          "example": "We need to identify the best ways of attaining our objectives.",
+          "exampleMeaning": "Chúng ta cần xác định những cách tốt nhất để đạt được các mục tiêu của mình.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "balloon",
+          "meaning": "bóng bay",
+          "pronunciation": "/bəˈluːn/",
+          "type": "noun",
+          "example": "She pricked the balloon with a pin and it burst with a loud bang.",
+          "exampleMeaning": "Cô ấy chọc quả bóng bay bằng một cây kim và nó nổ tung với một tiếng đùng lớn.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "blueprint",
+          "meaning": "bản vẽ thiết kế",
+          "pronunciation": "/ˈbluː.prɪnt/",
+          "type": "noun",
+          "example": "The report provided a blueprint for relieving the county's crowded jail facilities.",
+          "exampleMeaning": "Báo cáo đã cung cấp một kế hoạch chi tiết để giảm bớt tình trạng quá tải của các cơ sở nhà tù trong quận.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "bug",
+          "meaning": "con bọ, côn trùng nhỏ",
+          "pronunciation": "/bʌɡ/",
+          "type": "noun",
+          "example": "Will this spray get rid of those little black bugs that are attacking my shrubs?",
+          "exampleMeaning": "Liệu chai xịt này có thể loại bỏ những con bọ nhỏ màu đen đang tấn công cây bụi của tôi không?",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "cautious",
+          "meaning": "cẩn thận, cảnh giác",
+          "pronunciation": "/ˈkɔː.ʃəs/",
+          "type": "adjective",
+          "example": "Most doctors are cautious about advising you to have surgery.",
+          "exampleMeaning": "Hầu hết các bác sĩ đều thận trọng khi khuyên bạn phẫu thuật.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "circuit",
+          "meaning": "đường đi vòng quanh",
+          "pronunciation": "/ˈsɜː.kɪt/",
+          "type": "noun",
+          "example": "They test the car tyres on a motor racing circuit.",
+          "exampleMeaning": "Họ thử nghiệm lốp xe trên một đường đua xe mô tô.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "clap",
+          "meaning": "vỗ tay",
+          "pronunciation": "/klæp/",
+          "type": "verb",
+          "example": "The band played a familiar tune which had everyone clapping along.",
+          "exampleMeaning": "Ban nhạc đã chơi một giai điệu quen thuộc khiến mọi người đều vỗ tay theo.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "commerce",
+          "meaning": "thương mại, kinh doanh, công nghiệp",
+          "pronunciation": "/ˈkɒm.ɜːs/",
+          "type": "noun",
+          "example": "Online commerce is expected to continue to increase.",
+          "exampleMeaning": "Thương mại trực tuyến dự kiến sẽ tiếp tục gia tăng.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "convey",
+          "meaning": "truyền đạt, truyển tải",
+          "pronunciation": "/kənˈveɪ/",
+          "type": "verb",
+          "example": "Few journalists have managed to convey the full horror of the situation.",
+          "exampleMeaning": "Rất ít nhà báo có thể truyền tải đầy đủ sự kinh hoàng của tình hình.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "cord",
+          "meaning": "dây cáp điện",
+          "pronunciation": "/kɔːd/",
+          "type": "noun",
+          "example": "Each lamp has an electrical cord that leads from the top of the star.",
+          "exampleMeaning": "Mỗi đèn có một sợi dây điện dẫn từ đỉnh của ngôi sao.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "counselor",
+          "meaning": "tham vấn viên, cố vấn",
+          "pronunciation": "/ˈkaʊn.səl.ɚ/",
+          "type": "noun",
+          "example": "The college now has a counselor to help students with both personal and work problems.",
+          "exampleMeaning": "Trường đại học hiện có một cố vấn để giúp sinh viên với cả vấn đề cá nhân và công việc.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "debit",
+          "meaning": "sự ghi nợ",
+          "pronunciation": "/ˈdeb.ɪt/",
+          "type": "noun",
+          "example": "Once your contract with them ends, the company should no longer take monthly debits from your account.",
+          "exampleMeaning": "Một khi hợp đồng của bạn với họ kết thúc, công ty không nên tiếp tục trừ tiền hàng tháng từ tài khoản của bạn nữa.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "delicate",
+          "meaning": "mỏng manh, dễ tổn thương",
+          "pronunciation": "/ˈdelɪkət/",
+          "type": "adjective",
+          "example": "Delicate plants need to be kept in a greenhouse during the winter.",
+          "exampleMeaning": "Những cây trồng mong manh cần được giữ trong nhà kính vào mùa đông.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "dependence",
+          "meaning": "sự phụ thuộc",
+          "pronunciation": "/dɪˈpen.dəns/",
+          "type": "noun",
+          "example": "The company needs to reduce its dependence on just one particular product.",
+          "exampleMeaning": "Công ty cần giảm sự phụ thuộc vào chỉ một sản phẩm cụ thể.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "distraction",
+          "meaning": "sự làm xao lãng",
+          "pronunciation": "/dɪˈstræk.ʃən/",
+          "type": "noun",
+          "example": "It's impossible to work with all this distraction.",
+          "exampleMeaning": "Không thể làm việc với tất cả sự sao lãng này.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "downsize",
+          "meaning": "Giảm kích thước hoặc số",
+          "pronunciation": "/ˈdaʊnˌsaɪz/",
+          "type": "verb",
+          "example": "The plight of the economy is forcing businesses to downsize.",
+          "exampleMeaning": "Tình trạng khó khăn của nền kinh tế đang buộc các doanh nghiệp phải thu nhỏ quy mô.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "elephant",
+          "meaning": "con voi",
+          "pronunciation": "/ˈel.ɪ.fənt/",
+          "type": "noun",
+          "example": "Measures must be taken to protect the world's depleted elephant population.",
+          "exampleMeaning": "Các biện pháp phải được thực hiện để bảo vệ dân số voi cạn kiệt của thế giới.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "enthusiasm",
+          "meaning": "sự hăng hái, sự nhiệt tình",
+          "pronunciation": "/ɪnˈθjuː.zi.æz.əm/",
+          "type": "noun",
+          "example": "One of the good things about teaching young children is their enthusiasm.",
+          "exampleMeaning": "Một trong những điều tốt đẹp về việc dạy trẻ nhỏ là sự nhiệt tình của chúng.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "enthusiast",
+          "meaning": "người đam mê về điều gì đó",
+          "pronunciation": "/ɪnˈθjuː.zi.æst/",
+          "type": "noun",
+          "example": "It is certain to appeal to field-sports enthusiasts and to nature lovers.",
+          "exampleMeaning": "Chắc chắn sẽ thu hút những người đam mê các môn thể thao ngoài trời và những người yêu thiên nhiên.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "evident",
+          "meaning": "hiển nhiên, rõ ràng",
+          "pronunciation": "/ˈev.ɪ.dənt/",
+          "type": "adjective",
+          "example": "The full extent of the damage only became evident the following morning.",
+          "exampleMeaning": "Mức độ thiệt hại chỉ trở nên rõ ràng vào sáng hôm sau.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "flexibility",
+          "meaning": "tính linh hoạt, tính linh động",
+          "pronunciation": "/ˌflɛk.səˈbɪl.ə.ti/",
+          "type": "noun",
+          "example": "The standards were established to allow greater flexibility in court decisions.",
+          "exampleMeaning": "Các tiêu chuẩn được thiết lập để cho phép linh hoạt hơn trong các quyết định của tòa án.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "flextime",
+          "meaning": "hệ thống giờ làm việc linh hoạt",
+          "pronunciation": "/ˈfleks.taɪm/",
+          "type": "noun",
+          "example": "For employers, flextime can aid the recruitment and retention of staff.",
+          "exampleMeaning": "Đối với các nhà tuyển dụng, thời gian linh hoạt có thể hỗ trợ việc tuyển dụng và giữ chân nhân viên.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "fortunately",
+          "meaning": "một cách may mắn, may mắn thay",
+          "pronunciation": "/ˈfɔː.tʃən.ət.li/",
+          "type": "adverb",
+          "example": "Finally the agency sent the girl to go and find them, which she fortunately did.",
+          "exampleMeaning": "Cuối cùng thì cơ quan đã cử cô gái đi tìm họ, và may mắn thay cô ấy đã làm được.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "freighter",
+          "meaning": "Tàu chở hàng",
+          "pronunciation": "/ˈfreɪ.tər/",
+          "type": "noun",
+          "example": "This will allow freighters to drop parts of their cargo when they are destroyed, just like other ships.",
+          "exampleMeaning": "Điều này sẽ cho phép tàu chở hàng thả các phần của hàng hóa khi chúng bị phá hủy, giống như các tàu khác.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "generator",
+          "meaning": "máy phát điện",
+          "pronunciation": "/ˈdʒen.ə.reɪ.tər/",
+          "type": "noun",
+          "example": "The hospital's emergency generators are designed to cope with power cuts.",
+          "exampleMeaning": "Các máy phát điện dự phòng của bệnh viện được thiết kế để đối phó với các sự cố mất điện.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "hallway",
+          "meaning": "hành lang",
+          "pronunciation": "/ˈhɔːl.weɪ/",
+          "type": "noun",
+          "example": "The buyers reportedly have a large hallway in which to display their new purchase.",
+          "exampleMeaning": "Theo báo cáo, những người mua có một hành lang lớn để trưng bày món hàng mới của họ.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "hamburger",
+          "meaning": "bánh mì kẹp thịt xay",
+          "pronunciation": "/ˈhæmˌbɜː.ɡər/",
+          "type": "noun",
+          "example": "Go anywhere in the world and you'll find some sort of hamburger restaurant.",
+          "exampleMeaning": "Đi bất cứ đâu trên thế giới, bạn sẽ thấy một nhà hàng hamburger nào đó.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "hazard",
+          "meaning": "mối nguy",
+          "pronunciation": "/ˈhæz.əd/",
+          "type": "noun",
+          "example": "The busy traffic entrance was a hazard to pedestrians.",
+          "exampleMeaning": "Lối vào giao thông bận rộn là một mối nguy hiểm cho người đi bộ.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "homeowner",
+          "meaning": "chủ nhà, người sở hữu nhà",
+          "pronunciation": "/ˈhəʊmˌəʊ.nər/",
+          "type": "noun",
+          "example": "Many homeowners do not have enough insurance for their property.",
+          "exampleMeaning": "Nhiều chủ nhà không có đủ bảo hiểm cho tài sản của họ.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "imperative",
+          "meaning": "rất quan trọng và khẩn cấp",
+          "pronunciation": "/ɪmˈper.ə.tɪv/",
+          "type": "adjective",
+          "example": "It's imperative to act now before the problem gets really serious.",
+          "exampleMeaning": "Điều cấp bách là phải hành động ngay trước khi vấn đề trở nên thực sự nghiêm trọng.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "inflate",
+          "meaning": "thổi phồng, bơm phồng",
+          "pronunciation": "/ɪnˈfleɪt/",
+          "type": "verb",
+          "example": "They inflated their part in the rescue every time they told the story.",
+          "exampleMeaning": "Họ đã phóng đại vai trò của mình trong cuộc cứu hộ mỗi khi kể lại câu chuyện.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "insert",
+          "meaning": "chèn vào, thêm vào",
+          "pronunciation": "/ɪnˈsɜːt/",
+          "type": "verb",
+          "example": "The program will automatically insert the replacement text.",
+          "exampleMeaning": "Chương trình sẽ tự động chèn văn bản thay thế.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "lecturer",
+          "meaning": "người hướng dẫn hoặc giảng viên đại học",
+          "pronunciation": "/ˈlek.tʃər.ər/",
+          "type": "noun",
+          "example": "Obviously, university lecturers have so much knowledge and experience that you can gain from.",
+          "exampleMeaning": "Rõ ràng là các giảng viên đại học có rất nhiều kiến thức và kinh nghiệm mà bạn có thể học hỏi.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "meaningful",
+          "meaning": "có ý nghĩa hoặc mục đích",
+          "pronunciation": "/ˈmiː.nɪŋ.fəl/",
+          "type": "adjective",
+          "example": "She believes these talks will be the start of a constructive and meaningful dialogue.",
+          "exampleMeaning": "Cô ấy tin rằng những cuộc trò chuyện này sẽ là khởi đầu của một cuộc đối thoại có tính xây dựng và ý nghĩa.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "memorize",
+          "meaning": "ghi nhớ",
+          "pronunciation": "/ˈmem.ə.raɪz/",
+          "type": "verb",
+          "example": "Each night I tried to memorize long lists of verbs.",
+          "exampleMeaning": "Mỗi đêm tôi cố gắng học thuộc lòng danh sách dài các động từ.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "merchant",
+          "meaning": "thương gia",
+          "pronunciation": "/ˈmɜː.tʃənt/",
+          "type": "noun",
+          "example": "Venice was once a city of rich merchants.",
+          "exampleMeaning": "Venice từng là một thành phố của những thương gia giàu có.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "modification",
+          "meaning": "sự điều chỉnh",
+          "pronunciation": "/ˌmɒdɪfɪˈkeɪʃən/",
+          "type": "noun",
+          "example": "Considerable modification of the existing system is needed.",
+          "exampleMeaning": "Cần có sự sửa đổi đáng kể hệ thống hiện tại.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "occupant",
+          "meaning": "người cư trú, người sử dụng",
+          "pronunciation": "/ˈɒk.jə.pənt/",
+          "type": "noun",
+          "example": "All outstanding bills will be paid by the previous occupants.",
+          "exampleMeaning": "Tất cả các hóa đơn đặc biệt sẽ được thanh toán bởi những người ở trước.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "reproduce",
+          "meaning": "sao chép lại, mô phỏng",
+          "pronunciation": "/ˌriː.prəˈduːs/",
+          "type": "verb",
+          "example": "His work was reproduced on leaflets and magazines.",
+          "exampleMeaning": "Tác phẩm của anh ấy đã được tái tạo trên tờ rơi và tạp chí.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "spray",
+          "meaning": "xịt, phun",
+          "pronunciation": "/spreɪ/",
+          "type": "verb",
+          "example": "She sprayed herself with perfume.",
+          "exampleMeaning": "Cô ấy xịt nước hoa lên người.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "staple",
+          "meaning": "kim bấm",
+          "pronunciation": "/ˈsteɪ.pəl/",
+          "type": "noun",
+          "example": "Put a staple in the upper left-hand corner.",
+          "exampleMeaning": "Đặt một cái ghim ở góc trên bên trái.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "strategic",
+          "meaning": "thuộc về chiến lược",
+          "pronunciation": "/strəˈtiː.dʒɪk/",
+          "type": "adjective",
+          "example": "Cameras were set up at strategic points (= in places where they would be most effective) along the route.",
+          "exampleMeaning": "Máy quay được đặt tại các điểm chiến lược (= ở những nơi mà chúng sẽ có hiệu quả nhất) dọc theo tuyến đường.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "stripe",
+          "meaning": "vạch sọc",
+          "pronunciation": "/straɪp/",
+          "type": "noun",
+          "example": "The zebra is a wild African horse with black and white stripes.",
+          "exampleMeaning": "Ngựa vằn là một loài ngựa hoang dã ở châu Phi với các vằn đen và trắng.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "teen",
+          "meaning": "tuổi teen (độ tuổi nằm trong khoản 13 - 19 tuổi)",
+          "pronunciation": "/tiːn/",
+          "type": "noun",
+          "example": "Amazingly, all the performers are still in their teens.",
+          "exampleMeaning": "Thật ngạc nhiên, tất cả các nghệ sĩ biểu diễn đều vẫn còn ở tuổi thiếu niên.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "tempt",
+          "meaning": "xúi giục",
+          "pronunciation": "/tempt/",
+          "type": "verb",
+          "example": "The offer of free credit tempted her into buying a new car.",
+          "exampleMeaning": "Lời đề nghị tín dụng miễn phí đã khiến cô ấy mua một chiếc xe mới.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "timer",
+          "meaning": "thiết bị bấm giờ",
+          "pronunciation": "/ˈtaɪ.mər/",
+          "type": "noun",
+          "example": "He set the timer on the oven to/for 20 minutes (= to record when 20 minutes had gone past).",
+          "exampleMeaning": "Anh ấy đặt hẹn giờ trên lò nướng trong 20 phút (= để ghi lại khi 20 phút đã trôi qua).",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "unload",
+          "meaning": "dỡ hàng",
+          "pronunciation": "/ʌnˈləʊd/",
+          "type": "verb",
+          "example": "Trucking companies are trying to cut the time drivers spend waiting in line to load or unload.",
+          "exampleMeaning": "Các công ty vận tải đang cố gắng giảm thời gian chờ đợi của tài xế khi xếp hoặc dỡ hàng.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "unusually",
+          "meaning": "không bình thường",
+          "pronunciation": "/ʌnˈjuː.ʒu.ə.li/",
+          "type": "adverb",
+          "example": "We had unusually warm weather in December.",
+          "exampleMeaning": "Chúng tôi đã có thời tiết ấm áp bất thường vào tháng Mười Hai.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "vacate",
+          "meaning": "để trống; di chuyển ra khỏi",
+          "pronunciation": "/veɪˈkeɪt/",
+          "type": "verb",
+          "example": "Hotel guests are requested to vacate their rooms by noon.",
+          "exampleMeaning": "Khách sạn yêu cầu khách trả phòng trước buổi trưa.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "whale",
+          "meaning": "cá voi",
+          "pronunciation": "/weɪl/",
+          "type": "noun",
+          "example": "The communicative ability of the whale is thought to be highly developed.",
+          "exampleMeaning": "Khả năng giao tiếp của cá voi được cho là phát triển cao.",
+          "note": "Từ vựng List 17"
+        },
+        {
+          "word": "wisely",
+          "meaning": "một cách khôn khéo",
+          "pronunciation": "/ˈwaɪz.li/",
+          "type": "adverb",
+          "example": "Sienna had very wisely left the party before all the trouble started.",
+          "exampleMeaning": "Sienna đã rất khôn ngoan rời khỏi bữa tiệc trước khi mọi rắc rối bắt đầu.",
+          "note": "Từ vựng List 17"
+        }
+      ]
+    }
+  ]
+}
