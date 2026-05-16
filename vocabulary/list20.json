@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_20",
+      "name": "List 20",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "compliance",
+          "meaning": "hành động tuân theo các quy tắc",
+          "pronunciation": "/kəmˈplaɪ.əns/",
+          "type": "noun",
+          "example": "The company said that it had always acted in compliance with environmental laws.",
+          "exampleMeaning": "Công ty cho biết rằng họ luôn tuân thủ các luật về môi trường.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "contraction",
+          "meaning": "sự co lại, sự thu nhỏ lại",
+          "pronunciation": "/kənˈtræk.ʃən/",
+          "type": "noun",
+          "example": "Cold causes contraction of the metal.",
+          "exampleMeaning": "Lạnh gây ra sự co rút của kim loại.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "cookbook",
+          "meaning": "một cuốn sách đưa ra hướng dẫn về cách chuẩn bị và nấu thức ăn",
+          "pronunciation": "/ˈkʊk.bʊk/",
+          "type": "noun",
+          "example": "The recipe is in that cookbook and most of the ingredients are sitting out on the counter I think.",
+          "exampleMeaning": "Công thức nằm trong quyển sách nấu ăn đó và hầu hết các nguyên liệu đang được bày ra trên quầy, tôi nghĩ vậy.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "cushion",
+          "meaning": "cái đệm, cái nệm",
+          "pronunciation": "/ˈkʊʃ.ən/",
+          "type": "noun",
+          "example": "The new yellow cushions nicely set off the pale green of the chair covers.",
+          "exampleMeaning": "Những chiếc gối mới màu vàng làm nổi bật màu xanh nhạt của những tấm bọc ghế.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "dose",
+          "meaning": "liều lượng",
+          "pronunciation": "/dəʊs/",
+          "type": "noun",
+          "example": "The label says to take one dose three times a day.",
+          "exampleMeaning": "Nhãn ghi uống một liều ba lần một ngày.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "drum",
+          "meaning": "cái trống",
+          "pronunciation": "/drʌm/",
+          "type": "noun",
+          "example": "The drums and double bass usually form the rhythm section of a jazz group.",
+          "exampleMeaning": "Trống và âm trầm thường tạo thành phần nhịp điệu của một nhóm nhạc jazz.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "embed",
+          "meaning": "ấn vào, đóng vào, gắn vào",
+          "pronunciation": "/ɪmˈbed/",
+          "type": "verb",
+          "example": "When you upload a video, you get a code to embed it in your site.",
+          "exampleMeaning": "Khi bạn tải video lên, bạn sẽ nhận được mã để nhúng nó vào trang web của bạn.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "evacuate",
+          "meaning": "sơ tán",
+          "pronunciation": "/ɪˈvæk.ju.eɪt/",
+          "type": "verb",
+          "example": "The police evacuated the village shortly before the explosion.",
+          "exampleMeaning": "Cảnh sát đã sơ tán ngôi làng ngay trước vụ nổ.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "expedite",
+          "meaning": "xúc tiến, đẩy nhanh",
+          "pronunciation": "/ˈek.spə.daɪt/",
+          "type": "verb",
+          "example": "We're trying to expedite the process of reviewing applications.",
+          "exampleMeaning": "Chúng tôi đang cố gắng đẩy nhanh quá trình xem xét đơn xin.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "extinguisher",
+          "meaning": "bình chữa cháy",
+          "pronunciation": "/ɪkˈstɪŋ.ɡwɪ.ʃər/",
+          "type": "noun",
+          "example": "Decorations must not obstruct fire escape signage, fire extinguishers, and emergency lighting.",
+          "exampleMeaning": "Trang trí không được che khuất biển báo lối thoát hiểm, bình chữa cháy và đèn chiếu sáng khẩn cấp.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "familiarity",
+          "meaning": "sự quen thuộc",
+          "pronunciation": "/fəˌmɪl.iˈær.ə.ti/",
+          "type": "noun",
+          "example": "Harry's familiarity with the city makes him a good tour guide.",
+          "exampleMeaning": "Harry quen thuộc với thành phố khiến anh ấy trở thành một hướng dẫn viên du lịch giỏi.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "flaw",
+          "meaning": "khuyết điểm, lỗi hỏng",
+          "pronunciation": "/flɔː/",
+          "type": "noun",
+          "example": "A flaw in the steering mechanism led to a recall of 200,000 cars.",
+          "exampleMeaning": "Một lỗi trong cơ chế lái dẫn đến việc thu hồi 200.000 xe.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "fluctuate",
+          "meaning": "dao động, thay đổi bất thường",
+          "pronunciation": "/ˈflʌk.tʃu.eɪt/",
+          "type": "verb",
+          "example": "Vegetable prices fluctuate according to the season.",
+          "exampleMeaning": "Giá rau dao động theo mùa.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "fluent",
+          "meaning": "lưu loát, trôi chảy",
+          "pronunciation": "/ˈfluː.ənt/",
+          "type": "adjective",
+          "example": "She's fluent in French and English and has a working knowledge of Spanish.",
+          "exampleMeaning": "Cô ấy thông thạo tiếng Pháp và tiếng Anh và có kiến thức làm việc về tiếng Tây Ban Nha.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "honestly",
+          "meaning": "Thực sự, một cách thành thật",
+          "pronunciation": "/ˈɒnɪstli/",
+          "type": "adverb",
+          "example": "They have always dealt honestly and fairly with their customers.",
+          "exampleMeaning": "Họ luôn xử lý một cách trung thực và công bằng với khách hàng của mình.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "housekeep",
+          "meaning": "chăm sóc và dọn dẹp nhà cửa",
+          "pronunciation": "/ˈhaʊs.kiːp/",
+          "type": "verb",
+          "example": "My first job was in Lake Louise, Alberta, in the summer season where I housekept for Paradise Lodge and Bungalows.",
+          "exampleMeaning": "Công việc đầu tiên của tôi là ở Lake Louise, Alberta, vào mùa hè, nơi tôi làm dọn dẹp cho Paradise Lodge và Bungalows.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "hurricane",
+          "meaning": "bão nhiệt đới",
+          "pronunciation": "/ˈhʌr.ɪ.kən/, /-keɪn/",
+          "type": "noun",
+          "example": "The state of Florida was hit by a hurricane that did serious damage.",
+          "exampleMeaning": "Bang Florida vừa bị tấn công bởi một cơn bão gây thiệt hại nghiêm trọng.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "hygiene",
+          "meaning": "vệ sinh",
+          "pronunciation": "/ˈhaɪ.dʒiːn/",
+          "type": "noun",
+          "example": "Poor standards of hygiene mean that the disease spreads fast.",
+          "exampleMeaning": "Tiêu chuẩn vệ sinh kém có nghĩa là bệnh lây lan nhanh.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "integral",
+          "meaning": "quan trọng, thiết yếu",
+          "pronunciation": "/ˈɪn.tɪ.ɡrəl/",
+          "type": "adjective",
+          "example": "Music is an integral part of the school's curriculum.",
+          "exampleMeaning": "Âm nhạc là một phần không thể thiếu của chương trình giảng dạy của trường.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "interactive",
+          "meaning": "tương tác lẫn nhau",
+          "pronunciation": "/ˌɪn.təˈræk.tɪv/",
+          "type": "adjective",
+          "example": "The school believes in interactive teaching methods.",
+          "exampleMeaning": "Nhà trường tin tưởng vào các phương pháp giảng dạy tương tác.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "interfere",
+          "meaning": "can thiệp, xen vào",
+          "pronunciation": "/ˌɪntəˈfɪər/",
+          "type": "verb",
+          "example": "The police are very unwilling to interfere in family problems.",
+          "exampleMeaning": "Cảnh sát rất không muốn can thiệp vào các vấn đề gia đình.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "kilogram",
+          "meaning": "kilôgam (một đơn vị trọng lượng; Một kg có cùng trọng lượng với 2,2 pounds",
+          "pronunciation": "/ˈkɪl.ə.ɡræm/",
+          "type": "noun",
+          "example": "Flour is sold by the kilogram.",
+          "exampleMeaning": "Bột mì được bán theo kilôgam.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "layoff",
+          "meaning": "hành động của chủ lao động đình chỉ hoặc chấm dứt công việc của một nhân viên, tạm thời hoặc vĩnh viễn, vì những lí do ngoài hiệu suất thực tế của nhân viên.",
+          "pronunciation": "/ˈleɪ.ɒf/",
+          "type": "noun",
+          "example": "Store closures will result in layoffs of an estimated 2,000 employees",
+          "exampleMeaning": "Việc đóng cửa cửa hàng sẽ dẫn đến việc sa thải khoảng 2.000 nhân viên",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "lightweight",
+          "meaning": "nhẹ cân",
+          "pronunciation": "/ˈlaɪt.weɪt/",
+          "type": "adjective",
+          "example": "By the age of sixteen he was the junior lightweight champion of Poland.",
+          "exampleMeaning": "Đến năm mười sáu tuổi, anh là nhà vô địch hạng nhẹ trẻ của Ba Lan.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "merit",
+          "meaning": "xứng đáng",
+          "pronunciation": "/ˈmer.ɪt/",
+          "type": "verb",
+          "example": "He claims that their success was not merited.",
+          "exampleMeaning": "Anh ấy cho rằng thành công của họ không đáng có.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "necklace",
+          "meaning": "vòng cổ, dây chuyền",
+          "pronunciation": "/ˈnek.ləs/",
+          "type": "noun",
+          "example": "...a diamond necklace and matching earrings.",
+          "exampleMeaning": "...một chiếc vòng cổ kim cương và đôi bông tai phù hợp.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "needy",
+          "meaning": "những người nghèo và không có đủ để sống",
+          "pronunciation": "/ˈniː.di/",
+          "type": "noun",
+          "example": "help for the homeless and the needy",
+          "exampleMeaning": "giúp đỡ những người vô gia cư và người nghèo",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "overpay",
+          "meaning": "trả tiền quá cao",
+          "pronunciation": "/ˌoʊ.vɚˈpeɪ/",
+          "type": "verb",
+          "example": "I think he's grossly overpaid for what he does.",
+          "exampleMeaning": "Tôi nghĩ anh ta được trả lương quá cao so với những gì anh ta làm.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "pamphlet",
+          "meaning": "một quyến sách nhỏ hay một tập sách chứa đựng những thông tin chung về một chủ đề nào đấy",
+          "pronunciation": "/ˈpæm.flət/",
+          "type": "noun",
+          "example": "The government provides a pamphlet for all immigrants, outlining their rights.",
+          "exampleMeaning": "Chính phủ cung cấp một cuốn sách nhỏ cho tất cả người nhập cư, nêu rõ quyền lợi của họ.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "partial",
+          "meaning": "một phần",
+          "pronunciation": "/ˈpɑː.ʃəl/",
+          "type": "adjective",
+          "example": "His efforts met with only partial success.",
+          "exampleMeaning": "Những nỗ lực của anh ấy chỉ đạt được thành công một phần.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "penalize",
+          "meaning": "phạt",
+          "pronunciation": "/ˈpiː.nəl.aɪz/",
+          "type": "verb",
+          "example": "Students will be penalized for mistakes in spelling and grammar.",
+          "exampleMeaning": "Sinh viên sẽ bị phạt vì những lỗi chính tả và ngữ pháp.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "pollute",
+          "meaning": "làm ô nhiễm môi trường",
+          "pronunciation": "/pəˈluːt/",
+          "type": "verb",
+          "example": "The pesticides used on many farms are polluting the water supply.",
+          "exampleMeaning": "Các loại thuốc trừ sâu được sử dụng trên nhiều trang trại đang làm ô nhiễm nguồn nước.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "prescribe",
+          "meaning": "ra lệnh, quy định, bắt phải",
+          "pronunciation": "/prɪˈskraɪb/",
+          "type": "verb",
+          "example": "The doctor prescribed some pills..",
+          "exampleMeaning": "Bác sĩ đã kê một số viên thuốc.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "probable",
+          "meaning": "có thể (nhưng không chắc chắn trở thành sự thật)",
+          "pronunciation": "/ˈprɒb.ə.bəl/",
+          "type": "adjective",
+          "example": "The probable cause of death was heart failure.",
+          "exampleMeaning": "Nguyên nhân có khả năng gây ra cái chết là suy tim.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "prominent",
+          "meaning": "quan trọng",
+          "pronunciation": "/ˈprɒm.ɪ.nənt/",
+          "type": "adjective",
+          "example": "The government should be playing a more prominent role in promoting human rights.",
+          "exampleMeaning": "Chính phủ nên đóng vai trò nổi bật hơn trong việc thúc đẩy nhân quyền.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "rainfall",
+          "meaning": "lượng mưa",
+          "pronunciation": "/ˈreɪ.nɔːl/",
+          "type": "noun",
+          "example": "Heavy rainfall ruined the match.",
+          "exampleMeaning": "Mưa lớn đã làm hỏng trận đấu.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "relocation",
+          "meaning": "sự di dời đến 1 địa điểm mới",
+          "pronunciation": "/ˌriː.ləʊˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "We are likely to see the temporary relocation of some of our staff.",
+          "exampleMeaning": "Chúng tôi có thể sẽ chứng kiến sự di chuyển tạm thời của một số nhân viên của chúng tôi.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "residence",
+          "meaning": "nơi cư trú",
+          "pronunciation": "/ˈrez.ɪ.dəns/",
+          "type": "noun",
+          "example": "The premier left his residence with almost indecent haste following his resignation.",
+          "exampleMeaning": "Thủ tướng rời khỏi nơi ở của mình với tốc độ gần như thiếu tôn trọng sau khi từ chức.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "retrieve",
+          "meaning": "lấy lại",
+          "pronunciation": "/rɪˈtriːv/",
+          "type": "verb",
+          "example": "This software helps firms archive and retrieve emails.",
+          "exampleMeaning": "Phần mềm này giúp các công ty lưu trữ và truy xuất email.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "rider",
+          "meaning": "người lái",
+          "pronunciation": "/ˈraɪ.dər/",
+          "type": "noun",
+          "example": "It's a beautiful horse but a bit too frisky for an inexperienced rider.",
+          "exampleMeaning": "Đó là một con ngựa đẹp nhưng hơi quá hung hăng đối với một người cưỡi thiếu kinh nghiệm.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "rubber",
+          "meaning": "cao su",
+          "pronunciation": "/ˈrʌb.ər/",
+          "type": "noun",
+          "example": "Tyres are almost always made of rubber.",
+          "exampleMeaning": "Lốp xe gần như luôn được làm từ cao su.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "rug",
+          "meaning": "thảm trải sàn",
+          "pronunciation": "/rʌɡ/",
+          "type": "noun",
+          "example": "My dog loves lying on the rug in front of the fire.",
+          "exampleMeaning": "Con chó của tôi thích nằm trên tấm thảm trước lò sưởi.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "salespeople",
+          "meaning": "những người bán hàng",
+          "pronunciation": "/ˈseɪlzˌpiː.pəl/",
+          "type": "noun",
+          "example": "I've also witnessed master salespeople who are able to obtain far more money, talent and media attention than their product deserves.",
+          "exampleMeaning": "Tôi cũng đã chứng kiến những người bán hàng bậc thầy có thể thu được nhiều tiền, tài năng và sự chú ý của truyền thông hơn những gì sản phẩm của họ đáng có.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "sharply",
+          "meaning": "một cách mạnh mẽ",
+          "pronunciation": "/ˈʃɑːp.li/",
+          "type": "adverb",
+          "example": "Inflation has risen/fallen sharply.",
+          "exampleMeaning": "Lạm phát đã tăng/giảm mạnh.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "similarity",
+          "meaning": "sự giống nhau",
+          "pronunciation": "/ˌsɪm.ɪˈlær.ə.ti/",
+          "type": "noun",
+          "example": "There is a great deal of similarity between Caroline and her mother .",
+          "exampleMeaning": "Có rất nhiều điểm tương đồng giữa Caroline và mẹ cô ấy.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "someday",
+          "meaning": "một thời điểm nào đó",
+          "pronunciation": "/ˈsʌm.deɪ/",
+          "type": "adverb",
+          "example": "Maybe someday you'll both meet again.",
+          "exampleMeaning": "Có lẽ một ngày nào đó các bạn sẽ gặp lại nhau.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "spectator",
+          "meaning": "khán giả",
+          "pronunciation": "/spekˈteɪ.tər/",
+          "type": "noun",
+          "example": "A few incredulous spectators watched as Paterson, ranked 23rd in the world, beat the champion.",
+          "exampleMeaning": "Một vài khán giả không tin nổi đã chứng kiến Paterson, xếp hạng 23 trên thế giới, đánh bại nhà vô địch.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "stereo",
+          "meaning": "máy thu phát",
+          "pronunciation": "/ˈster.i.əʊ/",
+          "type": "noun",
+          "example": "The concert will be broadcast in stereo.",
+          "exampleMeaning": "Buổi hòa nhạc sẽ được phát sóng bằng âm thanh nổi.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "storeroom",
+          "meaning": "nhà kho",
+          "pronunciation": "/ˈstɔː.ruːm/",
+          "type": "noun",
+          "example": "You can get a mop from the school's storeroom downstairs.",
+          "exampleMeaning": "Bạn có thể lấy một cây lau nhà từ phòng kho của trường ở tầng dưới.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "subsidize",
+          "meaning": "trợ cấp",
+          "pronunciation": "/ˈsʌb.sɪ.daɪz/",
+          "type": "verb",
+          "example": "All private universities are subsidized by the government.",
+          "exampleMeaning": "Tất cả các trường đại học tư thục đều được trợ cấp bởi chính phủ.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "suspicious",
+          "meaning": "hoài nghi, nghi ngờ",
+          "pronunciation": "/səˈspɪʃ.əs/",
+          "type": "adjective",
+          "example": "It's a little suspicious that no one knows where he was at the time of the murder.",
+          "exampleMeaning": "Có một chút đáng ngờ khi không ai biết anh ta đã ở đâu vào thời điểm xảy ra vụ án mạng.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "tasty",
+          "meaning": "ngon",
+          "pronunciation": "/ˈteɪ.sti/",
+          "type": "adjective",
+          "example": "The food is wholesome, tasty and well-presented.",
+          "exampleMeaning": "Thức ăn lành mạnh, ngon và được trình bày đẹp mắt.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "terrific",
+          "meaning": "tuyệt vời",
+          "pronunciation": "/təˈrɪf.ɪk/",
+          "type": "adjective",
+          "example": "Mr Jones thought my history paper was terrific.",
+          "exampleMeaning": "Ông Jones nghĩ bài viết lịch sử của tôi thật tuyệt vời.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "underground",
+          "meaning": "dưới lòng đất",
+          "pronunciation": "/ˌʌn.dəˈɡraʊnd/",
+          "type": "adverb/adjective",
+          "example": "He suffers from claustrophobia so he never travels on underground trains.",
+          "exampleMeaning": "Anh ấy mắc chứng sợ không gian hẹp nên anh ấy không bao giờ đi tàu điện ngầm.",
+          "note": "Từ vựng List 20"
+        },
+        {
+          "word": "unpaid",
+          "meaning": "không lương",
+          "pronunciation": "/ʌnˈpeɪd/",
+          "type": "adjective",
+          "example": "How do you factor in unpaid work when planning a market economy?",
+          "exampleMeaning": "Làm thế nào để bạn tính đến công việc không được trả lương khi lập kế hoạch cho một nền kinh tế thị trường?",
+          "note": "Từ vựng List 20"
+        }
+      ]
+    }
+  ]
+}
