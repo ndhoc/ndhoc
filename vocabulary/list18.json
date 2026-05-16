@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_18",
+      "name": "List 18",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "activate",
+          "meaning": "bắt đầu hoặc khởi động một cái gì đó",
+          "pronunciation": "/ˈæk.tɪ.veɪt/",
+          "type": "verb",
+          "example": "The alarm is activated by the lightest pressure",
+          "exampleMeaning": "Chuông báo động được kích hoạt bởi áp lực nhẹ nhất",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "additionally",
+          "meaning": "ngoài ra, thêm vào đó",
+          "pronunciation": "/əˈdɪʃ.ən.əl.i/",
+          "type": "adverb",
+          "example": "Additionally, we request a deposit of $200 in advance",
+          "exampleMeaning": "Ngoài ra, chúng tôi yêu cầu một khoản đặt cọc 200 đô la trước",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "affirmative",
+          "meaning": "khẳng định, quả quyết",
+          "pronunciation": "/əˈfɜː.mə.tɪv/",
+          "type": "adjective",
+          "example": "There should be an affirmative role for government in social problems.",
+          "exampleMeaning": "Chính phủ nên có vai trò tích cực trong các vấn đề xã hội.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "baker",
+          "meaning": "thợ làm bánh",
+          "pronunciation": "/ˈbeɪ.kər/",
+          "type": "noun",
+          "example": "It continued to sell cheap bread although all other bakers raised the prices.",
+          "exampleMeaning": "Nó tiếp tục bán bánh mì rẻ mặc dù tất cả các thợ làm bánh khác đã tăng giá.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "brainstorm",
+          "meaning": "buổi thảo luận để đưa ra nhiều ý tưởng nhanh chóng",
+          "pronunciation": "/ˈbreɪn.stɔːm/",
+          "type": "noun",
+          "example": "Often we would go into brainstorms, giving new ideas to the designer of the game.",
+          "exampleMeaning": "Thường chúng tôi sẽ tham gia vào các buổi động não, đưa ra ý tưởng mới cho nhà thiết kế trò chơi.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "cage",
+          "meaning": "chuồng, lồng (thường làm bằng sắt)",
+          "pronunciation": "/keɪdʒ/",
+          "type": "noun",
+          "example": "Bored out of its mind, the monkey stares out of the cage with unseeing eyes.",
+          "exampleMeaning": "Buồn chán vô cùng, con khỉ nhìn ra khỏi chuồng với đôi mắt vô hồn.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "cinema",
+          "meaning": "Một rạp chiếu phim",
+          "pronunciation": "/ˈsɪn.ɪ.mə/",
+          "type": "noun",
+          "example": "We'd already been to the local cinema twice that week.",
+          "exampleMeaning": "Chúng tôi đã đến rạp chiếu phim địa phương hai lần trong tuần đó.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "collaboration",
+          "meaning": "sự hợp tác",
+          "pronunciation": "/kəˌlæbəˈreɪʃən/",
+          "type": "noun",
+          "example": "The new airport is a collaboration between two of the best architects in the country.",
+          "exampleMeaning": "Sân bay mới là sự hợp tác giữa hai kiến trúc sư giỏi nhất trong nước.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "condominium",
+          "meaning": "căn hộ chung cư",
+          "pronunciation": "/ˌkɒn.dəˈmɪn.i.əm/",
+          "type": "noun",
+          "example": "The harbor is the site for a new luxury condominium development.",
+          "exampleMeaning": "Bến cảng là nơi xây dựng một khu căn hộ cao cấp mới.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "consecutive",
+          "meaning": "liên tiếp, nối tiếp",
+          "pronunciation": "/kənˈsek.jʊ.tɪv/",
+          "type": "adjective",
+          "example": "Unemployment has risen again for the third consecutive month.",
+          "exampleMeaning": "Thất nghiệp đã tăng trở lại trong tháng thứ ba liên tiếp.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "cordless",
+          "meaning": "không dây",
+          "pronunciation": "/ˈkɔːd.ləs/",
+          "type": "adjective",
+          "example": "In these days of cordless appliances, it is easy to lose all sorts of things.",
+          "exampleMeaning": "Trong những ngày này của các thiết bị không dây, rất dễ mất tất cả các loại đồ vật.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "deluxe",
+          "meaning": "sang trọng, hạng sang",
+          "pronunciation": "/dɪˈlʌks/",
+          "type": "adjective",
+          "example": "The standard package includes a deluxe room and champagne on arrival, for £350.",
+          "exampleMeaning": "Gói tiêu chuẩn bao gồm một phòng hạng sang và rượu champagne khi đến, với giá £350.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "desirable",
+          "meaning": "đáng ao ước, đáng khát khao",
+          "pronunciation": "/dɪˈzaɪə.rə.bəl/",
+          "type": "adjective",
+          "example": "This underdeveloped area is much less desirable to investors than one of the major centres.",
+          "exampleMeaning": "Khu vực kém phát triển này ít được các nhà đầu tư mong muốn hơn so với một trong những trung tâm lớn.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "discrepancy",
+          "meaning": "sự khác biệt, bất đồng",
+          "pronunciation": "/dɪˈskrepənsi/",
+          "type": "noun",
+          "example": "The committee is reportedly unhappy about the discrepancy in numbers.",
+          "exampleMeaning": "Theo báo cáo, ủy ban không hài lòng về sự chênh lệch trong số liệu.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "dispatch",
+          "meaning": "gửi đi",
+          "pronunciation": "/dɪˈspætʃ/",
+          "type": "verb",
+          "example": "Two loads of cloth were dispatched to the factory on 12 December.",
+          "exampleMeaning": "Hai kiện vải đã được gửi đến nhà máy vào ngày 12 tháng 12.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "drawback",
+          "meaning": "Nhược điểm của một cái gì đó",
+          "pronunciation": "/ˈdrɔː.bæk/",
+          "type": "noun",
+          "example": "One of the drawbacks of working for a big company is that you have to follow a lot of rules.",
+          "exampleMeaning": "Một trong những nhược điểm của việc làm việc cho một công ty lớn là bạn phải tuân theo rất nhiều quy tắc.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "dull",
+          "meaning": "nhàm chán; không hứng thú",
+          "pronunciation": "/dʌl/",
+          "type": "adjective",
+          "example": "She wrote dull, respectable articles for the local newspaper.",
+          "exampleMeaning": "Cô ấy đã viết những bài báo tẻ nhạt, đáng kính cho tờ báo địa phương.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "economically",
+          "meaning": "về mặt kinh tế",
+          "pronunciation": "/ˌiː.kəˈnɒm.ɪ.kəl.i/",
+          "type": "adverb",
+          "example": "Economically, the country has been improving steadily these past ten years.",
+          "exampleMeaning": "Về mặt kinh tế, đất nước đã cải thiện đều đặn trong mười năm qua.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "evenly",
+          "meaning": "theo cách công bằng, ngang nhau",
+          "pronunciation": "/ˈiː.vən.li/",
+          "type": "adverb",
+          "example": "Congress is still evenly divided on the issue.",
+          "exampleMeaning": "Quốc hội vẫn chia đều về vấn đề này.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "excellence",
+          "meaning": "sự xuất sắc, sự ưu tú",
+          "pronunciation": "/ˈeksələns/",
+          "type": "noun",
+          "example": "This college has a long tradition of athletic excellence.",
+          "exampleMeaning": "Trường đại học này có truyền thống lâu đời về sự xuất sắc trong thể thao.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "exclusively",
+          "meaning": "dành riêng, một cách độc quyền",
+          "pronunciation": "/ɪkˈskluː.sɪv.li/",
+          "type": "adverb",
+          "example": "This offer is available exclusively to our established customers.",
+          "exampleMeaning": "Ưu đãi này chỉ dành riêng cho khách hàng đã gắn bó lâu dài với chúng tôi.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "farewell",
+          "meaning": "lời chào tạm biệt",
+          "pronunciation": "/ˌfeəˈwel/",
+          "type": "noun",
+          "example": "Sakura gave her thanks and the both of them exchanged their farewells and separated into their classes.",
+          "exampleMeaning": "Sakura cảm ơn và cả hai chia tay và tách ra đi vào lớp học của họ.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "fatigue",
+          "meaning": "sự mệt mỏi",
+          "pronunciation": "/fəˈtiːɡ/",
+          "type": "noun",
+          "example": "The doctor said he was suffering from fatigue and work-related stress.",
+          "exampleMeaning": "Bác sĩ nói rằng anh ấy đang bị mệt mỏi và căng thẳng do công việc gây ra.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "fiscal",
+          "meaning": "(thuộc) tài chính, ngân sách",
+          "pronunciation": "/ˈfɪs.kəl/",
+          "type": "adjective",
+          "example": "Analysts said yesterday's settlement was unlikely to affect the company's fiscal health.",
+          "exampleMeaning": "Các nhà phân tích cho biết thỏa thuận vào ngày hôm qua khó có thể ảnh hưởng đến sức khỏe tài chính của công ty.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "fleet",
+          "meaning": "hạm đội",
+          "pronunciation": "/fliːt/",
+          "type": "noun",
+          "example": "The British fleet came under attack by enemy aircraft.",
+          "exampleMeaning": "Đội tàu Anh bị máy bay địch tấn công.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "flour",
+          "meaning": "bột, bột mì",
+          "pronunciation": "/flaʊər/",
+          "type": "noun",
+          "example": "These Vietnamese pancakes are made of rice flour, and so thin you can read a newspaper through them.",
+          "exampleMeaning": "Những chiếc bánh xèo Việt Nam này được làm từ bột gạo, mỏng đến mức bạn có thể đọc báo xuyên qua chúng.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "overcharge",
+          "meaning": "bán quá đắt cho (ai), lấy quá nhiều tiền",
+          "pronunciation": "/ˌəʊ.vəˈtʃɑːdʒ/",
+          "type": "verb",
+          "example": "Make sure they don't overcharge you for the drinks.",
+          "exampleMeaning": "Hãy chắc chắn rằng họ không tính quá giá cho bạn về đồ uống.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "oversee",
+          "meaning": "giám sát",
+          "pronunciation": "/ˌəʊ.vəˈsiː/",
+          "type": "verb",
+          "example": "United Nations observers oversaw the elections.",
+          "exampleMeaning": "Các quan sát viên của Liên Hợp Quốc đã giám sát cuộc bầu cử.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "petition",
+          "meaning": "đơn thỉnh cầu; đơn kiến nghị",
+          "pronunciation": "/pəˈtɪʃ.ən/",
+          "type": "noun",
+          "example": "Would you like to sign our petition against experiments on animals?",
+          "exampleMeaning": "Bạn có muốn ký vào bản kiến nghị của chúng tôi chống lại các thí nghiệm trên động vật không?",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pronunciation": "/ˈpɪl.oʊ/",
+          "type": "noun",
+          "example": "He lay back on the grass using his backpack as a pillow.",
+          "exampleMeaning": "Anh ấy nằm ngửa trên cỏ sử dụng ba lô của mình làm gối.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "popcorn",
+          "meaning": "bỏng ngô",
+          "pronunciation": "/ˈpɒpkɔːn/",
+          "type": "noun",
+          "example": "I like making popcorn at home and smuggling it into the movies.",
+          "exampleMeaning": "Tôi thích làm bỏng ngô ở nhà và mang lén vào rạp chiếu phim.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "pottery",
+          "meaning": "Đồ đất nung, đồ đá, gốm sứ",
+          "pronunciation": "/ˈpɒt.ər.i/",
+          "type": "noun",
+          "example": "The museum has a fascinating collection of exhibits ranging from Iron Age pottery to Inuit clothing.",
+          "exampleMeaning": "Bảo tàng có một bộ sưu tập triển lãm hấp dẫn từ đồ gốm thời kỳ đồ sắt đến quần áo của người Inuit.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "professionally",
+          "meaning": "thành thạo, một cách chuyên nghiệp",
+          "pronunciation": "/prəˈfeʃ.ən.əl.i/",
+          "type": "adverb",
+          "example": "I think next time we need any decorating we'll get it done professionally.",
+          "exampleMeaning": "Tôi nghĩ lần tới khi cần trang trí, chúng ta sẽ làm chuyên nghiệp.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "publicize",
+          "meaning": "Quảng cáo, làm cho mọi người biết",
+          "pronunciation": "/ˈpʌb.lɪ.saɪz/",
+          "type": "verb",
+          "example": "Attitudes seem to be changing as a result of recent highly publicized cases of sexual harassment.",
+          "exampleMeaning": "Thái độ dường như đang thay đổi do kết quả của những vụ quấy rối tình dục được công khai gần đây.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "ray",
+          "meaning": "tia sáng",
+          "pronunciation": "/reɪ/",
+          "type": "noun",
+          "example": "A ray of sunshine shone through a gap in the clouds.",
+          "exampleMeaning": "Một tia nắng chiếu qua một khe hở trong những đám mây.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "redecorate",
+          "meaning": "trang trí lại",
+          "pronunciation": "/ˌriːˈdek.ə.reɪt/",
+          "type": "verb",
+          "example": "Americans redecorate their houses and offices every few years.",
+          "exampleMeaning": "Người Mỹ trang trí lại nhà cửa và văn phòng của họ mỗi vài năm.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "refinery",
+          "meaning": "nhà máy tinh chế nguyên liệu thô",
+          "pronunciation": "/rɪˈfaɪ.nər.i/",
+          "type": "noun",
+          "example": "There were two huge oil refineries on the coast.",
+          "exampleMeaning": "Có hai nhà máy lọc dầu lớn trên bờ biển.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "refresh",
+          "meaning": "làm khoẻ người, làm tỉnh táo",
+          "pronunciation": "/rɪˈfreʃ/",
+          "type": "verb",
+          "example": "It was such a hot night that I had a cold shower to refresh myself.",
+          "exampleMeaning": "Đêm đó nóng đến mức tôi phải tắm nước lạnh để làm mát bản thân.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "refundable",
+          "meaning": "có thể hoàn tiền",
+          "pronunciation": "/rɪˈfʌndəbəl/",
+          "type": "adjective",
+          "example": "The charge includes a refundable security deposit.",
+          "exampleMeaning": "Khoản phí bao gồm tiền đặt cọc có thể hoàn lại.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "reimbursement",
+          "meaning": "sự hoàn lại (số tiền đã tiêu)",
+          "pronunciation": "/ˌriːɪmˈbɜːsmənt/",
+          "type": "noun",
+          "example": "She helped the family obtain reimbursement of hospital bills.",
+          "exampleMeaning": "Cô ấy đã giúp gia đình nhận được khoản hoàn trả chi phí bệnh viện.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "reliability",
+          "meaning": "sự đáng tin cậy",
+          "pronunciation": "/rɪˌlaɪ.əˈbɪl.ə.ti/",
+          "type": "noun",
+          "example": "We aim to further improve the reliability of the electric power grid.",
+          "exampleMeaning": "Chúng tôi đặt mục tiêu cải thiện hơn nữa độ tin cậy của lưới điện.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "reluctant",
+          "meaning": "miến cưỡng làm gì",
+          "pronunciation": "/rɪˈlʌk.tənt/",
+          "type": "adjective",
+          "example": "I was having such a good time I was reluctant to leave.",
+          "exampleMeaning": "Tôi đã có một khoảng thời gian rất vui vẻ đến nỗi tôi không muốn rời đi.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "sewer",
+          "meaning": "cống rãnh",
+          "pronunciation": "/ˈsuː.ər/",
+          "type": "noun",
+          "example": "a sewer pipe",
+          "exampleMeaning": "một ống thoát nước",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "skate",
+          "meaning": "trượt băng",
+          "pronunciation": "/skeɪt/",
+          "type": "verb",
+          "example": "When the lake freezes over , we can go skating on it.",
+          "exampleMeaning": "Khi hồ đóng băng, chúng ta có thể trượt băng trên đó.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "skateboard",
+          "meaning": "ván trượt",
+          "pronunciation": "/ˈskeɪtbɔːd/",
+          "type": "noun",
+          "example": "Many surfers started surfing the sidewalks on skateboards.",
+          "exampleMeaning": "Nhiều người lướt sóng đã bắt đầu lướt trên vỉa hè bằng ván trượt.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pronunciation": "/ˈsliː.pi/",
+          "type": "adjective",
+          "example": "The heat made her sleepy.",
+          "exampleMeaning": "Cái nóng làm cô buồn ngủ.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "tailor",
+          "meaning": "điều chỉnh để làm cho đáp ứng nhu cầu",
+          "pronunciation": "/ˈteɪ.lər/",
+          "type": "verb",
+          "example": "We tailor any of our products to your company's specific needs.",
+          "exampleMeaning": "Chúng tôi điều chỉnh bất kỳ sản phẩm nào của chúng tôi theo nhu cầu cụ thể của công ty bạn.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "termination",
+          "meaning": "sự kết thúc",
+          "pronunciation": "/ˌtɜː.mɪˈneɪ.ʃən/",
+          "type": "noun",
+          "example": "The termination of the bus service was a severe blow to many villagers.",
+          "exampleMeaning": "Việc chấm dứt dịch vụ xe buýt là một cú sốc nghiêm trọng đối với nhiều người dân trong làng.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "theft",
+          "meaning": "hành vi trộm cắp",
+          "pronunciation": "/θeft/",
+          "type": "noun",
+          "example": "She was found guilty of theft, but because of extenuating circumstances was not sent to prison.",
+          "exampleMeaning": "Cô ấy bị phát hiện có tội vì tội trộm cắp, nhưng vì những tình tiết giảm nhẹ nên không bị đưa vào tù.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "thunderstorm",
+          "meaning": "bão và thường có mưa to, gió, sấm sét",
+          "pronunciation": "/ˈθʌn.də.stɔːm/",
+          "type": "noun",
+          "example": "He slept well, unaware of the thunderstorms which filled the night.",
+          "exampleMeaning": "Anh ấy ngủ ngon, không hay biết về những cơn giông bão kéo dài suốt đêm.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "transmission",
+          "meaning": "sự truyền đi",
+          "pronunciation": "/trænzˈmɪʃən/",
+          "type": "noun",
+          "example": "The microphone converts acoustic waves to electrical signals for transmission.",
+          "exampleMeaning": "Micrô chuyển đổi sóng âm thành tín hiệu điện để truyền tải.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "transmit",
+          "meaning": "truyền, phát (một tín hiệu, chương trình..)",
+          "pronunciation": "/trænsˈmɪt/",
+          "type": "verb",
+          "example": "The information is transmitted electronically to the central computer.",
+          "exampleMeaning": "Thông tin được truyền điện tử đến máy tính trung tâm.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "unused",
+          "meaning": "không sử dụng",
+          "pronunciation": "/ˌʌnˈjuːzd/",
+          "type": "adjective",
+          "example": "You might as well take your father's car - there's no point in having it sit there unused in the garage.",
+          "exampleMeaning": "Bạn cũng nên lấy xe của bố bạn - thật vô ích khi để nó ngồi không trong gara.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "waive",
+          "meaning": "từ bỏ, khước từ",
+          "pronunciation": "/weɪv/",
+          "type": "verb",
+          "example": "He waived his right to appeal against the verdict.",
+          "exampleMeaning": "Anh ấy đã từ bỏ quyền kháng cáo đối với phán quyết.",
+          "note": "Từ vựng List 18"
+        },
+        {
+          "word": "yen",
+          "meaning": "đồng Yên",
+          "pronunciation": "/jen/",
+          "type": "noun",
+          "example": "The yen fell/rose against (= was worth less/more compared to) the dollar today.",
+          "exampleMeaning": "Đồng yên giảm/tăng so với (= trị giá ít hơn/nhiều hơn so với) đồng đô la hôm nay.",
+          "note": "Từ vựng List 18"
+        }
+      ]
+    }
+  ]
+}
