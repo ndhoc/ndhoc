@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_14",
+      "name": "List 14",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accent",
+          "meaning": "giọng đặc trưng",
+          "pronunciation": "/ˈæk.sənt/",
+          "type": "noun",
+          "example": "She's French but she speaks with an impeccable English accent",
+          "exampleMeaning": "Cô ấy là người Pháp nhưng nói tiếng Anh với giọng chuẩn không cần chỉnh",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "advisory",
+          "meaning": "liên quan đến tư vấn, cố vấn",
+          "pronunciation": "/ədˈvaɪ.zər.i/",
+          "type": "adjective",
+          "example": "She is employed by the president in an advisory capacity",
+          "exampleMeaning": "Cô ấy được tổng thống tuyển dụng với tư cách là người tư vấn",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "asleep",
+          "meaning": "ngủ, đang ngủ",
+          "pronunciation": "/ə'sliːp/",
+          "type": "adjective",
+          "example": "She slipped between the cool cotton sheets and was soon asleep.",
+          "exampleMeaning": "Cô trượt vào giữa những tấm vải cotton mát mẻ và nhanh chóng ngủ thiếp đi.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "authentic",
+          "meaning": "thật, xác thực, không phải là giả",
+          "pronunciation": "/ɔːˈθen.tɪk/",
+          "type": "adjective",
+          "example": "How can we be sure the signature is authentic?",
+          "exampleMeaning": "Làm sao chúng ta có thể chắc chắn rằng chữ ký là xác thực?",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "bakery",
+          "meaning": "cửa hàng bánh",
+          "pronunciation": "/ˈbeɪ.kər.i/",
+          "type": "noun",
+          "example": "All the star hotels had cake sales and most bakeries ended up selling cakes at discount prices.",
+          "exampleMeaning": "Tất cả các khách sạn năm sao đều có chương trình bán bánh ngọt và hầu hết các tiệm bánh đều giảm giá bánh ngọt.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "carton",
+          "meaning": "hộp bìa cứng, hộp đựng hàng",
+          "pronunciation": "/ˈkɑː.tən/",
+          "type": "noun",
+          "example": "Empty egg cartons can be reused or recycled.",
+          "exampleMeaning": "Hộp trứng rỗng có thể được tái sử dụng hoặc tái chế.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "compartment",
+          "meaning": "gian, ngăn",
+          "pronunciation": "/kəmˈpɑːt.mənt/",
+          "type": "noun",
+          "example": "She folded her coat and put it in the overhead luggage compartment.",
+          "exampleMeaning": "Cô ấy gấp áo khoác của mình và đặt nó vào ngăn để hành lý trên đầu.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "compatible",
+          "meaning": "phù hợp với, tương thích",
+          "pronunciation": "/kəmˈpæt.ə.bəl/",
+          "type": "adjective",
+          "example": "Such policies are not compatible with democratic government.",
+          "exampleMeaning": "Những chính sách như vậy không tương thích với chính phủ dân chủ.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "consumption",
+          "meaning": "sự tiêu thụ",
+          "pronunciation": "/kənˈsʌmp.ʃən/",
+          "type": "noun",
+          "example": "These products are not for national consumption, but for export.",
+          "exampleMeaning": "Những sản phẩm này không phải để tiêu thụ trong nước, mà để xuất khẩu.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "conveniently",
+          "meaning": "một cách dễ dàng, tiện lợi",
+          "pronunciation": "/kənˈviː.ni.ənt.li/",
+          "type": "adverb",
+          "example": "The house is conveniently situated near the station and the shops.",
+          "exampleMeaning": "Ngôi nhà được đặt ở vị trí thuận tiện gần nhà ga và các cửa hàng.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "cosmetic",
+          "meaning": "làm cho tốt hơn mà không thay đổi nó quá nhiều",
+          "pronunciation": "/kɒzˈmet.ɪk/",
+          "type": "adjective",
+          "example": "Whether the change is more cosmetic than concrete is a matter of opinion.",
+          "exampleMeaning": "Việc thay đổi có mang tính hình thức hơn là thực tế hay không là tuỳ vào quan điểm.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "courtesy",
+          "meaning": "sự lịch sự, sự nhã nhặn",
+          "pronunciation": "/ˈkɜː.tə.si/",
+          "type": "noun",
+          "example": "The president welcomed her visitors with the usual courtesies.",
+          "exampleMeaning": "Tổng thống đã chào đón những người thăm của cô ấy với những sự lịch sự thông thường.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "creativity",
+          "meaning": "óc sáng tạo, tính sáng tạo",
+          "pronunciation": "/ˌkriː.eɪˈtɪv.ə.t̬i/",
+          "type": "noun",
+          "example": "The aim of the award is to encourage creativity and innovation.",
+          "exampleMeaning": "Mục tiêu của giải thưởng là khuyến khích sự sáng tạo và đổi mới.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "criteria",
+          "meaning": "tiêu chuẩn, chỉ tiêu",
+          "pronunciation": "/kraɪˈtɪəriə/",
+          "type": "noun",
+          "example": "They award a green label to products that meet certain environmental criteria",
+          "exampleMeaning": "Họ trao nhãn xanh cho các sản phẩm đáp ứng các tiêu chí môi trường nhất định",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "disagreement",
+          "meaning": "sự bất đồng ý kiến",
+          "pronunciation": "/ˌdɪs.əˈɡriː.mənt/",
+          "type": "noun",
+          "example": "We had a disagreement about/over the fee for the work.",
+          "exampleMeaning": "Chúng tôi đã có một cuộc bất đồng về phí cho công việc.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "discontinue",
+          "meaning": "ngừng, làm gián đoạn",
+          "pronunciation": "/ˌdɪs.kənˈtɪn.juː/",
+          "type": "verb",
+          "example": "The airline announced that weekday flights to Kansas City would be discontinued.",
+          "exampleMeaning": "Hãng hàng không thông báo rằng các chuyến bay trong tuần đến Kansas City sẽ bị ngừng hoạt động.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "dishwasher",
+          "meaning": "máy rửa chén",
+          "pronunciation": "/ˈdɪʃˌwɒʃ.ər/",
+          "type": "noun",
+          "example": "This dishwasher even washes pots and pans .",
+          "exampleMeaning": "Máy rửa chén này thậm chí còn rửa cả nồi và chảo.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "drought",
+          "meaning": "hạn hán",
+          "pronunciation": "/draʊt/",
+          "type": "noun",
+          "example": "This year (a) severe drought has ruined the crops.",
+          "exampleMeaning": "Năm nay, hạn hán nghiêm trọng đã làm hỏng mùa màng.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "economize",
+          "meaning": "tiết kiệm tiền, tránh lãng phí",
+          "pronunciation": "/ɪˈkɒn.ə.maɪz/",
+          "type": "verb",
+          "example": "A lot of companies are trying to economize by not taking on new staff.",
+          "exampleMeaning": "Rất nhiều công ty đang cố gắng tiết kiệm bằng cách không tuyển nhân viên mới.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "entrée",
+          "meaning": "quyền được tham gia, tham dự",
+          "pronunciation": "/ˈɒn.treɪ/",
+          "type": "noun",
+          "example": "That initial contact gave her entrée into other university offerings.",
+          "exampleMeaning": "Sự tiếp xúc ban đầu đó đã cho cô ấy cơ hội tiếp cận các hoạt động khác của trường đại học.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "firework",
+          "meaning": "pháo hoa",
+          "pronunciation": "/ˈfaɪə.wɜːk/",
+          "type": "noun",
+          "example": "They let off a big firework as a signal that the festival had started.",
+          "exampleMeaning": "Họ đã bắn pháo hoa lớn như một tín hiệu rằng lễ hội đã bắt đầu.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "freight",
+          "meaning": "hàng hoá chuyên chở",
+          "pronunciation": "/freɪt/",
+          "type": "noun",
+          "example": "The ship carries both freight and passengers.",
+          "exampleMeaning": "Con tàu chở cả hàng hóa và hành khách.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "fry",
+          "meaning": "chiên rán",
+          "pronunciation": "/fraɪ/",
+          "type": "verb",
+          "example": "Fry four chicken joints in a pan with some mushrooms and garlic.",
+          "exampleMeaning": "Rán bốn miếng gà trong chảo với một chút nấm và tỏi.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "gallon",
+          "meaning": "Galông (đơn vị đo lường chất lỏng bằng 3, 78 lít ở Mỹ)",
+          "pronunciation": "/ˈɡæl.ən/",
+          "type": "noun",
+          "example": "An imperial gallon, used in Britain, is equal to 4,546 cubic centimetres.",
+          "exampleMeaning": "Một gallon hoàng gia, được sử dụng ở Anh, tương đương với 4.546 centimet khối.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "gardener",
+          "meaning": "người làm vườn",
+          "pronunciation": "/ˈɡɑː.dən.ər/",
+          "type": "noun",
+          "example": "These young trees were carefully nursed by the head gardener.",
+          "exampleMeaning": "Những cây non này đã được người làm vườn trưởng chăm sóc cẩn thận.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "ideally",
+          "meaning": "trong lý tưởng, một cách lý tưởng",
+          "pronunciation": "/aɪˈdɪə.li/",
+          "type": "adverb",
+          "example": "Ideally, I'd like to work at home but it's just not practical.",
+          "exampleMeaning": "Lý tưởng nhất, tôi muốn làm việc tại nhà nhưng điều đó không thực tế.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "inclusive",
+          "meaning": "Bao gồm tất cả mọi thứ",
+          "pronunciation": "/ɪnˈkluː.sɪv/",
+          "type": "adjective",
+          "example": "The governments want to reach a settlement that is as inclusive as possible.",
+          "exampleMeaning": "Chính phủ muốn đạt được một thỏa thuận bao gồm nhiều thành phần nhất có thể.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "insufficient",
+          "meaning": "không đủ",
+          "pronunciation": "/ˌɪn.səˈfɪʃ.ənt/",
+          "type": "adjective",
+          "example": "The management paid insufficient attention to working conditions.",
+          "exampleMeaning": "Ban quản lý đã không chú ý đủ đến điều kiện làm việc.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "introductory",
+          "meaning": "để giới thiệu, mở đầu",
+          "pronunciation": "/ˌɪn.trəˈdʌk.tər.i/",
+          "type": "adjective",
+          "example": "introductory chapters/paragraphs/remarks",
+          "exampleMeaning": "các chương/đoạn/văn giới thiệu",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "junk",
+          "meaning": "vật phẩm vô dụng; rác",
+          "pronunciation": "/dʒʌŋk/",
+          "type": "noun",
+          "example": "I've cleared out all that old junk in the attic.",
+          "exampleMeaning": "Tôi đã dọn hết tất cả đồ cũ trong gác mái.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "ma'am",
+          "meaning": "Thưa bà *đây là từ viết tắt của 'madam' - phu nhân, đây là một cách lịch sự để gọi/xưng hộ với một người phụ nữ",
+          "pronunciation": "/mæm/",
+          "type": "noun",
+          "example": "How can I help you, ma'am?",
+          "exampleMeaning": "Tôi có thể giúp gì cho bà, thưa bà?",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "mileage",
+          "meaning": "tổng số dặm đã đi được",
+          "pronunciation": "/ˈmaɪ.lɪdʒ/",
+          "type": "noun",
+          "example": "My annual mileage is about 10 000.",
+          "exampleMeaning": "Số dặm hàng năm của tôi là khoảng 10.000.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pronunciation": "/ˈnɔɪ.zi/",
+          "type": "adjective",
+          "example": "The kids were even noisier than the dogs.",
+          "exampleMeaning": "Lũ trẻ còn ồn ào hơn cả những con chó.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "pan",
+          "meaning": "cái chảo",
+          "pronunciation": "/pæn/",
+          "type": "noun",
+          "example": "Heat a large non-stick saute pan over a medium heat.",
+          "exampleMeaning": "Đun nóng một chảo chống dính lớn trên lửa vừa.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "parcel",
+          "meaning": "kiện hàng",
+          "pronunciation": "/ˈpɑː.səl/",
+          "type": "noun",
+          "example": "There's a parcel and some letters for you.",
+          "exampleMeaning": "Có một gói bưu phẩm và vài lá thư cho bạn.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "pasta",
+          "meaning": "mì ống và nui",
+          "pronunciation": "/ˈpæs.tə/",
+          "type": "noun",
+          "example": "Toss the pasta with the hot sauce.",
+          "exampleMeaning": "Trộn mì ống với sốt nóng.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "periodical",
+          "meaning": "tạp chí xuất bản định kỳ",
+          "pronunciation": "/ˌpɪəriˈɒdɪkl/",
+          "type": "noun",
+          "example": "The university library stocks some 5 000 current periodicals.",
+          "exampleMeaning": "Thư viện đại học dự trữ khoảng 5.000 tạp chí hiện tại.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "pill",
+          "meaning": "thuốc dạng viên nén",
+          "pronunciation": "/pɪl/",
+          "type": "noun",
+          "example": "The doctor prescribed her some pills to help her sleep.",
+          "exampleMeaning": "Bác sĩ kê cho cô ấy vài viên thuốc để giúp cô ấy ngủ.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "portable",
+          "meaning": "vật xách tay",
+          "pronunciation": "/ˈpɔː.tə.bəl/",
+          "type": "noun",
+          "example": "We specialize in handheld PCs and other portables.",
+          "exampleMeaning": "Chúng tôi chuyên về máy tính cầm tay và các thiết bị di động khác.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "punctual",
+          "meaning": "đúng giờ",
+          "pronunciation": "/ˈpʌŋk.tʃu.əl/",
+          "type": "adjective",
+          "example": "The successful candidate will be efficient, neat, and punctual.",
+          "exampleMeaning": "Ứng viên thành công sẽ hiệu quả, gọn gàng và đúng giờ.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "recreation",
+          "meaning": "thời gian rảnh rỗi",
+          "pronunciation": "/ˌrek.riˈeɪ.ʃən/",
+          "type": "noun",
+          "example": "His favourite recreations are golf and playing Scrabble.",
+          "exampleMeaning": "Sở thích giải trí của anh ấy là chơi golf và chơi Scrabble.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "relieve",
+          "meaning": "làm dịu đi, làm mất đi (cơn đau, lo âu, phiền muộn...); làm khuây khoả",
+          "pronunciation": "/rɪˈliːv/",
+          "type": "verb",
+          "example": "There must be some way you can relieve the pain.",
+          "exampleMeaning": "Phải có cách nào đó để bạn có thể giảm bớt cơn đau.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "reminder",
+          "meaning": "cái làm nhớ lại (một điều gì)",
+          "pronunciation": "/rɪˈmaɪn.dər/",
+          "type": "noun",
+          "example": "The monument stands as a chilling reminder of man's inhumanity to man.",
+          "exampleMeaning": "Tượng đài đứng như một lời nhắc nhở rùng rợn về sự vô nhân đạo của con người đối với con người.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "rumor",
+          "meaning": "tin đồn",
+          "pronunciation": "/ˈruː.mər/",
+          "type": "noun",
+          "example": "Rumors are going around (the school) about Mr. Mason and his assistant.",
+          "exampleMeaning": "Tin đồn đang lan truyền (trong trường) về ông Mason và trợ lý của ông ấy.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "scarf",
+          "meaning": "khăn quàng cổ",
+          "pronunciation": "/skɑːrf/",
+          "type": "noun",
+          "example": "He had a woollen scarf around his neck.",
+          "exampleMeaning": "Anh ấy quàng một chiếc khăn len quanh cổ.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "seaside",
+          "meaning": "bên bờ biển",
+          "pronunciation": "/ˈsiː.saɪd/",
+          "type": "noun",
+          "example": "a trip to the seaside",
+          "exampleMeaning": "một chuyến đi đến bờ biển",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "shorten",
+          "meaning": "rút ngắn",
+          "pronunciation": "/ˈʃɔː.tən/",
+          "type": "verb",
+          "example": "I'd like to have this jacket shortened by about two inches.",
+          "exampleMeaning": "Tôi muốn rút ngắn chiếc áo khoác này khoảng hai inch.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "specially",
+          "meaning": "đặc biệt",
+          "pronunciation": "/ˈspeʃ.əl.i/",
+          "type": "adverb",
+          "example": "She seemed specially keen to talk to him.",
+          "exampleMeaning": "Cô ấy dường như đặc biệt muốn nói chuyện với anh ta.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "spill",
+          "meaning": "làm đổ",
+          "pronunciation": "/spɪl/",
+          "type": "verb",
+          "example": "I spilled coffee on my silk shirt.",
+          "exampleMeaning": "Tôi đã làm đổ cà phê lên áo lụa của mình.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "spouse",
+          "meaning": "chồng; vợ",
+          "pronunciation": "/spaʊs/",
+          "type": "noun",
+          "example": "In 60 percent of the households surveyed both spouses went out to work.",
+          "exampleMeaning": "Trong 60 phần trăm các hộ gia đình được khảo sát, cả hai vợ chồng đều đi làm.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "subtract",
+          "meaning": "trừ đi, lấy đi",
+          "pronunciation": "/səbˈtrækt/",
+          "type": "verb",
+          "example": "The costs of manufacturing are subtracted from revenue.",
+          "exampleMeaning": "Chi phí sản xuất được trừ vào doanh thu.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "tablet",
+          "meaning": "Tấm, bản, thẻ, phiến",
+          "pronunciation": "/ˈtæb.lət/",
+          "type": "noun",
+          "example": "The poem was engraved on a tablet of stone.",
+          "exampleMeaning": "Bài thơ được khắc trên một tấm đá.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "ton",
+          "meaning": "tấn (đơn vị đo)",
+          "pronunciation": "/tʌn/",
+          "type": "noun",
+          "example": "Customs officers have seized nearly a ton of heroin destined for New York.",
+          "exampleMeaning": "Các nhân viên hải quan đã thu giữ gần một tấn heroin đang trên đường tới New York.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "vend",
+          "meaning": "bán (hàng hóa)",
+          "pronunciation": "/vend/",
+          "type": "verb",
+          "example": "Some websites vend a bizarre array of items.",
+          "exampleMeaning": "Một số trang web bán một loạt các món đồ kỳ quặc.",
+          "note": "Từ vựng List 14"
+        },
+        {
+          "word": "yoga",
+          "meaning": "yoga",
+          "pronunciation": "/ˈjəʊ.ɡə/",
+          "type": "noun",
+          "example": "He attends regular yoga classes.",
+          "exampleMeaning": "Anh ấy tham gia các lớp học yoga thường xuyên.",
+          "note": "Từ vựng List 14"
+        }
+      ]
+    }
+  ]
+}
