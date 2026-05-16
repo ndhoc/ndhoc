@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_6",
+      "name": "List 6",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accurately",
+          "meaning": "một cách đúng đắn, chính xác",
+          "pronunciation": "/ˈæk.jʊr.ət.li/",
+          "type": "adverb",
+          "example": "The plans should be drawn as accurately as possible.",
+          "exampleMeaning": "Các kế hoạch nên được vẽ chính xác nhất có thể.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "anniversary",
+          "meaning": "ngày kỷ niệm",
+          "pronunciation": "/ˌæn.ɪˈvɜː.sər.i/",
+          "type": "noun",
+          "example": "Tomorrow's parade will mark the 50th anniversary of the battle.",
+          "exampleMeaning": "Cuộc diễu hành ngày mai sẽ đánh dấu kỷ niệm 50 năm của trận chiến.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "annually",
+          "meaning": "hàng năm, mỗi 12 tháng",
+          "pronunciation": "/ˈæn.ju.ə.li/",
+          "type": "adverb",
+          "example": "Your starting salary is £23,000 per annum and will be reviewed annually.",
+          "exampleMeaning": "Lương khởi điểm của bạn là £23,000 một năm và sẽ được xem xét hàng năm.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "banker",
+          "meaning": "người làm trong lĩnh vực ngân hàng",
+          "pronunciation": "/ˈbæŋ.kər/",
+          "type": "noun",
+          "example": "She was a successful banker by the time she was 40.",
+          "exampleMeaning": "Cô ấy đã là một nhân viên ngân hàng thành công khi cô ấy 40 tuổi.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "basketball",
+          "meaning": "môn bóng rổ",
+          "pronunciation": "/ˈbɑː.skɪtˌbɔːl/",
+          "type": "noun",
+          "example": "The sports centre has a basketball court and two squash courts.",
+          "exampleMeaning": "Trung tâm thể thao có một sân bóng rổ và hai sân bóng quần.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "bathroom",
+          "meaning": "nhà vệ sinh, nhà tắm",
+          "pronunciation": "/ˈbɑːθ.ruːm/",
+          "type": "noun",
+          "example": "The burglars must have got in through the bathroom window.",
+          "exampleMeaning": "Những tên trộm chắc chắn đã vào qua cửa sổ phòng tắm.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "behalf",
+          "meaning": "thay mặt, nhân danh",
+          "pronunciation": "/bɪˈhɑːf/",
+          "type": "noun",
+          "example": "The executive of the health workers' union accepted the proposed pay increase on behalf of their members.",
+          "exampleMeaning": "Người điều hành của công đoàn nhân viên y tế đã chấp nhận đề xuất tăng lương thay mặt cho các thành viên của họ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "buffet",
+          "meaning": "tiệc đứng tự phục vụ",
+          "pronunciation": "/ˈbʌf.eɪ/",
+          "type": "noun",
+          "example": "The dinner included a generous buffet and drinks.",
+          "exampleMeaning": "Bữa tối bao gồm tiệc buffet phong phú và đồ uống.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "cab",
+          "meaning": "xe tắc xi",
+          "pronunciation": "/kæb/",
+          "type": "noun",
+          "example": "It'll save time if we go by cab.",
+          "exampleMeaning": "Nó sẽ tiết kiệm thời gian nếu chúng ta đi bằng taxi.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "cabin",
+          "meaning": "nhà gỗ nhỏ trong rừng",
+          "pronunciation": "/ˈkæb.ɪn/",
+          "type": "noun",
+          "example": "We stayed in a cabin in the mountains for two weeks.",
+          "exampleMeaning": "Chúng tôi đã ở trong một căn nhà nhỏ trên núi trong hai tuần.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "calculator",
+          "meaning": "máy tính cầm tay",
+          "pronunciation": "/ˈkæl.kjə.leɪ.tər/",
+          "type": "noun",
+          "example": "The flexible savings account has an online calculator that helps employees estimate health expenses.",
+          "exampleMeaning": "Tài khoản tiết kiệm linh hoạt có một công cụ tính trực tuyến giúp nhân viên ước tính chi phí sức khỏe.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "completion",
+          "meaning": "kết thúc, sự hoàn thành",
+          "pronunciation": "/kəmˈpliː.ʃən/",
+          "type": "noun",
+          "example": "The cost of completion has been revised upwards again due to inflation.",
+          "exampleMeaning": "Chi phí hoàn thành đã được điều chỉnh tăng lên một lần nữa do lạm phát.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "conductor",
+          "meaning": "người chỉ huy, người chỉ đạo",
+          "pronunciation": "/kənˈdʌk.tər/",
+          "type": "noun",
+          "example": "Mascagni was a competent conductor of orchestral music as well as opera.",
+          "exampleMeaning": "Mascagni là một nhạc trưởng có tài chỉ đạo âm nhạc giao hưởng cũng như opera.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "confirmation",
+          "meaning": "sự xác nhận, sự xác minh",
+          "pronunciation": "/ˌkɒn.fəˈmeɪ.ʃən/",
+          "type": "noun",
+          "example": "Thank you for your booking. You will receive confirmation in the post within three working days.",
+          "exampleMeaning": "Cảm ơn bạn đã đặt chỗ. Bạn sẽ nhận được xác nhận qua bưu điện trong vòng ba ngày làm việc.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "congratulation",
+          "meaning": "lời chúc mừng, việc chúc mừng",
+          "pronunciation": "/kənˌɡrætʃ·əˈleɪ·ʃən/",
+          "type": "noun",
+          "example": "He sent her a note of congratulation on her election victory.",
+          "exampleMeaning": "Anh ấy gửi cho cô ấy một lời chúc mừng vì chiến thắng bầu cử của cô ấy.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "correspondence",
+          "meaning": "giao tiếp bằng thư",
+          "pronunciation": "/ˌkɒr.ɪˈspɒn.dəns/",
+          "type": "noun",
+          "example": "Telephone calls and correspondence to the company were ignored.",
+          "exampleMeaning": "Các cuộc gọi điện thoại và thư từ gửi đến công ty đều bị phớt lờ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "defect",
+          "meaning": "lỗi, thiếu sót, sai sót",
+          "pronunciation": "/ˈdiː.fekt/",
+          "type": "noun",
+          "example": "All the company's aircraft have been grounded, after a defect in the engine cooling system was discovered.",
+          "exampleMeaning": "Tất cả các máy bay của công ty đã bị dừng hoạt động, sau khi một khuyết điểm trong hệ thống làm mát động cơ được phát hiện.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "defective",
+          "meaning": "có thiếu sót, bị lỗi",
+          "pronunciation": "/dɪˈfek.tɪv/",
+          "type": "adjective",
+          "example": "The company does not accept returns on any technology products unless they're defective or damaged.",
+          "exampleMeaning": "Công ty không chấp nhận trả lại bất kỳ sản phẩm công nghệ nào trừ khi chúng bị lỗi hoặc hư hỏng.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "delegate",
+          "meaning": "ủy nhiệm, giao nhiệm vụ",
+          "pronunciation": "/ˈdel.ɪ.ɡeɪt/",
+          "type": "verb",
+          "example": "Authority to make financial decisions has been delegated to a special committee.",
+          "exampleMeaning": "Thẩm quyền đưa ra các quyết định tài chính đã được ủy quyền cho một ủy ban đặc biệt.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "delete",
+          "meaning": "gỡ bỏ, xóa bỏ",
+          "pronunciation": "/dɪˈliːt/",
+          "type": "verb",
+          "example": "Lawyers deleted all names and other identifying details from the documents.",
+          "exampleMeaning": "Các luật sư đã xóa tất cả tên và các chi tiết nhận dạng khác khỏi tài liệu.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "expertise",
+          "meaning": "sự thành thạo, kỹ năng chuyên môn",
+          "pronunciation": "/ˌek.spɜːˈtiːz/",
+          "type": "noun",
+          "example": "The database is simple to use and requires no expertise at all.",
+          "exampleMeaning": "Cơ sở dữ liệu rất dễ sử dụng và không cần bất kỳ chuyên môn nào.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "garbage",
+          "meaning": "rác; thứ vô giá trị",
+          "pronunciation": "/ˈɡɑː.bɪdʒ/",
+          "type": "noun",
+          "example": "There will be no regular garbage collection Monday.",
+          "exampleMeaning": "Sẽ không có việc thu gom rác thường xuyên vào thứ Hai.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "graph",
+          "meaning": "đồ thị, biểu đồ",
+          "pronunciation": "/ɡrɑːf/",
+          "type": "noun",
+          "example": "This graph shows how crime has varied in relationship to unemployment over the last 20 years.",
+          "exampleMeaning": "Biểu đồ này cho thấy tội phạm đã thay đổi trong mối quan hệ với thất nghiệp như thế nào trong 20 năm qua.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "ice cream",
+          "meaning": "kem",
+          "pronunciation": "/ˈaɪs ˌkriːm/",
+          "type": "noun",
+          "example": "We sell 32 different flavours of ice cream.",
+          "exampleMeaning": "Chúng tôi bán 32 vị kem khác nhau.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "illogical",
+          "meaning": "phi logic, vô lý",
+          "pronunciation": "/ɪˈlɒdʒ.ɪ.kəl/",
+          "type": "adjective",
+          "example": "It is an illogical statement, because if one part is true, then the other must be false.",
+          "exampleMeaning": "Đó là một tuyên bố phi lý, vì nếu một phần đúng thì phần kia phải sai.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "inspector",
+          "meaning": "sĩ quan cảnh sát cấp cao, thanh tra cảnh sát",
+          "pronunciation": "/ɪnˈspek.tər/",
+          "type": "noun",
+          "example": "The inspector said that standards at the school had to be raised.",
+          "exampleMeaning": "Thanh tra cho rằng tiêu chuẩn ở trường phải được nâng lên.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "intern",
+          "meaning": "thực tập sinh",
+          "pronunciation": "/ˈɪn.tɜːn/",
+          "type": "noun",
+          "example": "Microsoft came to Harvard Business School to recruit summer interns.",
+          "exampleMeaning": "Microsoft đến Trường Kinh doanh Harvard để tuyển thực tập sinh mùa hè.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "ladder",
+          "meaning": "thang",
+          "pronunciation": "/ˈlæd.ər/",
+          "type": "noun",
+          "example": "He went up the ladder onto the deck.",
+          "exampleMeaning": "Anh ấy leo lên thang lên boong tàu.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "leak",
+          "meaning": "rò rỉ",
+          "pronunciation": "/liːk/",
+          "type": "verb",
+          "example": "Water was leaking from the pipe.",
+          "exampleMeaning": "Nước đang rò rỉ từ ống.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "minimize",
+          "meaning": "giảm thiểu, thu nhỏ",
+          "pronunciation": "/ˈmɪn.ɪ.maɪz/",
+          "type": "verb",
+          "example": "He always tried to minimize his own faults, while exaggerating those of others.",
+          "exampleMeaning": "Anh ấy luôn cố gắng giảm thiểu lỗi lầm của mình, trong khi phóng đại những lỗi lầm của người khác.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "occupancy",
+          "meaning": "sự lưu trú",
+          "pronunciation": "/ˈɒk.jʊ.pən.si/",
+          "type": "noun",
+          "example": "Prices are based on full occupancy of an apartment.",
+          "exampleMeaning": "Giá cả dựa trên việc sử dụng đủ công suất của một căn hộ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "omit",
+          "meaning": "bỏ qua hoặc không đề cập đến",
+          "pronunciation": "/əˈmɪt/",
+          "type": "verb",
+          "example": "She omitted to mention that they were staying the night.",
+          "exampleMeaning": "Cô ấy đã bỏ qua việc đề cập rằng họ sẽ ở lại qua đêm.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "optional",
+          "meaning": "tùy ý, không bắt buộc",
+          "pronunciation": "/ˈɒpʃənəl/",
+          "type": "adjective",
+          "example": "Certain courses are compulsory; others are optional.",
+          "exampleMeaning": "Một số khóa học là bắt buộc; những khóa học khác là tùy chọn.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "paycheck",
+          "meaning": "tiền lương",
+          "pronunciation": "/ˈpeɪ.tʃek/",
+          "type": "noun",
+          "example": "I just get a small paycheck every month.",
+          "exampleMeaning": "Tôi chỉ nhận được một khoản lương nhỏ mỗi tháng.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "pet",
+          "meaning": "vật nuôi",
+          "pronunciation": "/pet/",
+          "type": "noun",
+          "example": "Being a responsible pet owner means caring for your pet.",
+          "exampleMeaning": "Làm một người chủ thú cưng có trách nhiệm nghĩa là chăm sóc thú cưng của bạn.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "photography",
+          "meaning": "Nghệ thuật chụp ảnh",
+          "pronunciation": "/fəˈtɒɡ.rə.fi/",
+          "type": "noun",
+          "example": "The film won an award for its photography.",
+          "exampleMeaning": "Bộ phim đã giành được giải thưởng về nhiếp ảnh.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "polite",
+          "meaning": "lịch sự",
+          "pronunciation": "/pəˈlaɪt/",
+          "type": "adjective",
+          "example": "I'm afraid I wasn't very polite to her.",
+          "exampleMeaning": "Tôi sợ rằng tôi đã không lịch sự với cô ấy.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "proficiency",
+          "meaning": "sự thông thạo",
+          "pronunciation": "/prəˈfɪʃ.ən.si/",
+          "type": "noun",
+          "example": "The job ad said they wanted proficiency in at least two languages.",
+          "exampleMeaning": "Quảng cáo việc làm nói rằng họ muốn sự thành thạo ít nhất hai ngôn ngữ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "protective",
+          "meaning": "phòng ngừa, bảo hộ",
+          "pronunciation": "/prəˈtektɪv/",
+          "type": "adjective",
+          "example": "People who work with furnaces in a steel factory need to wear protective clothing.",
+          "exampleMeaning": "Những người làm việc với lò nung trong nhà máy thép cần mặc quần áo bảo hộ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "renewal",
+          "meaning": "sự thay mới, sự đổi mới",
+          "pronunciation": "/rɪˈnjuːəl/",
+          "type": "noun",
+          "example": "His central thesis is that the trauma of war and its aftermath amounted to a renewal of the revolution.",
+          "exampleMeaning": "Luận điểm chính của anh ấy là chấn thương của chiến tranh và hậu quả của nó đã góp phần làm mới cuộc cách mạng.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "salesperson",
+          "meaning": "nhân viên bán hàng",
+          "pronunciation": "/ˈseɪlzˌpɜː.sən/",
+          "type": "noun",
+          "example": "The shop was so busy that it took me ages to get the salesperson's attention.",
+          "exampleMeaning": "Cửa hàng bận rộn đến mức tôi phải mất một thời gian dài mới thu hút được sự chú ý của nhân viên bán hàng.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "sculpture",
+          "meaning": "tác phẩm điêu khắc",
+          "pronunciation": "/ˈskʌlp.tʃər/",
+          "type": "noun",
+          "example": "The museum has several life-sized sculptures of people and animals.",
+          "exampleMeaning": "Bảo tàng có một số bức tượng người và động vật có kích thước như thật.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "seller",
+          "meaning": "người bán",
+          "pronunciation": "/ˈsel.ər/",
+          "type": "noun",
+          "example": "I always read any online feedback about a seller before I buy anything from them.",
+          "exampleMeaning": "Tôi luôn đọc mọi ý kiến phản hồi trực tuyến về người bán trước khi mua bất cứ thứ gì từ họ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "semester",
+          "meaning": "học kì",
+          "pronunciation": "/sɪˈmes.tər/",
+          "type": "noun",
+          "example": "I spent a semester at the University of Madrid.",
+          "exampleMeaning": "Tôi đã trải qua một học kỳ tại Đại học Madrid.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "sidewalk",
+          "meaning": "vỉa hè",
+          "pronunciation": "/ˈsaɪd.wɔːk/",
+          "type": "noun",
+          "example": "Newspapers and broken glass litter the sidewalk.",
+          "exampleMeaning": "Báo chí và mảnh kính vỡ rải rác trên vỉa hè.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "sightsee",
+          "meaning": "tham quan",
+          "pronunciation": "/ˈsaɪt.siː/",
+          "type": "verb",
+          "example": "I haven't come here on vacation or to sightsee.",
+          "exampleMeaning": "Tôi không đến đây để nghỉ dưỡng hay tham quan.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "soup",
+          "meaning": "súp; canh; cháo",
+          "pronunciation": "/suːp/",
+          "type": "noun",
+          "example": "Hot soup is very comforting on a cold winter's day.",
+          "exampleMeaning": "Súp nóng rất an ủi vào một ngày đông lạnh.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "spite",
+          "meaning": "sự thù oán, sự thù hận",
+          "pronunciation": "/spaɪt/",
+          "type": "noun",
+          "example": "He's the sort of man who would let down the tyres on your car just out of/from spite.",
+          "exampleMeaning": "Anh ấy là kiểu người sẽ xì lốp xe của bạn chỉ vì ác ý.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "stack",
+          "meaning": "chồng, đống",
+          "pronunciation": "/stæk/",
+          "type": "noun",
+          "example": "He chose a cartoon from the stack of DVDs on the shelf.",
+          "exampleMeaning": "Anh ấy đã chọn một bộ phim hoạt hình từ chồng đĩa DVD trên kệ.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "taker",
+          "meaning": "người nhận",
+          "pronunciation": "/ˈteɪ.kər/",
+          "type": "noun",
+          "example": "They won't find many takers for the house at that price.",
+          "exampleMeaning": "Họ sẽ không tìm thấy nhiều người mua ngôi nhà với giá đó.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "textbook",
+          "meaning": "sách giáo khoa",
+          "pronunciation": "/ˈtɛkst.bʊk/",
+          "type": "noun",
+          "example": "It was a textbook example of how to deal with the problem.",
+          "exampleMeaning": "Đó là một ví dụ trong sách giáo khoa về cách giải quyết vấn đề.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "transit",
+          "meaning": "sự di chuyển",
+          "pronunciation": "/ˈtræn.zɪt/",
+          "type": "noun",
+          "example": "Our boxes are in transit and should arrive tomorrow.",
+          "exampleMeaning": "Các hộp của chúng tôi đang trên đường vận chuyển và sẽ đến vào ngày mai.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "urgent",
+          "meaning": "cấp thiết",
+          "pronunciation": "/ˈɜː.dʒənt/",
+          "type": "adjective",
+          "example": "The police have issued an urgent appeal for information.",
+          "exampleMeaning": "Cảnh sát đã đưa ra một lời kêu gọi khẩn cấp để lấy thông tin.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "utility",
+          "meaning": "sự hữu ích",
+          "pronunciation": "/juːˈtɪl.ə.ti/",
+          "type": "noun",
+          "example": "The utility of this substance has been proven in a series of tests.",
+          "exampleMeaning": "Lợi ích của chất này đã được chứng minh qua một loạt các thử nghiệm.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "voucher",
+          "meaning": "mã giảm giá",
+          "pronunciation": "/ˈvaʊ.tʃər/",
+          "type": "noun",
+          "example": "The voucher is valid between July and December and entitles you to ten percent off all overseas flights.",
+          "exampleMeaning": "Phiếu giảm giá có giá trị từ tháng Bảy đến tháng Mười Hai và cho phép bạn giảm mười phần trăm cho tất cả các chuyến bay quốc tế.",
+          "note": "Từ vựng List 6"
+        }
+      ]
+    }
+  ]
+}
