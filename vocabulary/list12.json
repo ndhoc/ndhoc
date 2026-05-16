@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_12",
+      "name": "List 12",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accordingly",
+          "meaning": "do đó, cho phù hợp",
+          "pronunciation": "/əˈkɔː.dɪŋ.li/",
+          "type": "adverb",
+          "example": "When we receive your instructions we will act accordingly.",
+          "exampleMeaning": "Khi chúng tôi nhận được hướng dẫn của bạn, chúng tôi sẽ hành động phù hợp.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "apple",
+          "meaning": "quả táo",
+          "pronunciation": "/ˈæp.əl/",
+          "type": "noun",
+          "example": "Newton reasoned that there must be a force such as gravity, when an apple fell on his head.",
+          "exampleMeaning": "Newton lý luận rằng phải có một lực như lực hấp dẫn, khi một quả táo rơi vào đầu ông ấy.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "applicable",
+          "meaning": "liên quan đến/thích hợp",
+          "pronunciation": "/ˈæp.lɪ.kə.bəl/",
+          "type": "adjective",
+          "example": "This part of the law is only applicable to companies employing more than five people.",
+          "exampleMeaning": "Phần này của luật chỉ áp dụng cho các công ty tuyển dụng hơn năm người.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "auction",
+          "meaning": "buổi bán đấu giá",
+          "pronunciation": "/ˈɔːk.ʃən/",
+          "type": "noun",
+          "example": "They're holding an auction of jewellery on Thursday.",
+          "exampleMeaning": "Họ sẽ tổ chức một cuộc đấu giá trang sức vào thứ Năm.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "balcony",
+          "meaning": "ban công",
+          "pronunciation": "/ˈbæl.kə.ni/",
+          "type": "noun",
+          "example": "Our hotel room has a balcony that looks out over the pool.",
+          "exampleMeaning": "Phòng khách sạn của chúng tôi có ban công nhìn ra hồ bơi.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "basement",
+          "meaning": "tầng hầm",
+          "pronunciation": "/ˈbeɪs.mənt/",
+          "type": "noun",
+          "example": "The hardware department is in the basement.",
+          "exampleMeaning": "Bộ phận phần cứng nằm ở tầng hầm.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "beforehand",
+          "meaning": "trước đó",
+          "pronunciation": "/bɪˈfɔː.hænd/",
+          "type": "adverb",
+          "example": "I knew she was coming that afternoon because she had phoned beforehand to say so.",
+          "exampleMeaning": "Tôi biết cô ấy sẽ đến vào chiều hôm đó vì cô ấy đã gọi điện trước để nói như vậy.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "culinary",
+          "meaning": "liên quan đến nấu ăn",
+          "pronunciation": "/ˈkʌl.ɪ.nər.i/",
+          "type": "adjective",
+          "example": "Making soup requires very little in the way of culinary skills apart from an ability to chop vegetables.",
+          "exampleMeaning": "Nấu súp đòi hỏi rất ít kỹ năng nấu ăn ngoài khả năng cắt rau củ.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "documentary",
+          "meaning": "phim tài liệu",
+          "pronunciation": "/ˌdɒk.jʊˈmen.tər.i/",
+          "type": "noun",
+          "example": "The documentary went through all the graphic details of the operation in unsparing detail.",
+          "exampleMeaning": "Bộ phim tài liệu đã đi qua tất cả các chi tiết đồ họa của cuộc phẫu thuật một cách chi tiết không thiếu sót.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "downturn",
+          "meaning": "sự suy thoái, sự suy giảm",
+          "pronunciation": "/ˈdaʊn.tɜːn/",
+          "type": "noun",
+          "example": "There is evidence of a downturn in the housing market.",
+          "exampleMeaning": "Có bằng chứng về sự suy giảm trong thị trường nhà ở.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "earthquake",
+          "meaning": "động đất",
+          "pronunciation": "/ˈɜːθ.kweɪk/",
+          "type": "noun",
+          "example": "In 1906 an earthquake destroyed much of San Francisco.",
+          "exampleMeaning": "Vào năm 1906, một trận động đất đã phá hủy phần lớn San Francisco.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "elegant",
+          "meaning": "tao nhã, thanh lịch",
+          "pronunciation": "/ˈel.ɪ.ɡənt/",
+          "type": "adjective",
+          "example": "This is a fine building of elegant proportions.",
+          "exampleMeaning": "Đây là một tòa nhà đẹp với tỷ lệ thanh lịch.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "embassy",
+          "meaning": "đại sứ quán",
+          "pronunciation": "/ˈem.bə.si/",
+          "type": "noun",
+          "example": "The embassy compound has been closed to the public because of a bomb threat.",
+          "exampleMeaning": "Khuôn viên đại sứ quán đã bị đóng cửa với công chúng vì một mối đe dọa đánh bom.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "excessive",
+          "meaning": "quá mức, thừa",
+          "pronunciation": "/ɪkˈses.ɪv/",
+          "type": "adjective",
+          "example": "Excessive exercise can sometimes cause health problems.",
+          "exampleMeaning": "Tập thể dục quá mức đôi khi có thể gây ra vấn đề sức khỏe.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "fasten",
+          "meaning": "buộc chặt, đóng chặt",
+          "pronunciation": "/ˈfɑː.sən/",
+          "type": "verb",
+          "example": "Make sure your seat belt is securely fastened.",
+          "exampleMeaning": "Hãy chắc chắn rằng dây an toàn của bạn được thắt chặt an toàn.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "generic",
+          "meaning": "có đặc điểm chung",
+          "pronunciation": "/dʒəˈner.ɪk/",
+          "type": "adjective",
+          "example": "The new range of engines all had a generic problem with their fan blades.",
+          "exampleMeaning": "Dòng động cơ mới đều gặp vấn đề chung với các lưỡi quạt.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "harmful",
+          "meaning": "gây tổn hại, đau đớn",
+          "pronunciation": "/ˈhɑːm.fəl/",
+          "type": "adjective",
+          "example": "This group of chemicals is known to be harmful to people with asthma.",
+          "exampleMeaning": "Nhóm hóa chất này được biết là có hại cho những người bị hen suyễn.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "informative",
+          "meaning": "cung cấp nhiều thông tin hữu ích",
+          "pronunciation": "/ɪnˈfɔː.mə.tɪv/",
+          "type": "adjective",
+          "example": "The survey proved highly informative.",
+          "exampleMeaning": "Cuộc khảo sát đã chứng minh rất nhiều thông tin.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "institute",
+          "meaning": "viện, học viện",
+          "pronunciation": "/ˈɪn.stɪ.tjuːt/",
+          "type": "noun",
+          "example": "The report was compiled by Germany's five leading economic research institutes.",
+          "exampleMeaning": "Báo cáo được biên soạn bởi năm viện nghiên cứu kinh tế hàng đầu của Đức.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "jazz",
+          "meaning": "nhạc jazz",
+          "pronunciation": "/dʒæz/",
+          "type": "noun",
+          "example": "the rising stars of the New York jazz scene",
+          "exampleMeaning": "những ngôi sao đang nổi của làng nhạc jazz New York",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "kit",
+          "meaning": "hộp dụng cụ, bộ đồ nghề",
+          "pronunciation": "/kɪt/",
+          "type": "noun",
+          "example": "Check the acidity of the soil with a test kit.",
+          "exampleMeaning": "Kiểm tra độ axit của đất bằng bộ dụng cụ kiểm tra.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "lifetime",
+          "meaning": "cả cuộc đời",
+          "pronunciation": "/ˈlaɪf.taɪm/",
+          "type": "noun",
+          "example": "During my lifetime I haven't got around to much travelling.",
+          "exampleMeaning": "Trong suốt cuộc đời tôi, tôi chưa có cơ hội đi du lịch nhiều.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "locally",
+          "meaning": "bản địa, bản xứ, địa phương",
+          "pronunciation": "/ˈləʊ.kəl.i/",
+          "type": "adverb",
+          "example": "Do you live locally?",
+          "exampleMeaning": "Bạn có sống ở đây không?",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "massage",
+          "meaning": "xoa bóp, mát xa",
+          "pronunciation": "/məˈsɑːʒ/",
+          "type": "verb",
+          "example": "He massaged the aching muscles in her feet.",
+          "exampleMeaning": "Anh ấy xoa bóp những cơ đau nhức ở chân cô ấy.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "maximize",
+          "meaning": "tận dụng tối đa, tối đa hóa",
+          "pronunciation": "/ˈmæk.sɪ.maɪz/",
+          "type": "verb",
+          "example": "The purpose of the restructuring is to maximize opportunities in the global market.",
+          "exampleMeaning": "Mục đích của việc tái cơ cấu là tối đa hóa cơ hội trong thị trường toàn cầu.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "mentor",
+          "meaning": "người cố vấn hoặc giáo viên",
+          "pronunciation": "/ˈmen.tɔːr/",
+          "type": "noun",
+          "example": "She was a friend and mentor to many young actors.",
+          "exampleMeaning": "Cô ấy đã là một người bạn và người cố vấn cho nhiều diễn viên trẻ.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "mild",
+          "meaning": "nhẹ, êm dịu",
+          "pronunciation": "/maɪld/",
+          "type": "adjective",
+          "example": "The infection seems quite mild, so she should be better soon.",
+          "exampleMeaning": "Nhiễm trùng dường như khá nhẹ, vì vậy cô ấy sẽ sớm khỏi.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "nominate",
+          "meaning": "đề cử",
+          "pronunciation": "/ˈnɒm.ɪ.neɪt/",
+          "type": "verb",
+          "example": "She has been nominated for the presidency.",
+          "exampleMeaning": "Cô ấy đã được đề cử vào chức vụ tổng thống.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "ongoing",
+          "meaning": "Vẫn đang xảy ra",
+          "pronunciation": "/ˈɒŋˌɡəʊ.ɪŋ/",
+          "type": "adjective",
+          "example": "The police investigation is ongoing.",
+          "exampleMeaning": "Cuộc điều tra của cảnh sát đang diễn ra.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "opt",
+          "meaning": "lựa chọn",
+          "pronunciation": "/ɒpt/",
+          "type": "verb",
+          "example": "After graduating she opted for a career in music.",
+          "exampleMeaning": "Sau khi tốt nghiệp, cô ấy chọn sự nghiệp âm nhạc.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "parade",
+          "meaning": "diễu hành, tuần hành",
+          "pronunciation": "/pəˈreɪd/",
+          "type": "verb",
+          "example": "The victorious team will parade through the city tomorrow morning.",
+          "exampleMeaning": "Đội chiến thắng sẽ diễu hành qua thành phố vào sáng mai.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "periodically",
+          "meaning": "theo chu kỳ, định kỳ",
+          "pronunciation": "/ˌpɪə.riˈɒd.ɪ.kəl.i/",
+          "type": "adverb",
+          "example": "Mailing lists are updated periodically.",
+          "exampleMeaning": "Danh sách gửi thư được cập nhật định kỳ.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "physician",
+          "meaning": "bác sĩ",
+          "pronunciation": "/fɪˈzɪʃ.ən/",
+          "type": "noun",
+          "example": "Please consult your physician before beginning any new exercise program.",
+          "exampleMeaning": "Vui lòng tham khảo ý kiến bác sĩ trước khi bắt đầu bất kỳ chương trình tập luyện mới nào.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "pie",
+          "meaning": "loại bánh nướng với vỏ bánh phủ một phần hay bao toàn bộ phần nhân làm từ nhiều nguyên liệu khác nhau từ ngọt đến mặn",
+          "pronunciation": "/paɪ/",
+          "type": "noun",
+          "example": "What's the filling in these pies?",
+          "exampleMeaning": "Nhân của những chiếc bánh này là gì?",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "plug",
+          "meaning": "bít (lỗ) lại bằng nút; nút lại",
+          "pronunciation": "/plʌɡ/",
+          "type": "verb",
+          "example": "He plugged the hole in the pipe with an old rag.",
+          "exampleMeaning": "Anh ta đã bịt lỗ trên ống bằng một miếng giẻ cũ.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "polish",
+          "meaning": "đánh bóng",
+          "pronunciation": "/ˈpɒl.ɪʃ/",
+          "type": "verb",
+          "example": "Polish your shoes regularly to protect the leather.",
+          "exampleMeaning": "Đánh bóng giày của bạn thường xuyên để bảo vệ da.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "postage",
+          "meaning": "bưu phí",
+          "pronunciation": "/ˈpəʊ.stɪdʒ/",
+          "type": "noun",
+          "example": "Please enclose £15.99, plus £2 for postage.",
+          "exampleMeaning": "Vui lòng kèm theo 15,99 bảng Anh, cộng thêm 2 bảng cho phí bưu điện.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "recreational",
+          "meaning": "có tính chất giải trí, có tính chất tiêu khiển",
+          "pronunciation": "/ˌrek.riˈeɪ.ʃən.əl/",
+          "type": "adjective",
+          "example": "They provide recreational opportunities for all age groups.",
+          "exampleMeaning": "Họ cung cấp các cơ hội giải trí cho tất cả các nhóm tuổi.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "recruitment",
+          "meaning": "sự tuyển dụng",
+          "pronunciation": "/rɪˈkruːt.mənt/",
+          "type": "noun",
+          "example": "The recession has forced a lot of companies to cut down on graduate recruitment.",
+          "exampleMeaning": "Suy thoái đã buộc nhiều công ty phải cắt giảm việc tuyển dụng sinh viên tốt nghiệp.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "referee",
+          "meaning": "trọng tài",
+          "pronunciation": "/ˌref.əˈriː/",
+          "type": "noun",
+          "example": "The footballer appealed to the referee for a free kick.",
+          "exampleMeaning": "Cầu thủ bóng đá đã khiếu nại với trọng tài để được hưởng quả đá phạt.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "referral",
+          "meaning": "sự giới thiệu (ai hoặc cái gì)",
+          "pronunciation": "/rɪˈfɜː.rəl/",
+          "type": "noun",
+          "example": "The doctor gave him a referral to (= arranged for him to see) the consultant.",
+          "exampleMeaning": "Bác sĩ đã cho anh ta giới thiệu đến (= sắp xếp để anh ta gặp) nhà tư vấn.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "rehearse",
+          "meaning": "diễn tập",
+          "pronunciation": "/rɪˈhɜːs/",
+          "type": "verb",
+          "example": "We'd rehearsed so many times we were sick of the show before we'd started.",
+          "exampleMeaning": "Chúng tôi đã tập dượt nhiều lần đến mức chúng tôi chán ngấy vở diễn trước khi chúng tôi bắt đầu.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "removal",
+          "meaning": "sự dời đi, sự di chuyển",
+          "pronunciation": "/rɪˈmuː.vəl/",
+          "type": "noun",
+          "example": "The kidney plays a vital role in the removal of waste products from the blood.",
+          "exampleMeaning": "Thận đóng một vai trò quan trọng trong việc loại bỏ các sản phẩm chất thải ra khỏi máu.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "renown",
+          "meaning": "sự nổi tiếng",
+          "pronunciation": "/rɪˈnaʊn/",
+          "type": "noun",
+          "example": "He won renown as a fair judge.",
+          "exampleMeaning": "Anh ấy nổi tiếng là một thẩm phán công bằng.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "runner",
+          "meaning": "người chạy bộ",
+          "pronunciation": "/ˈrʌn.ər/",
+          "type": "noun",
+          "example": "Given his age, he's a remarkably fast runner.",
+          "exampleMeaning": "Dựa vào tuổi của anh ấy, anh ấy là một người chạy nhanh đáng kinh ngạc.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "satisfactory",
+          "meaning": "hài lòng, có thể chấp nhận được",
+          "pronunciation": "/ˌsætɪsˈfæktəri/",
+          "type": "adjective",
+          "example": "The teachers seem to think his work is satisfactory.",
+          "exampleMeaning": "Các giáo viên dường như nghĩ rằng công việc của anh ấy là đạt yêu cầu.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "theo mùa",
+          "pronunciation": "/ˈsiː.zən.əl/",
+          "type": "adjective",
+          "example": "Temperatures are well below the seasonal average.",
+          "exampleMeaning": "Nhiệt độ đang ở mức dưới trung bình theo mùa.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "separately",
+          "meaning": "một cách riêng biệt",
+          "pronunciation": "/ˈsep.ər.ət.li/",
+          "type": "adverb",
+          "example": "Detectives interviewed the men separately over several days.",
+          "exampleMeaning": "Các thám tử đã phỏng vấn những người đàn ông riêng biệt trong vài ngày.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "sock",
+          "meaning": "tất",
+          "pronunciation": "/sɒk/",
+          "type": "noun",
+          "example": "Put on your shoes and socks.",
+          "exampleMeaning": "Mang giày và tất của bạn vào.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "spam",
+          "meaning": "Thư rác",
+          "pronunciation": "/spæm/",
+          "type": "noun",
+          "example": "I get so much spam at work.",
+          "exampleMeaning": "Tôi nhận được rất nhiều thư rác ở chỗ làm.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "surf",
+          "meaning": "lướt Web",
+          "pronunciation": "/sɜːf/",
+          "type": "verb",
+          "example": "He spends a lot of time surfing the internet/Net/Web.",
+          "exampleMeaning": "Anh ấy dành rất nhiều thời gian lướt internet.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "timetable",
+          "meaning": "kế hoạch, thời gian biểu",
+          "pronunciation": "/ˈtaɪmˌteɪ.bəl/",
+          "type": "noun",
+          "example": "The timetable for our trip to Paris includes visits to Notre-Dame and the Louvre.",
+          "exampleMeaning": "Lịch trình cho chuyến đi đến Paris của chúng ta bao gồm các chuyến thăm đến Nhà thờ Đức Bà và Bảo tàng Louvre.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "turnover",
+          "meaning": "doanh số; doanh thu",
+          "pronunciation": "/ˈtɜːnˌəʊ.vər/",
+          "type": "noun",
+          "example": "The seven companies have an aggregate turnover of £5.2 million.",
+          "exampleMeaning": "Bảy công ty có doanh thu tổng cộng là 5,2 triệu bảng Anh.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "unnecessary",
+          "meaning": "không cần thiết",
+          "pronunciation": "/ʌnˈnes.ə.ser.i/",
+          "type": "adjective",
+          "example": "This new computer system is completely unnecessary and a misuse of taxpayers' money.",
+          "exampleMeaning": "Hệ thống máy tính mới này hoàn toàn không cần thiết và là một sự lãng phí tiền thuế của người dân.",
+          "note": "Từ vựng List 12"
+        },
+        {
+          "word": "vase",
+          "meaning": "cái bình hoa",
+          "pronunciation": "/vɑːz/",
+          "type": "noun",
+          "example": "The vase landed on the floor with a crash.",
+          "exampleMeaning": "Chiếc bình đáp xuống sàn với một tiếng vỡ.",
+          "note": "Từ vựng List 12"
+        }
+      ]
+    }
+  ]
+}
