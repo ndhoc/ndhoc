@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_16",
+      "name": "List 16",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "amenity",
+          "meaning": "cơ sở vật chất tiện nghi",
+          "pronunciation": "/əˈmiː.nə.ti/",
+          "type": "noun",
+          "example": "The council has some spare cash, which it proposes to spend on public amenities.",
+          "exampleMeaning": "Hội đồng có một ít tiền dư, mà họ đề xuất chi vào các tiện ích công cộng.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "approximate",
+          "meaning": "xấp xỉ, gần đúng với",
+          "pronunciation": "/əˈprɒk.sɪ.meɪt/",
+          "type": "verb",
+          "example": "The newspaper reports of the discussion only roughly approximated to (= were not exactly the same as) what was actually said.",
+          "exampleMeaning": "Các báo cáo trên báo chí về cuộc thảo luận chỉ mô phỏng một cách đại khái (= không hoàn toàn giống với) những gì thực sự đã nói.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "await",
+          "meaning": "chờ đợi, hoặc mong đợi, một cái gì đó sẽ xảy ra",
+          "pronunciation": "/əˈweɪt/",
+          "type": "verb",
+          "example": "The two men are awaiting trial, scheduled to begin next month.",
+          "exampleMeaning": "Hai người đàn ông đang chờ xét xử, dự kiến bắt đầu vào tháng tới.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "barbecue",
+          "meaning": "tiệc nướng ngoài trời",
+          "pronunciation": "/ˈbɑː.bɪ.kjuː/",
+          "type": "noun",
+          "example": "The supermarket sells a range of food ideal for summer barbecues.",
+          "exampleMeaning": "Siêu thị bán nhiều loại thực phẩm lý tưởng cho tiệc nướng mùa hè.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "beginner",
+          "meaning": "người mới",
+          "pronunciation": "/bɪˈɡɪn.ər/",
+          "type": "noun",
+          "example": "All traditional instruments will be taught both for beginners and advanced students.",
+          "exampleMeaning": "Tất cả các nhạc cụ truyền thống sẽ được dạy cho cả người mới bắt đầu và học sinh nâng cao.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "biology",
+          "meaning": "sinh học",
+          "pronunciation": "/baɪˈɒl.ə.dʒi/",
+          "type": "noun",
+          "example": "The book deals with the reproductive biology of the buffalo.",
+          "exampleMeaning": "Cuốn sách đề cập đến sinh học sinh sản của trâu.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "blanket",
+          "meaning": "tấm chăn, cái mền",
+          "pronunciation": "/ˈblæŋ.kɪt/",
+          "type": "noun",
+          "example": "This cuddly baby doll comes with her own blanket and bottle.",
+          "exampleMeaning": "Búp bê em bé dễ thương này đi kèm với chăn và bình sữa của cô ấy.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "chairperson",
+          "meaning": "người phụ trách một cuộc họp, chủ tọa",
+          "pronunciation": "/ˈtʃeəˌpɜː.sən/",
+          "type": "noun",
+          "example": "The role of the chairperson in our meetings is clearly defined.",
+          "exampleMeaning": "Vai trò của chủ tọa trong các cuộc họp của chúng tôi được xác định rõ ràng.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "charitable",
+          "meaning": "từ thiện",
+          "pronunciation": "/ˈtʃær.ɪ.tə.bəl/",
+          "type": "adjective",
+          "example": "The entire organization is funded by charitable donations.",
+          "exampleMeaning": "Toàn bộ tổ chức được tài trợ bởi các khoản quyên góp từ thiện.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "checkup",
+          "meaning": "bài kiểm tra tổng quát",
+          "pronunciation": "/ˈtʃekˌʌp/",
+          "type": "noun",
+          "example": "She goes to her doctor for regular checkups.",
+          "exampleMeaning": "Cô ấy đến gặp bác sĩ của mình để kiểm tra định kỳ.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "cooler",
+          "meaning": "máy làm lạnh, hộp giữ lạnh",
+          "pronunciation": "/ˈkuː.lər/",
+          "type": "noun",
+          "example": "Some passengers came aboard with coolers and bags of food, but we preferred the experience of the dining car.",
+          "exampleMeaning": "Một số hành khách lên tàu mang theo thùng mát và túi đựng thức ăn, nhưng chúng tôi thích trải nghiệm của toa ăn hơn.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "crane",
+          "meaning": "máy trục, cần cẩu",
+          "pronunciation": "/kreɪn/",
+          "type": "noun",
+          "example": "We are one of the top crane hire companies in the country.",
+          "exampleMeaning": "Chúng tôi là một trong những công ty cho thuê cần cẩu hàng đầu trong nước.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "dealership",
+          "meaning": "đại lý",
+          "pronunciation": "/ˈdiː.lə.ʃɪp/",
+          "type": "noun",
+          "example": "The casino is located right on the Strip, and includes an 18-hole golf course and Ferrari dealership.",
+          "exampleMeaning": "Sòng bạc nằm ngay trên Strip, bao gồm một sân golf 18 lỗ và đại lý Ferrari.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "dependable",
+          "meaning": "đáng tin cậy",
+          "pronunciation": "/dɪˈpen.də.bəl/",
+          "type": "adjective",
+          "example": "I need someone dependable to take care of the children while I'm at work.",
+          "exampleMeaning": "Tôi cần một người đáng tin cậy để chăm sóc các con khi tôi đi làm.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "disconnect",
+          "meaning": "Cắt hoặc tách ra",
+          "pronunciation": "/ˌdɪs.kəˈnekt/",
+          "type": "verb",
+          "example": "Never try to fix a broken machine without disconnecting it from the electricity supply.",
+          "exampleMeaning": "Đừng bao giờ cố gắng sửa một chiếc máy hỏng mà không ngắt nó khỏi nguồn điện.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "dispose",
+          "meaning": "bỏ một thứ gì đó",
+          "pronunciation": "/dɪˈspəʊz/",
+          "type": "verb",
+          "example": "The agency has put an end to new efforts to dispose of hazardous waste in sensitive environmental areas.",
+          "exampleMeaning": "Cơ quan này đã chấm dứt các nỗ lực mới để xử lý chất thải nguy hại tại các khu vực môi trường nhạy cảm.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "disrupt",
+          "meaning": "làm gián đoạn và gây ra sự hỗn loạn",
+          "pronunciation": "/dɪsˈrʌpt/",
+          "type": "verb",
+          "example": "The meeting was disrupted by a group of protesters who shouted and threw fruit at the speaker.",
+          "exampleMeaning": "Cuộc họp bị gián đoạn bởi một nhóm người biểu tình hét lên và ném trái cây vào diễn giả.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "dynamic",
+          "meaning": "năng động, sôi nổi",
+          "pronunciation": "/daɪˈnæm.ɪk/",
+          "type": "adjective",
+          "example": "We need a dynamic expansion of trade with other countries.",
+          "exampleMeaning": "Chúng ta cần mở rộng thương mại một cách năng động với các quốc gia khác.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "enthusiastically",
+          "meaning": "một cách hăng hái, nhiệt tình",
+          "pronunciation": "/ɪnˌθjuː.ziˈæs.tɪ.kəl.i/",
+          "type": "adverb",
+          "example": "The crowd were waving flags and enthusiastically singing patriotic songs.",
+          "exampleMeaning": "Đám đông đang vẫy cờ và hát các bài hát yêu nước nhiệt tình.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "environmentally",
+          "meaning": "liên quan đến môi trường tự nhiên",
+          "pronunciation": "/ɪnˌvaɪ.rənˈmen.təl.i/",
+          "type": "adverb",
+          "example": "The programme is aimed at helping cities pursue environmentally friendly development.",
+          "exampleMeaning": "Chương trình nhằm giúp các thành phố theo đuổi phát triển thân thiện với môi trường.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "escalator",
+          "meaning": "thang cuốn",
+          "pronunciation": "/ˈes.kə.leɪ.tər/",
+          "type": "noun",
+          "example": "Sorry but the escalator is out of use; you'll have to take the stairs.",
+          "exampleMeaning": "Xin lỗi nhưng thang cuốn đang không sử dụng được; bạn sẽ phải đi cầu thang.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "exotic",
+          "meaning": "ngoại lai",
+          "pronunciation": "/ɪɡˈzɒt.ɪk/",
+          "type": "adjective",
+          "example": "The courtyard was full of exotic plants in terracotta pots.",
+          "exampleMeaning": "Sân đầy những cây cảnh lạ trong chậu đất nung.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "fabric",
+          "meaning": "Vật liệu, vải",
+          "pronunciation": "/ˈfæb.rɪk/",
+          "type": "noun",
+          "example": "The designs are printed onto the fabric by hand.",
+          "exampleMeaning": "Các thiết kế được in lên vải bằng tay.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "freelance",
+          "meaning": "làm việc tự do",
+          "pronunciation": "/ˈfriː.lɑːns/",
+          "type": "adverb",
+          "example": "She set up her own editorial business and now works freelance from home.",
+          "exampleMeaning": "Cô ấy thành lập doanh nghiệp biên tập riêng và hiện làm việc tự do từ nhà.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "generalization",
+          "meaning": "sự tổng quát hoá, sự tổng hợp",
+          "pronunciation": "/ˌdʒenərəlaɪˈzeɪʃən/",
+          "type": "noun",
+          "example": "The report is full of errors and broad generalizations.",
+          "exampleMeaning": "Báo cáo này đầy lỗi và những sự khái quát rộng rãi.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "grill",
+          "meaning": "vỉ nướng",
+          "pronunciation": "/ɡrɪl/",
+          "type": "noun",
+          "example": "Return the peppers to the grill pan and sprinkle with the Parmesan cheese.",
+          "exampleMeaning": "Đưa ớt trở lại chảo nướng và rắc phô mai Parmesan lên.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "guidance",
+          "meaning": "sự chỉ đạo, sự hướng dẫn",
+          "pronunciation": "/ˈɡaɪ.dəns/",
+          "type": "noun",
+          "example": "The school district needs another guidance counselor to work with students",
+          "exampleMeaning": "Khu học chánh cần một cố vấn học đường khác để làm việc với học sinh",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "gum",
+          "meaning": "keo dán",
+          "pronunciation": "/ɡʌm/",
+          "type": "noun",
+          "example": "There are over five hundred million balloons in Europe which have been tied together with string and gum to form Europe City, the capital of Europe.",
+          "exampleMeaning": "Có hơn năm trăm triệu quả bóng bay ở Châu Âu được buộc lại với nhau bằng dây và keo cao su để tạo thành Thành phố Châu Âu, thủ đô của Châu Âu.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "habitual",
+          "meaning": "thường lệ, theo thói quen",
+          "pronunciation": "/həˈbɪtʃ.u.əl/",
+          "type": "adjective",
+          "example": "Longer prison sentences will help keep habitual criminals off the streets.",
+          "exampleMeaning": "Các án tù dài hơn sẽ giúp giữ những tội phạm theo thói quen ra khỏi đường phố.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "hesitant",
+          "meaning": "do dự, lưỡng lự",
+          "pronunciation": "/ˈhez.ɪ.tənt/",
+          "type": "adjective",
+          "example": "The staff was very hesitant, making excuses and delaying to show Tony his baby.",
+          "exampleMeaning": "Nhân viên rất do dự, viện cớ và trì hoãn để không cho Tony gặp con của anh.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "indicator",
+          "meaning": "sự chỉ thị, tín hiệu",
+          "pronunciation": "/ˈɪn.dɪ.keɪ.tər/",
+          "type": "noun",
+          "example": "Commodity prices can be a useful indicator of inflation",
+          "exampleMeaning": "Giá hàng hóa có thể là một chỉ số hữu ích về lạm phát",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "individually",
+          "meaning": "một cách riêng biệt, riêng lẻ",
+          "pronunciation": "/ˌɪn.dɪˈvɪdʒ.u.ə.li/",
+          "type": "adverb",
+          "example": "This was done by the data collector for each patient individually in a separate room.",
+          "exampleMeaning": "Điều này được thực hiện bởi người thu thập dữ liệu cho từng bệnh nhân riêng lẻ trong một phòng riêng.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "internationally",
+          "meaning": "trên bình diện quốc tế",
+          "pronunciation": "/ˌɪn.təˈnæʃ.ən.əl.i/",
+          "type": "adverb",
+          "example": "To compete internationally, the economy needs graduates who are creative and critical thinkers.",
+          "exampleMeaning": "Để cạnh tranh quốc tế, nền kinh tế cần những sinh viên tốt nghiệp sáng tạo và có tư duy phản biện.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "invaluable",
+          "meaning": "vô giá",
+          "pronunciation": "/ɪnˈvæl.jə.bəl/",
+          "type": "adjective",
+          "example": "The book will be invaluable for students in higher education.",
+          "exampleMeaning": "Quyển sách này sẽ vô giá cho sinh viên trong giáo dục đại học.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "junior",
+          "meaning": "it tuổi hơn; ít thâm niên hơn; ở cấp dưới",
+          "pronunciation": "/ˈdʒuː.ni.ər/",
+          "type": "adjective",
+          "example": "She's quite junior in the organization.",
+          "exampleMeaning": "Cô ấy còn khá non trẻ trong tổ chức.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "lifestyle",
+          "meaning": "lối sống, cách sống",
+          "pronunciation": "/ˈlaɪf.staɪl/",
+          "type": "noun",
+          "example": "They enjoyed an income and lifestyle that many people would envy.",
+          "exampleMeaning": "Họ tận hưởng một khoản thu nhập và lối sống mà nhiều người sẽ ghen tị.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "likewise",
+          "meaning": "cũng như thế, cũng như vậy",
+          "pronunciation": "/ˈlaɪk.waɪz/",
+          "type": "adverb",
+          "example": "All attempts by the Socialists to woo him back were spurned. Similar overtures from the right have likewise been rejected.",
+          "exampleMeaning": "Mọi nỗ lực của Đảng Xã hội nhằm thu hút anh ta quay lại đều bị từ chối. Những tiếp cận tương tự từ phía bên phải cũng bị từ chối.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "messenger",
+          "meaning": "người đưa tin",
+          "pronunciation": "/ˈmes.ɪn.dʒər/",
+          "type": "noun",
+          "example": "There will be a messenger at the airport to collect the photographs from our courier.",
+          "exampleMeaning": "Sẽ có một người đưa tin tại sân bay để thu thập các bức ảnh từ người chuyển phát của chúng tôi.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "morale",
+          "meaning": "tinh thần, chí khí",
+          "pronunciation": "/məˈrɑːl/",
+          "type": "noun",
+          "example": "Morale amongst the players is very high at the moment.",
+          "exampleMeaning": "Tinh thần giữa các cầu thủ hiện rất cao.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "orchestra",
+          "meaning": "ban nhạc, dàn nhạc",
+          "pronunciation": "/ˈɔː.kɪ.strə/",
+          "type": "noun",
+          "example": "She plays the flute in the school orchestra.",
+          "exampleMeaning": "Cô ấy chơi sáo trong dàn nhạc của trường.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "organizational",
+          "meaning": "có tổ chức",
+          "pronunciation": "/ˌɔːɡənaɪˈzeɪʃənəl/",
+          "type": "adjective",
+          "example": "Candidates will require good organizational skills.",
+          "exampleMeaning": "Các ứng viên sẽ cần kỹ năng tổ chức tốt.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "outlook",
+          "meaning": "quan điểm, cách nhìn nhận",
+          "pronunciation": "/ˈaʊt.lʊk/",
+          "type": "noun",
+          "example": "They value tradition and are basically conservative in outlook.",
+          "exampleMeaning": "Họ coi trọng truyền thống và về cơ bản có quan điểm bảo thủ.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "paperback",
+          "meaning": "sách bìa mềm",
+          "pronunciation": "/ˈpeɪ.pə.bæk/",
+          "type": "noun",
+          "example": "The book is to be published as an original paperback.",
+          "exampleMeaning": "Cuốn sách sẽ được xuất bản dưới dạng sách bìa mềm gốc.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "physics",
+          "meaning": "vật lý học (Nghiên cứu khoa học về vật chất và năng lượng và các mối quan hệ giữa chúng, bao gồm nghiên cứu lực, nhiệt, ánh sáng, âm thanh, điện và cấu trúc của nguyên tử)",
+          "pronunciation": "/ˈfɪz.ɪks/",
+          "type": "noun",
+          "example": "Einstein restructured modern physics.",
+          "exampleMeaning": "Einstein đã tái cấu trúc vật lý hiện đại.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "pole",
+          "meaning": "Một cây gậy dài",
+          "pronunciation": "/poʊl/",
+          "type": "noun",
+          "example": "The children of the village dance around a pole decorated with coloured ribbons.",
+          "exampleMeaning": "Những đứa trẻ trong làng nhảy múa quanh một cây cột được trang trí bằng những dải ruy băng màu sắc.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "puzzle",
+          "meaning": "vấn đề khó giải quyết, vấn đề nan giải",
+          "pronunciation": "/ˈpʌz.əl/",
+          "type": "noun",
+          "example": "Scientists have been trying to solve this puzzle for years.",
+          "exampleMeaning": "Các nhà khoa học đã cố gắng giải quyết câu đố này trong nhiều năm.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "rebate",
+          "meaning": "số tiền được chiết khấu",
+          "pronunciation": "/ˈriː.beɪt/",
+          "type": "noun",
+          "example": "Chrysler announced cash rebates of $1000 on some trucks.",
+          "exampleMeaning": "Chrysler thông báo giảm giá tiền mặt $1000 cho một số xe tải.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "recur",
+          "meaning": "xảy ra một lần nữa",
+          "pronunciation": "/rɪˈkɜːr/",
+          "type": "verb",
+          "example": "Water, a symbol of life, recurs as an image throughout her poems.",
+          "exampleMeaning": "Nước, một biểu tượng của sự sống, xuất hiện như một hình ảnh xuyên suốt các bài thơ của cô.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "reflexive",
+          "meaning": "phản thân",
+          "pronunciation": "/rɪˈflek.sɪv/",
+          "type": "adjective",
+          "example": "We are highly reflexive, and we like everything double - humor, parody, satire, jokes, black comedy and so on.",
+          "exampleMeaning": "Chúng tôi có tính phản xạ cao và chúng tôi thích mọi thứ gấp đôi - hài hước, châm biếm, châm biếm, truyện cười, hài kịch đen, v.v.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "snowy",
+          "meaning": "có tuyết rơi",
+          "pronunciation": "/ˈsnəʊ.i/",
+          "type": "adjective",
+          "example": "We've had a very snowy winter this year.",
+          "exampleMeaning": "Năm nay chúng tôi đã có một mùa đông rất nhiều tuyết.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "steak",
+          "meaning": "miếng cá để nướng, miếng thịt để nướng",
+          "pronunciation": "/steɪk/",
+          "type": "noun",
+          "example": "How would you like your steak done?",
+          "exampleMeaning": "Bạn muốn bít tết của mình nấu như thế nào?",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "sticker",
+          "meaning": "hình dán",
+          "pronunciation": "/ˈstɪk.ər/",
+          "type": "noun",
+          "example": "Sophie's notebook is covered with stickers.",
+          "exampleMeaning": "Cuốn sổ của Sophie được bao phủ bằng những hình dán.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "telecommunication",
+          "meaning": "viễn thông",
+          "pronunciation": "/tɪˌlekəˌmjuːnɪˈkeɪʃən/",
+          "type": "noun",
+          "example": "The report sets out the government's new approach to the regulation of telecommunications.",
+          "exampleMeaning": "Báo cáo đưa ra cách tiếp cận mới của chính phủ đối với việc quản lý viễn thông.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "timely",
+          "meaning": "kịp thời",
+          "pronunciation": "/ˈtaɪm.li/",
+          "type": "adjective",
+          "example": "The change in the exchange rate provided a timely boost to the company's falling profits.",
+          "exampleMeaning": "Sự thay đổi trong tỷ giá hối đoái đã cung cấp một sự thúc đẩy kịp thời cho lợi nhuận đang giảm của công ty.",
+          "note": "Từ vựng List 16"
+        },
+        {
+          "word": "uncomfortable",
+          "meaning": "không thoải mái hoặc hài lòng với một tình huống hoặc điều gì đó",
+          "pronunciation": "/ʌnˈkʌmf.tə.bl̩/",
+          "type": "adjective",
+          "example": "We were getting more and more uncomfortable as we jogged along in the back of the truck.",
+          "exampleMeaning": "Chúng tôi cảm thấy ngày càng khó chịu hơn khi chạy bộ trong thùng xe tải.",
+          "note": "Từ vựng List 16"
+        }
+      ]
+    }
+  ]
+}
