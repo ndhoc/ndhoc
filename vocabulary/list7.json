@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_7",
+      "name": "List 7",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "administrator",
+          "meaning": "người quản lý, người cầm quyền",
+          "pronunciation": "/ədˈmɪn.ɪ.streɪ.tər/",
+          "type": "noun",
+          "example": "From 1969 to 1971, he was administrator of the Illinois state drug abuse program",
+          "exampleMeaning": "Từ năm 1969 đến năm 1971, ông là quản trị viên của chương trình lạm dụng thuốc bang Illinois",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "auto",
+          "meaning": "xe hơi",
+          "pronunciation": "/ˈɔː.təʊ/",
+          "type": "noun",
+          "example": "Most dealerships sell both new and used autos.",
+          "exampleMeaning": "Hầu hết các đại lý bán cả xe mới và xe cũ.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "bench",
+          "meaning": "ghế dài (thường thấy trong công viên)",
+          "pronunciation": "/bentʃ/",
+          "type": "noun",
+          "example": "A couple of old codgers were sitting on the park bench, grumbling about the children.",
+          "exampleMeaning": "Một vài ông già đang ngồi trên băng ghế công viên, càu nhàu về bọn trẻ.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "booklet",
+          "meaning": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "pronunciation": "/ˈbʊk.lɪt/",
+          "type": "noun",
+          "example": "Enrolment forms and information booklets are available from the school.",
+          "exampleMeaning": "Các mẫu đơn đăng ký và sách thông tin có sẵn từ trường học.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "born",
+          "meaning": "sinh ra, đẻ ra",
+          "pronunciation": "/bɔːn/",
+          "type": "verb",
+          "example": "As soon as the baby is born he'll start to take an interest in the world around him.",
+          "exampleMeaning": "Ngay khi đứa bé được sinh ra, nó sẽ bắt đầu quan tâm đến thế giới xung quanh mình.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "broker",
+          "meaning": "người môi giới",
+          "pronunciation": "/ˈbrəʊ.kər/",
+          "type": "noun",
+          "example": "I called my broker for advice about investing in the stock market.",
+          "exampleMeaning": "Tôi đã gọi cho nhà môi giới của mình để xin lời khuyên về việc đầu tư vào thị trường chứng khoán.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "cancellation",
+          "meaning": "sự hủy bỏ",
+          "pronunciation": "/ˌkæn.səlˈeɪ.ʃən/",
+          "type": "noun",
+          "example": "Many trains are subject to cancellation because of the flooding.",
+          "exampleMeaning": "Nhiều chuyến tàu bị hủy vì lũ lụt.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "cashier",
+          "meaning": "nhân viên thu ngân",
+          "pronunciation": "/kæˈʃɪər/",
+          "type": "noun",
+          "example": "She started as a cashier making $6.50 an hour, then moved up to customer service manager, making $7.65 an hour.",
+          "exampleMeaning": "Cô ấy bắt đầu làm thu ngân với mức lương $6.50 một giờ, sau đó thăng chức lên quản lý dịch vụ khách hàng với mức lương $7.65 một giờ.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "casual",
+          "meaning": "không thường xuyên, không có kế hoạch",
+          "pronunciation": "/ˈkæʒ.u.əl/",
+          "type": "adjective",
+          "example": "The most recent official figures show that 2.81 million people are employed on a part-time or casual basis.",
+          "exampleMeaning": "Các số liệu chính thức gần đây nhất cho thấy có 2,81 triệu người làm việc bán thời gian hoặc theo kiểu thời vụ.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "conditioner",
+          "meaning": "dầu xả cho tóc",
+          "pronunciation": "/kənˈdɪʃ.ən.ər/",
+          "type": "noun",
+          "example": "Use shampoos and conditioners formulated for color-treated hair to prevent fading.",
+          "exampleMeaning": "Sử dụng dầu gội và dầu xả được pha chế dành cho tóc nhuộm màu để ngăn ngừa phai màu.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "confidential",
+          "meaning": "bảo mật",
+          "pronunciation": "/ˌkɒn.fɪˈden.ʃəl/",
+          "type": "adjective",
+          "example": "All information will be treated as strictly confidential.",
+          "exampleMeaning": "Tất cả thông tin sẽ được xử lý hoàn toàn bí mật.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "cumulative",
+          "meaning": "tích lũy",
+          "pronunciation": "/ˈkjuː.mjə.lə.tɪv/",
+          "type": "adjective",
+          "example": "The cumulative effect of using so many chemicals on the land could be disastrous.",
+          "exampleMeaning": "Tác động tích luỹ của việc sử dụng quá nhiều hóa chất trên đất có thể là thảm họa.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "decorate",
+          "meaning": "trang trí, trang hoàng",
+          "pronunciation": "/ˈdek.ə.reɪt/",
+          "type": "verb",
+          "example": "They decorated the wedding car with ribbons and flowers.",
+          "exampleMeaning": "Họ trang trí xe cưới bằng ruy băng và hoa.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "deduction",
+          "meaning": "Sự lấy đi, sự khấu trừ",
+          "pronunciation": "/dɪˈdʌk.ʃən/",
+          "type": "noun",
+          "example": "New tax regulations would cut the deduction for business lunches.",
+          "exampleMeaning": "Các quy định thuế mới sẽ cắt giảm khoản khấu trừ cho các bữa ăn trưa công việc.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "definite",
+          "meaning": "chắc chắn, chính xác",
+          "pronunciation": "/ˈdef.ɪ.nət/",
+          "type": "adjective",
+          "example": "The date for the meeting is now definite: 5 March .",
+          "exampleMeaning": "Ngày họp đã được ấn định: 5 tháng 3.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "directory",
+          "meaning": "danh bạ, thư mục",
+          "pronunciation": "/dɪˈrek.tər.i/",
+          "type": "noun",
+          "example": "Our idea was to create a local directory with information for new residents.",
+          "exampleMeaning": "Ý tưởng của chúng tôi là tạo ra một thư mục địa phương với thông tin cho cư dân mới.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "disposal",
+          "meaning": "sự vứt bỏ đi",
+          "pronunciation": "/dɪˈspəʊ.zəl/",
+          "type": "noun",
+          "example": "Some cities in the world do not have proper facilities for the disposal of sewage.",
+          "exampleMeaning": "Một số thành phố trên thế giới không có các cơ sở thích hợp để xử lý nước thải.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "drill",
+          "meaning": "khoan lỗ",
+          "pronunciation": "/drɪl/",
+          "type": "verb",
+          "example": "Drill three holes in the wall for the screws.",
+          "exampleMeaning": "Khoan ba lỗ trên tường để bắt vít.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "economical",
+          "meaning": "tiết kiệm, kinh tế",
+          "pronunciation": "/ˌiː.kəˈnɒm.ɪ.kəl/",
+          "type": "adjective",
+          "example": "It's a shame this industry could not be a bit more economical with the costs.",
+          "exampleMeaning": "Thật đáng tiếc ngành công nghiệp này không thể tiết kiệm chi phí hơn.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "efficiently",
+          "meaning": "một cách hữu hiệu, một cách hiệu quả",
+          "pronunciation": "/ɪˈfɪʃ.ənt.li/",
+          "type": "adverb",
+          "example": "We take consumer complaints very seriously and resolve them as quickly and efficiently as possible.",
+          "exampleMeaning": "Chúng tôi rất coi trọng các khiếu nại của người tiêu dùng và giải quyết chúng nhanh chóng và hiệu quả nhất có thể.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "enroll",
+          "meaning": "ghi danh, đăng ký",
+          "pronunciation": "/ɪnˈrəʊl/",
+          "type": "verb",
+          "example": "We have enrolled eighty children in this day-care program.",
+          "exampleMeaning": "Chúng tôi đã ghi danh tám mươi trẻ em vào chương trình giữ trẻ này.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "flyer",
+          "meaning": "tờ gấp quảng cáo, tờ rơi",
+          "pronunciation": "/ˈflaɪ.ər/",
+          "type": "noun",
+          "example": "Her job is to hand out flyers for the club on street corners.",
+          "exampleMeaning": "Công việc của cô ấy là phát tờ rơi cho câu lạc bộ ở các góc phố.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "fountain",
+          "meaning": "Đài phun nước",
+          "pronunciation": "/ˈfaʊn.tɪn/",
+          "type": "noun",
+          "example": "They also sell garden ornaments such as statues and fountains.",
+          "exampleMeaning": "Họ cũng bán các đồ trang trí vườn như tượng và đài phun nước.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "franchise",
+          "meaning": "nhượng quyền kinh doanh, chi nhánh",
+          "pronunciation": "/ˈfræn.tʃaɪz/",
+          "type": "noun",
+          "example": "Each store is owned by an individual who pays a fee for the franchise.",
+          "exampleMeaning": "Mỗi cửa hàng được sở hữu bởi một cá nhân người trả một khoản phí cho nhượng quyền.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "frustrate",
+          "meaning": "làm thất vọng, làm bực mình",
+          "pronunciation": "/frʌsˈtreɪt/",
+          "type": "verb",
+          "example": "Customer service is important, so businesses can't afford to frustrate customers.",
+          "exampleMeaning": "Dịch vụ khách hàng rất quan trọng nên doanh nghiệp không thể làm khách hàng làm thất vọng được.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "garment",
+          "meaning": "Áo quần, hàng may mặc",
+          "pronunciation": "/ˈɡɑː.mənt/",
+          "type": "noun",
+          "example": "Smaller segments of the garment industry that depend more highly on exports will face even higher losses.",
+          "exampleMeaning": "Các phân khúc nhỏ hơn của ngành may mặc phụ thuộc nhiều hơn vào xuất khẩu sẽ đối mặt với tổn thất lớn hơn.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "generous",
+          "meaning": "rộng lượng, hào phóng",
+          "pronunciation": "/ˈdʒen.ər.əs/",
+          "type": "adjective",
+          "example": "The school would like to thank all the pupils and parents who were so generous with their donations.",
+          "exampleMeaning": "Nhà trường xin cảm ơn tất cả các học sinh và phụ huynh đã hào phóng với các khoản đóng góp của họ.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "housekeeper",
+          "meaning": "Người quản gia, nhân viên dọn dẹp",
+          "pronunciation": "/ˈhaʊsˌkiː.pər/",
+          "type": "noun",
+          "example": "At a job fair on Sunday, one firm was employing men housekeepers only and offering high remuneration.",
+          "exampleMeaning": "Tại một hội chợ việc làm vào Chủ Nhật, một công ty chỉ tuyển dụng nam giúp việc gia đình và cung cấp mức lương cao.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "internship",
+          "meaning": "kì thực tập",
+          "pronunciation": "/ˈɪn.tɜːn.ʃɪp/",
+          "type": "noun",
+          "example": "He served his internship at Garfield Hospital.",
+          "exampleMeaning": "Anh ấy đã thực tập tại Bệnh viện Garfield.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "interrupt",
+          "meaning": "làm gián đoạn, làm ngắt quãng",
+          "pronunciation": "/ˌɪn.təˈrʌpt/",
+          "type": "verb",
+          "example": "The game was interrupted several times by rain.",
+          "exampleMeaning": "Trận đấu bị gián đoạn nhiều lần bởi mưa.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép (từ trái cây hoặc rau củ quả)",
+          "pronunciation": "/dʒuːs/",
+          "type": "noun",
+          "example": "I don't drink alcohol so I relaxed with a couple of orange juices.",
+          "exampleMeaning": "Tôi không uống rượu nên tôi thư giãn bằng vài ly nước cam.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "knowledgeable",
+          "meaning": "am hiểu",
+          "pronunciation": "/ˈnɒl.ɪ.dʒə.bəl/",
+          "type": "adjective",
+          "example": "She is very knowledgeable about plants.",
+          "exampleMeaning": "Cô ấy rất hiểu biết về thực vật.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "lane",
+          "meaning": "đường nhỏ/làn đường",
+          "pronunciation": "/leɪn/",
+          "type": "noun",
+          "example": "We drove along a muddy lane to reach the farmhouse.",
+          "exampleMeaning": "Chúng tôi lái xe dọc theo con đường lầy lội để đến trang trại.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "organizer",
+          "meaning": "người tổ chức",
+          "pronunciation": "/ˈɔː.ɡən.aɪ.zər/",
+          "type": "noun",
+          "example": "There aren't enough seats for all the guests - I must tell the organizers.",
+          "exampleMeaning": "Không có đủ chỗ cho tất cả khách mời - tôi phải báo với ban tổ chức.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "orientation",
+          "meaning": "sự định hướng",
+          "pronunciation": "/ˌɔː.ri.enˈteɪ.ʃən/",
+          "type": "noun",
+          "example": "The course is essentially theoretical in orientation.",
+          "exampleMeaning": "Khóa học chủ yếu mang tính lý thuyết.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "outlet",
+          "meaning": "cửa hàng bán lẻ bán đồ xả, đồ giảm giá chính hãng",
+          "pronunciation": "/ˈaʊt.let/",
+          "type": "noun",
+          "example": "Marketing characteristics include the use of different market outlets and labeling practices.",
+          "exampleMeaning": "Đặc điểm tiếp thị bao gồm việc sử dụng các cửa hàng thị trường khác nhau và thực hành ghi nhãn.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "oven",
+          "meaning": "lò nướng",
+          "pronunciation": "/ˈʌv.ən/",
+          "type": "noun",
+          "example": "Take the cake out of the oven.",
+          "exampleMeaning": "Lấy bánh ra khỏi lò.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "overdue",
+          "meaning": "quá hạn",
+          "pronunciation": "/ˌəʊ.vəˈdjuː/",
+          "type": "adjective",
+          "example": "My library books are a week overdue.",
+          "exampleMeaning": "Sách thư viện của tôi đã quá hạn một tuần.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "packet",
+          "meaning": "thùng nhỏ, gói nhỏ, kiện hàng",
+          "pronunciation": "/ˈpæk.ɪt/",
+          "type": "noun",
+          "example": "a packet of biscuits/cigarettes/crisps",
+          "exampleMeaning": "một gói bánh quy/thuốc lá/bim bim",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "pant",
+          "meaning": "thở hổn hển",
+          "pronunciation": "/pænt/",
+          "type": "verb",
+          "example": "She finished the race panting heavily.",
+          "exampleMeaning": "Cô ấy kết thúc cuộc đua trong tình trạng thở hổn hển.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "plumber",
+          "meaning": "thợ sửa ống nước",
+          "pronunciation": "/ˈplʌm.ər/",
+          "type": "noun",
+          "example": "We'll have to get a plumber in to look at that water tank.",
+          "exampleMeaning": "Chúng ta sẽ phải gọi thợ sửa ống nước đến để xem xét bể nước đó.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "popularity",
+          "meaning": "sự nổi tiếng, sự yêu mến của quần chúng",
+          "pronunciation": "/ˌpɒp.jʊˈlær.ə.ti/",
+          "type": "noun",
+          "example": "Cinema in Britain is undergoing a revival of popularity.",
+          "exampleMeaning": "Điện ảnh ở Anh đang trải qua thời kỳ nổi tiếng trở lại.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "poster",
+          "meaning": "tấm áp phích, quảng cáo",
+          "pronunciation": "/ˈpəʊ.stər/",
+          "type": "noun",
+          "example": "The children put up posters on the classroom walls.",
+          "exampleMeaning": "Bọn trẻ đã dán áp phích lên tường lớp học.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "prediction",
+          "meaning": "sự phỏng đoán về tương lai",
+          "pronunciation": "/prɪˈdɪk.ʃən/",
+          "type": "noun",
+          "example": "The figures are imprecise because they're based on a prediction of next year's sales.",
+          "exampleMeaning": "Các con số không chính xác vì chúng dựa trên dự đoán về doanh số bán hàng của năm tới.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "profitable",
+          "meaning": "có lợi nhuận",
+          "pronunciation": "/ˈprɒf.ɪ.tə.bəl/",
+          "type": "adjective",
+          "example": "The business is not really profitable enough.",
+          "exampleMeaning": "Doanh nghiệp không thực sự đủ lợi nhuận.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "promptly",
+          "meaning": "nhanh chóng, ngay lập tức",
+          "pronunciation": "/ˈprɒmpt.li/",
+          "type": "adverb",
+          "example": "We'll have to leave fairly promptly (= on time) if we want to catch that train.",
+          "exampleMeaning": "Chúng ta sẽ phải rời đi khá đúng giờ nếu muốn bắt kịp chuyến tàu đó.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "refrigerator",
+          "meaning": "tủ lạnh",
+          "pronunciation": "/rɪˈfrɪdʒ.ər.eɪ.tər/",
+          "type": "noun",
+          "example": "This dessert can be served straight from the refrigerator.",
+          "exampleMeaning": "Món tráng miệng này có thể được phục vụ ngay từ tủ lạnh.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "reimburse",
+          "meaning": "hoàn lại tiền, bồi hoàn",
+          "pronunciation": "/ˌriːɪmˈbɜːs/",
+          "type": "verb",
+          "example": "The airline reimbursed me for the amount they had overcharged me.",
+          "exampleMeaning": "Hãng hàng không đã hoàn trả số tiền họ đã thu quá của tôi.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "retailer",
+          "meaning": "nhà bán lẻ, cửa hàng bán lẻ",
+          "pronunciation": "/ˈriː.teɪ.lər/",
+          "type": "noun",
+          "example": "Retailers have been attracted to the site by a range of incentives.",
+          "exampleMeaning": "Các nhà bán lẻ đã bị thu hút đến trang web bởi một loạt các ưu đãi.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "showroom",
+          "meaning": "nơi trưng bày, phòng trưng bày",
+          "pronunciation": "/ˈʃoʊ.ruːm/",
+          "type": "noun",
+          "example": "The new model hits showrooms in November.",
+          "exampleMeaning": "Mẫu mới sẽ có mặt tại phòng trưng bày vào tháng Mười Một.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "specification",
+          "meaning": "chi tiết, đặc điểm, sự chỉ rõ",
+          "pronunciation": "/ˌspesɪfɪˈkeɪʃən/",
+          "type": "noun",
+          "example": "All products are made exactly to the customer's specifications.",
+          "exampleMeaning": "Tất cả các sản phẩm đều được làm chính xác theo thông số kỹ thuật của khách hàng.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "subscriber",
+          "meaning": "người đăng kí",
+          "pronunciation": "/səbˈskraɪ.bər/",
+          "type": "noun",
+          "example": "Cable television companies have launched major campaigns to increase their number of subscribers.",
+          "exampleMeaning": "Các công ty truyền hình cáp đã phát động các chiến dịch lớn để tăng số lượng thuê bao của họ.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "vacancy",
+          "meaning": "công việc hoặc vị trí còn bỏ trống",
+          "pronunciation": "/ˈveɪ.kən.si/",
+          "type": "noun",
+          "example": "There is a vacancy for a shop assistant on Saturdays.",
+          "exampleMeaning": "Có một vị trí trống cho trợ lý cửa hàng vào các ngày thứ Bảy.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "vegetarian",
+          "meaning": "người ăn chay",
+          "pronunciation": "/ˌvedʒ.ɪˈteə.ri.ən/",
+          "type": "noun",
+          "example": "Everyone I know likes the smell of bacon - even Mike does and he's a vegetarian.",
+          "exampleMeaning": "Mọi người tôi biết đều thích mùi thịt ba rọi - ngay cả Mike cũng vậy và anh ấy là người ăn chay.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví, bao da",
+          "pronunciation": "/ˈwɒl.ɪt/",
+          "type": "noun",
+          "example": "He pulled out a big, fat wallet stuffed with banknotes.",
+          "exampleMeaning": "Anh ấy rút ra một chiếc ví to, dày cộm chứa đầy tiền giấy.",
+          "note": "Từ vựng List 7"
+        }
+      ]
+    }
+  ]
+}
