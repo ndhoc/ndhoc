@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_5",
+      "name": "List 5",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "affordable",
+          "meaning": "vừa túi tiền, có thể chi trả",
+          "pronunciation": "/əˈfɔː.də.bəl/",
+          "type": "adjective",
+          "example": "According to the guidelines, ten percent of the dwellings in the development must be affordable.",
+          "exampleMeaning": "Theo hướng dẫn, mười phần trăm các căn hộ trong dự án phải có giá phải chăng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "annoy",
+          "meaning": "làm phiền hoặc làm khó chịu",
+          "pronunciation": "/əˈnɔɪ/",
+          "type": "verb",
+          "example": "It really annoys me when people expect me to tip as well as pay a service charge in a restaurant.",
+          "exampleMeaning": "Tôi thật sự bực mình khi mọi người mong đợi tôi vừa phải cho tiền tip, vừa phải trả phí dịch vụ trong nhà hàng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "authority",
+          "meaning": "thẩm quyền, uy quyền",
+          "pronunciation": "/ɔːˈθɒr.ə.ti/",
+          "type": "noun",
+          "example": "The United Nations has used its authority to restore peace in the area.",
+          "exampleMeaning": "Liên Hợp Quốc đã sử dụng quyền lực của mình để khôi phục hòa bình trong khu vực.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "automobile",
+          "meaning": "xe hơi",
+          "pronunciation": "/ˈɔː.tə.mə.biːl/",
+          "type": "noun",
+          "example": "Foreign sales of automobiles, parts, and engines amounted to $5.9 billion.",
+          "exampleMeaning": "Doanh số nước ngoài của ô tô, phụ tùng và động cơ lên tới 5,9 tỷ đô la.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "availability",
+          "meaning": "sự có sẵn, tính sẵn sàng để dùng",
+          "pronunciation": "/əˌveɪ.ləˈbɪl.ə.ti/",
+          "type": "noun",
+          "example": "Many companies choose to produce abroad because of the low labour costs and the availability of skilled labour.",
+          "exampleMeaning": "Nhiều công ty chọn sản xuất ở nước ngoài do chi phí lao động thấp và có sẵn lao động lành nghề.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "bargain",
+          "meaning": "món hời, mức giá tốt",
+          "pronunciation": "/ˈbɑː.ɡɪn/",
+          "type": "noun",
+          "example": "The airline regularly offers last-minute bookings at bargain prices.",
+          "exampleMeaning": "Hãng hàng không thường xuyên cung cấp dịch vụ đặt chỗ vào phút cuối với giá hời.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "baseball",
+          "meaning": "môn bóng chày",
+          "pronunciation": "/ˈbeɪsˌbɔːl/",
+          "type": "noun",
+          "example": "College baseball teams across the country are getting ready for the new season.",
+          "exampleMeaning": "Các đội bóng chày đại học trên khắp cả nước đang chuẩn bị cho mùa giải mới.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "bookstore",
+          "meaning": "hiệu sách",
+          "pronunciation": "/ˈbʊk.stɔːr/",
+          "type": "noun",
+          "example": "Both of these books are available at bookstores and shops that specialize in bird supplies.",
+          "exampleMeaning": "Cả hai cuốn sách này đều có sẵn tại các hiệu sách và các cửa hàng chuyên về đồ dùng cho chim.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "captain",
+          "meaning": "thuyền trưởng, cơ trưởng",
+          "pronunciation": "/ˈkæp.tɪn/",
+          "type": "noun",
+          "example": "This is your captain speaking. We expect to be landing at Osaka Kansai airport in an hour's time.",
+          "exampleMeaning": "Đây là cơ trưởng của bạn đang nói. Chúng tôi dự kiến sẽ hạ cánh tại sân bay Osaka Kansai trong vòng một giờ nữa.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "carrier",
+          "meaning": "người chuyên chở, phương tiện chuyên chở",
+          "pronunciation": "/ˈkær.i.ər/",
+          "type": "noun",
+          "example": "Sioux Railway is the ninth largest rail carrier in the nation.",
+          "exampleMeaning": "Đường sắt Sioux là nhà vận chuyển đường sắt lớn thứ chín ở quốc gia.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "cater",
+          "meaning": "cung cấp, phục vụ thực phẩm",
+          "pronunciation": "/ˈkeɪ.tər/",
+          "type": "verb",
+          "example": "Which firm will be catering at the wedding reception?",
+          "exampleMeaning": "Công ty nào sẽ phục vụ tiệc tại buổi tiếp đón đám cưới?",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "commute",
+          "meaning": "đi lại đến chỗ làm việc",
+          "pronunciation": "/kəˈmjuːt/",
+          "type": "verb",
+          "example": "Debbie works for an investment bank and is presently commuting between Paris and Luxemburg.",
+          "exampleMeaning": "Debbie làm việc cho một ngân hàng đầu tư và hiện đang đi lại giữa Paris và Luxemburg.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "complimentary",
+          "meaning": "không tốn gì, miễn phí",
+          "pronunciation": "/ˌkɒmplɪˈmentəri/",
+          "type": "adjective",
+          "example": "As theater employees, we get complimentary tickets.",
+          "exampleMeaning": "Là nhân viên nhà hát, chúng tôi nhận được vé miễn phí.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "coordinate",
+          "meaning": "điều phối, phối hợp, tổ chức",
+          "pronunciation": "/kəʊˈɔː.dɪ.neɪt/",
+          "type": "verb",
+          "example": "A number of charities are coordinating their efforts to distribute food to the region.",
+          "exampleMeaning": "Một số tổ chức từ thiện đang phối hợp nỗ lực để phân phối thực phẩm đến khu vực.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "courier",
+          "meaning": "người đưa thư, chuyển phát nhanh",
+          "pronunciation": "/ˈkʊr.i.ər/",
+          "type": "noun",
+          "example": "I want to have this package delivered by motorcycle courier.",
+          "exampleMeaning": "Tôi muốn gói hàng này được giao bởi người đưa thư bằng xe máy.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "dental",
+          "meaning": "liên quan đến răng",
+          "pronunciation": "/ˈden.təl/",
+          "type": "adjective",
+          "example": "Pregnant women don't have to pay dental charges under the current health system.",
+          "exampleMeaning": "Phụ nữ mang thai không phải trả phí nha khoa theo hệ thống y tế hiện tại.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "designate",
+          "meaning": "chỉ định",
+          "pronunciation": "/ˈdez.ɪɡ.neɪt/",
+          "type": "verb",
+          "example": "Traditionally, the president designates his or her successor.",
+          "exampleMeaning": "Theo truyền thống, tổng thống chỉ định người kế nhiệm của mình.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "dock",
+          "meaning": "bến tàu thủy",
+          "pronunciation": "/dɒk/",
+          "type": "noun",
+          "example": "The ship sailed into the dock to be refitted.",
+          "exampleMeaning": "Con tàu đã ra khơi vào bến để được trang bị lại.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "duration",
+          "meaning": "khoảng thời gian, độ lâu",
+          "pronunciation": "/djʊˈreɪ.ʃən/",
+          "type": "noun",
+          "example": "Most placements of agency IT staff are of a three-month or six-month duration.",
+          "exampleMeaning": "Hầu hết các vị trí của nhân viên IT của công ty là có thời hạn ba tháng hoặc sáu tháng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "exclusive",
+          "meaning": "dành riêng, độc quyền",
+          "pronunciation": "/ɪkˈskluː.sɪv/",
+          "type": "adjective",
+          "example": "This room is for the exclusive use of guests.",
+          "exampleMeaning": "Phòng này chỉ dành riêng cho khách sử dụng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "flu",
+          "meaning": "bệnh cúm",
+          "pronunciation": "/fluː/",
+          "type": "noun",
+          "example": "There are lots of people off school this week with flu.",
+          "exampleMeaning": "Nhiều người nghỉ học tuần này do bị cúm.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "grocery",
+          "meaning": "cửa hàng tạp hóa",
+          "pronunciation": "/ˈɡroʊ.sər.i/",
+          "type": "noun",
+          "example": "America's largest grocery store chain will be bringing two new stores to Oakland.",
+          "exampleMeaning": "Chuỗi cửa hàng tạp hóa lớn nhất của Mỹ sẽ mang hai cửa hàng mới đến Oakland.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "hike",
+          "meaning": "đi bộ đường dài",
+          "pronunciation": "/haɪk/",
+          "type": "verb",
+          "example": "Spend at least a half-day each weekend on family activities, such as ice skating, in-line skating, hiking, swimming, or skiing.",
+          "exampleMeaning": "Dành ít nhất nửa ngày mỗi cuối tuần cho các hoạt động gia đình như trượt băng, trượt patin, đi bộ đường dài, bơi lội hoặc trượt tuyết.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "homework",
+          "meaning": "bài tập về nhà",
+          "pronunciation": "/ˈhəʊm.wɜːk/",
+          "type": "noun",
+          "example": "For homework I want you to write an essay on endangered species.",
+          "exampleMeaning": "Bài tập về nhà của tôi là viết một bài luận về các loài nguy cấp.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "incomplete",
+          "meaning": "Chưa hoàn thành",
+          "pronunciation": "/ˌɪn.kəmˈpliːt/",
+          "type": "adjective",
+          "example": "The polls have closed but the results of the election are still incomplete.",
+          "exampleMeaning": "Các cuộc thăm dò đã đóng cửa nhưng kết quả của cuộc bầu cử vẫn chưa hoàn thành.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "installation",
+          "meaning": "sự lắp đặt",
+          "pronunciation": "/ˌɪn.stəˈleɪ.ʃən/",
+          "type": "noun",
+          "example": "Installation of the new system will take several days.",
+          "exampleMeaning": "Việc cài đặt hệ thống mới sẽ mất vài ngày.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "lamp",
+          "meaning": "đèn",
+          "pronunciation": "/læmp/",
+          "type": "noun",
+          "example": "The lighting system would be considered as a whole, including items such as fog lamps, sidelights and indicator lights.",
+          "exampleMeaning": "Hệ thống chiếu sáng sẽ được xem xét tổng thể, bao gồm các hạng mục như đèn sương mù, đèn bên và đèn báo.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "lately",
+          "meaning": "mới đây",
+          "pronunciation": "/ˈleɪt.li/",
+          "type": "adverb",
+          "example": "Have you seen her lately?",
+          "exampleMeaning": "Gần đây bạn có thấy cô ấy không?",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "lounge",
+          "meaning": "phòng khách, phòng ngồi chơi (ở khách sạn)",
+          "pronunciation": "/laʊndʒ/",
+          "type": "noun",
+          "example": "The 17-story building had a buyer's lounge on the first floor and a barbershop on the mezzanine.",
+          "exampleMeaning": "Toà nhà 17 tầng có một sảnh cho người mua ở tầng trệt và một tiệm cắt tóc ở tầng lửng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "machinery",
+          "meaning": "Máy móc, thiết bị",
+          "pronunciation": "/məˈʃiː.nər.i/",
+          "type": "noun",
+          "example": "Farmers import most of their machinery and materials.",
+          "exampleMeaning": "Nông dân nhập khẩu phần lớn máy móc và vật liệu của họ.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "memorandum",
+          "meaning": "bản ghi nhớ",
+          "pronunciation": "/ˌmem.əˈræn.dəm/",
+          "type": "noun",
+          "example": "The memorandum was dated 23 August, 2001.",
+          "exampleMeaning": "Bản ghi nhớ được ghi ngày 23 tháng 8, 2001.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "midnight",
+          "meaning": "nửa đêm",
+          "pronunciation": "/ˈmɪd.naɪt/",
+          "type": "noun",
+          "example": "They had to leave at midnight.",
+          "exampleMeaning": "Họ phải rời đi lúc nửa đêm.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "painter",
+          "meaning": "họa sĩ",
+          "pronunciation": "/ˈpeɪn.tər/",
+          "type": "noun",
+          "example": "He works as a painter and decorator.",
+          "exampleMeaning": "Anh ấy làm việc như một họa sĩ và nhà trang trí.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "paperwork",
+          "meaning": "công việc giấy tờ",
+          "pronunciation": "/ˈpeɪ.pə.wɜːk/",
+          "type": "noun",
+          "example": "We're trying to cut down on the amount of paperwork involved.",
+          "exampleMeaning": "Chúng tôi đang cố gắng giảm bớt lượng thủ tục giấy tờ liên quan.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "patron",
+          "meaning": "người bảo trợ",
+          "pronunciation": "/ˈpeɪ.trən/",
+          "type": "noun",
+          "example": "Frederick the Great was the patron of many artists.",
+          "exampleMeaning": "Frederick Đại Đế là người bảo trợ của nhiều nghệ sĩ.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "photocopier",
+          "meaning": "máy photocopy",
+          "pronunciation": "/ˈfəʊ.təʊˌkɒp.i.ər/",
+          "type": "noun",
+          "example": "The hotel has a business center with a computer, printer, and photocopier.",
+          "exampleMeaning": "Khách sạn có trung tâm kinh doanh với máy tính, máy in và máy photocopy.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "prescription",
+          "meaning": "đơn thuốc",
+          "pronunciation": "/prɪˈskrɪp.ʃən/",
+          "type": "noun",
+          "example": "The doctor should give you a repeat prescription (= another piece of paper allowing more of the same medicine to be given, often without the person seeing the doctor again).",
+          "exampleMeaning": "Bác sĩ nên cho bạn một đơn thuốc lặp lại (= một tờ giấy khác cho phép cấp thêm cùng loại thuốc, thường là không cần gặp lại bác sĩ).",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "presenter",
+          "meaning": "người dẫn chương trình, xướng ngôn viên",
+          "pronunciation": "/prɪˈzen.tər/",
+          "type": "noun",
+          "example": "Duggan, a TV presenter and one-time journalist, made the announcement last week.",
+          "exampleMeaning": "Duggan, một người dẫn chương trình TV và một lần là nhà báo, đã đưa ra thông báo vào tuần trước.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "productive",
+          "meaning": "có hiệu quả",
+          "pronunciation": "/prəˈdʌk.tɪv/",
+          "type": "adjective",
+          "example": "We had a very productive meeting - I felt we solved lots of problems.",
+          "exampleMeaning": "Chúng tôi đã có một cuộc họp rất hiệu quả - Tôi cảm thấy chúng tôi đã giải quyết được nhiều vấn đề.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "productivity",
+          "meaning": "năng suất công việc",
+          "pronunciation": "/ˌprɒd.ʌkˈtɪv.ɪ.ti/",
+          "type": "noun",
+          "example": "Studies show that if a working environment is pleasant, productivity increases.",
+          "exampleMeaning": "Các nghiên cứu chỉ ra rằng nếu môi trường làm việc dễ chịu, năng suất sẽ tăng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "questionnaire",
+          "meaning": "bộ câu hỏi",
+          "pronunciation": "/ˌkwes.tʃəˈneər/",
+          "type": "noun",
+          "example": "Visitors to the country have been asked to fill in a detailed questionnaire.",
+          "exampleMeaning": "Khách tham quan đến quốc gia này đã được yêu cầu điền vào một bảng câu hỏi chi tiết.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "quit",
+          "meaning": "bỏ, dừng",
+          "pronunciation": "/kwɪt/",
+          "type": "verb",
+          "example": "Despite opposition from his family, he quit school and became an actor.",
+          "exampleMeaning": "Mặc dù bị gia đình phản đối, anh ấy đã bỏ học và trở thành diễn viên.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "rainy",
+          "meaning": "có mưa, nhiều mưa",
+          "pronunciation": "/ˈreɪ.ni/",
+          "type": "adjective",
+          "example": "We had three rainy days on holiday, but otherwise it was sunny.",
+          "exampleMeaning": "Chúng tôi đã có ba ngày mưa trong kỳ nghỉ, nhưng ngoài ra thì trời nắng.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "relocate",
+          "meaning": "di dời đến 1 địa điểm mới",
+          "pronunciation": "/ˌriː.ləʊˈkeɪt/",
+          "type": "verb",
+          "example": "They have not yet decided where to relocate the factory.",
+          "exampleMeaning": "Họ vẫn chưa quyết định di dời nhà máy đến đâu.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "salad",
+          "meaning": "món salad",
+          "pronunciation": "/ˈsæl.əd/",
+          "type": "noun",
+          "example": "Toss the salad with a vinaigrette dressing.",
+          "exampleMeaning": "Trộn xà lách với nước sốt vinaigrette.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "seldom",
+          "meaning": "hiếm khi",
+          "pronunciation": "/ˈsel.dəm/",
+          "type": "adverb",
+          "example": "Now that we have a baby, we seldom get the chance to go to the cinema.",
+          "exampleMeaning": "Bây giờ chúng tôi có em bé, chúng tôi hiếm khi có cơ hội đi xem phim.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "signature",
+          "meaning": "Chữ ký",
+          "pronunciation": "/ˈsɪɡ.nə.tʃər/",
+          "type": "noun",
+          "example": "On display were boxing gloves which bore Rocky Marciano's signature.",
+          "exampleMeaning": "Được trưng bày là đôi găng tay đấm bốc có chữ ký của Rocky Marciano.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "suite",
+          "meaning": "dãy phòng",
+          "pronunciation": "/swiːt/",
+          "type": "noun",
+          "example": "The singer was interviewed in his hotel suite.",
+          "exampleMeaning": "Ca sĩ đã được phỏng vấn trong phòng khách sạn của ông ấy.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "thorough",
+          "meaning": "kỹ lưỡng, thấu đáo",
+          "pronunciation": "/ˈθʌr.ə/",
+          "type": "adjective",
+          "example": "The arrival of the new baby caused a thorough shake-up of their family life.",
+          "exampleMeaning": "Sự xuất hiện của đứa bé mới đã gây ra một sự xáo trộn hoàn toàn trong cuộc sống gia đình của họ.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "trainee",
+          "meaning": "học viên, thực tập sinh",
+          "pronunciation": "/ˌtreɪˈniː/",
+          "type": "noun",
+          "example": "We have three new trainees in the accounting department.",
+          "exampleMeaning": "Chúng tôi có ba thực tập sinh mới trong bộ phận kế toán.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "trainer",
+          "meaning": "người huấn luyện/huấn luyện viên",
+          "pronunciation": "/ˈtreɪ.nər/",
+          "type": "noun",
+          "example": "They showed pictures of the horse and its trainer (= the person who prepared it for its races).",
+          "exampleMeaning": "Họ đã cho xem hình ảnh của con ngựa và huấn luyện viên của nó (= người đã chuẩn bị cho nó để tham gia các cuộc đua).",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "transaction",
+          "meaning": "sự buôn bán; sự giao dịch",
+          "pronunciation": "/trænˈzæk.ʃən/",
+          "type": "noun",
+          "example": "You can call your bank and perform a transaction using a Touch-Tone phone.",
+          "exampleMeaning": "Bạn có thể gọi cho ngân hàng của mình và thực hiện giao dịch bằng điện thoại Touch-Tone.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "unhappy",
+          "meaning": "không hạnh phúc, không vui",
+          "pronunciation": "/ʌnˈhæpi/",
+          "type": "adjective",
+          "example": "She had an unhappy childhood.",
+          "exampleMeaning": "Cô ấy đã có một tuổi thơ không hạnh phúc.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "verify",
+          "meaning": "xác nhận",
+          "pronunciation": "/ˈver.ɪ.faɪ/",
+          "type": "verb",
+          "example": "Are you able to verify your account/allegation/report/theory?",
+          "exampleMeaning": "Bạn có thể xác minh tài khoản/cáo buộc/báo cáo/giả thuyết của mình không?",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "worldwide",
+          "meaning": "toàn cầu, khắp thế giới",
+          "pronunciation": "/ˌwɜːldˈwaɪd/",
+          "type": "adverb",
+          "example": "The author has a vision of an emerging worldwide Christian communion.",
+          "exampleMeaning": "Tác giả có tầm nhìn về một cộng đoàn Cơ đốc đang nổi lên trên toàn thế giới.",
+          "note": "Từ vựng List 5"
+        }
+      ]
+    }
+  ]
+}
