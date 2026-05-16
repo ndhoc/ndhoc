@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_11",
+      "name": "List 11",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "absent",
+          "meaning": "Mất tích, không có mặt",
+          "pronunciation": "/ˈæb.sənt/",
+          "type": "adjective",
+          "example": "John has been absent from school/work for three days now",
+          "exampleMeaning": "John đã vắng mặt ở trường/công việc được ba ngày rồi",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "accumulate",
+          "meaning": "tích lũy, gom góp",
+          "pronunciation": "/əˈkjuː.mjə.leɪt/",
+          "type": "verb",
+          "example": "As people accumulate more wealth, they tend to spend a greater proportion of their incomes",
+          "exampleMeaning": "Khi con người tích lũy nhiều của cải hơn, họ có xu hướng chi một tỷ lệ lớn hơn trong thu nhập của mình",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "adhere",
+          "meaning": "tuân theo, tuân thủ",
+          "pronunciation": "/ədˈhɪər/",
+          "type": "verb",
+          "example": "I do not adhere to any organized religion",
+          "exampleMeaning": "Tôi không tuân theo bất kỳ tôn giáo tổ chức nào",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "appraisal",
+          "meaning": "sự đánh giá, thẩm định",
+          "pronunciation": "/əˈpreɪ.zəl/",
+          "type": "noun",
+          "example": "The newspaper gave an editorial appraisal of the government's achievements of the past year.",
+          "exampleMeaning": "Tờ báo đã đưa ra một bài bình luận đánh giá về những thành tựu của chính phủ trong năm qua.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "apprentice",
+          "meaning": "người học việc, người học nghề",
+          "pronunciation": "/əˈpren.tɪs/",
+          "type": "noun",
+          "example": "He worked for two years as a plumber's apprentice",
+          "exampleMeaning": "Anh ấy đã làm việc hai năm như một thợ học nghề thợ sửa ống nước",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "bankrupt",
+          "meaning": "phá sản, vỡ nợ",
+          "pronunciation": "/ˈbæŋ.krʌpt/",
+          "type": "adjective",
+          "example": "The recession has led to many small businesses going bankrupt.",
+          "exampleMeaning": "Suy thoái kinh tế đã dẫn đến việc nhiều doanh nghiệp nhỏ bị phá sản.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "businessman",
+          "meaning": "doanh nhân",
+          "pronunciation": "/ˈbɪz.nɪs.mæn/",
+          "type": "noun",
+          "example": "As a wealthy businessman, he couldn't even begin to imagine real poverty.",
+          "exampleMeaning": "Là một doanh nhân giàu có, anh ta thậm chí không thể bắt đầu tưởng tượng ra sự nghèo khó thực sự.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "caution",
+          "meaning": "lời cảnh báo, sự cảnh giác",
+          "pronunciation": "/ˈkɔː.ʃən/",
+          "type": "noun",
+          "example": "Just a word of caution - the cheaper models probably aren't worth buying.",
+          "exampleMeaning": "Chỉ một lời nhắc nhở - những mẫu rẻ hơn có lẽ không đáng mua.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "ceiling",
+          "meaning": "trần nhà",
+          "pronunciation": "/ˈsiː.lɪŋ/",
+          "type": "noun",
+          "example": "On the bathroom ceiling, some pieces of plaster had fallen away.",
+          "exampleMeaning": "Trên trần nhà tắm, một số mảnh thạch cao đã rơi xuống.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "clip",
+          "meaning": "cắt ngắn",
+          "pronunciation": "/klɪp/",
+          "type": "verb",
+          "example": "She clipped the coupons out of the newspaper.",
+          "exampleMeaning": "Cô ấy cắt phiếu giảm giá ra khỏi tờ báo.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "colorful",
+          "meaning": "Có nhiều màu sắc khác nhau, sặc sỡ",
+          "pronunciation": "/ˈkʌl·ə·fəl/",
+          "type": "adjective",
+          "example": "The scenery was bright and colorful, as were the costumes",
+          "exampleMeaning": "Phong cảnh rực rỡ và đầy màu sắc, như những bộ trang phục.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "compensate",
+          "meaning": "trả tiền, trả thù lao",
+          "pronunciation": "/ˈkɒm.pən.seɪt/",
+          "type": "verb",
+          "example": "Corporations often rely on stock options to compensate executives",
+          "exampleMeaning": "Các tập đoàn thường dựa vào quyền chọn mua cổ phiếu để đền bù cho các giám đốc điều hành",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "comply",
+          "meaning": "tuân theo, làm theo",
+          "pronunciation": "/kəmˈplaɪ/",
+          "type": "verb",
+          "example": "There are serious penalties for failure to comply with the regulations.",
+          "exampleMeaning": "Có những hình phạt nghiêm khắc đối với việc không tuân thủ các quy định.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "costume",
+          "meaning": "trang phục (thường cho những dịp đặc biệt như Halloween)",
+          "pronunciation": "/ˈkɒs.tʃuːm/",
+          "type": "noun",
+          "example": "The movie won Oscars for best costumes and best screenplay in this year's awards.",
+          "exampleMeaning": "Bộ phim đã giành được giải Oscar cho trang phục đẹp nhất và kịch bản hay nhất trong giải thưởng năm nay.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "diner",
+          "meaning": "quán ăn rẻ tiền",
+          "pronunciation": "/ˈdaɪ.nər/",
+          "type": "noun",
+          "example": "Before heading home to New York, we stop and eat lunch in a road-side diner.",
+          "exampleMeaning": "Trước khi về nhà ở New York, chúng tôi dừng lại và ăn trưa tại một quán ăn ven đường.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "duplicate",
+          "meaning": "nhân bản, sao chép",
+          "pronunciation": "/ˈdjuː.plɪ.keɪt/",
+          "type": "verb",
+          "example": "Businesses should make sure important records and files are duplicated and stored in another location.",
+          "exampleMeaning": "Các doanh nghiệp nên đảm bảo rằng các hồ sơ và tệp tin quan trọng được sao chép và lưu trữ ở một địa điểm khác.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "eager",
+          "meaning": "hăng hái, háo hức",
+          "pronunciation": "/ˈiː.ɡər/",
+          "type": "adjective",
+          "example": "They crowded around the spokesperson, eager for any news.",
+          "exampleMeaning": "Họ tụ tập quanh người phát ngôn, háo hức chờ đợi bất kỳ tin tức nào.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "economist",
+          "meaning": "nhà kinh tế học",
+          "pronunciation": "/ɪˈkɒn.ə.mɪst/",
+          "type": "noun",
+          "example": "Many economists expect unemployment to fall over the next couple of months.",
+          "exampleMeaning": "Nhiều nhà kinh tế dự đoán tỷ lệ thất nghiệp sẽ giảm trong vài tháng tới.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "editorial",
+          "meaning": "bài xã luận",
+          "pronunciation": "/ˌed.ɪˈtɔː.ri.əl/",
+          "type": "noun",
+          "example": "All the papers deal with the same subject in their editorials.",
+          "exampleMeaning": "Tất cả các tờ báo đều đề cập đến cùng một chủ đề trong các bài xã luận của họ.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "effectiveness",
+          "meaning": "tính hữu hiệu, tính hiệu quả",
+          "pronunciation": "/ɪˈfek.tɪv.nəs, əˈfek.tɪv.nəs/",
+          "type": "noun",
+          "example": "The study will review the effectiveness of reading and mathematics software products.",
+          "exampleMeaning": "Nghiên cứu sẽ xem xét hiệu quả của các sản phẩm phần mềm đọc và toán học.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "expiration",
+          "meaning": "sự hết hạn, sự kết thúc",
+          "pronunciation": "/ˌek.spɪˈreɪ.ʃən/",
+          "type": "noun",
+          "example": "Our automated auto-renewal system will notify you when your domain name is nearing expiration.",
+          "exampleMeaning": "Hệ thống tự động gia hạn của chúng tôi sẽ thông báo cho bạn khi tên miền của bạn sắp hết hạn.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "facilitate",
+          "meaning": "tạo điều kiện thuận lợi",
+          "pronunciation": "/fəˈsɪl.ɪ.teɪt/",
+          "type": "verb",
+          "example": "The current structure does not facilitate efficient work flow.",
+          "exampleMeaning": "Cấu trúc hiện tại không tạo điều kiện cho luồng công việc hiệu quả.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "firefighter",
+          "meaning": "lính cứu hỏa",
+          "pronunciation": "/ˈfaɪəˌfaɪ.tər/",
+          "type": "noun",
+          "example": "Several of the firefighters received commendation for their bravery.",
+          "exampleMeaning": "Một số lính cứu hỏa đã nhận được lời khen ngợi vì sự dũng cảm của họ.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "gasoline",
+          "meaning": "dầu xăng",
+          "pronunciation": "/ˈɡæs.əˌliːn/",
+          "type": "noun",
+          "example": "The price of gasoline has risen sharply in recent years.",
+          "exampleMeaning": "Giá xăng đã tăng mạnh trong những năm gần đây.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "headache",
+          "meaning": "đau đầu",
+          "pronunciation": "/ˈhed.eɪk/",
+          "type": "noun",
+          "example": "I tried taking tablets for the headache but they didn't have any effect.",
+          "exampleMeaning": "Tôi đã thử uống viên thuốc cho cơn đau đầu nhưng chúng không có tác dụng.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "inappropriate",
+          "meaning": "không thích hợp, không thích đáng",
+          "pronunciation": "/ˌɪnəˈprəʊpriət/",
+          "type": "adjective",
+          "example": "His casual clothes were inappropriate for such a formal occasion.",
+          "exampleMeaning": "Trang phục bình thường của anh ấy không phù hợp cho một dịp trang trọng như vậy.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "internet",
+          "meaning": "mạng internet",
+          "pronunciation": "/ˈɪn.tə.net/",
+          "type": "noun",
+          "example": "She likes to go on the internet in the evenings.",
+          "exampleMeaning": "Cô ấy thích lên mạng vào buổi tối.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "jam",
+          "meaning": "nhồi nhét, ấn chặt",
+          "pronunciation": "/dʒæm/",
+          "type": "verb",
+          "example": "He jammed his fingers in his ears.",
+          "exampleMeaning": "Anh ấy nhét ngón tay vào tai.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "landlord",
+          "meaning": "chủ nhà",
+          "pronunciation": "/ˈlænd.lɔːd/",
+          "type": "noun",
+          "example": "His landlord doubled the rent.",
+          "exampleMeaning": "Chủ nhà của anh ấy đã tăng gấp đôi tiền thuê.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "layout",
+          "meaning": "sự sắp đặt, dàn bài tổng thể",
+          "pronunciation": "/ˈleɪ.aʊt/",
+          "type": "noun",
+          "example": "There is no single correct layout for business letters.",
+          "exampleMeaning": "Không có một bố cục chính xác duy nhất cho các thư doanh nghiệp.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "lunchtime",
+          "meaning": "giờ ăn trưa",
+          "pronunciation": "/ˈlʌn.tʃ.taɪm/",
+          "type": "noun",
+          "example": "The package still hadn't arrived by lunchtime.",
+          "exampleMeaning": "Gói hàng vẫn chưa đến vào giờ ăn trưa.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "nail",
+          "meaning": "đinh",
+          "pronunciation": "/neɪl/",
+          "type": "noun",
+          "example": "She hammered the nail in.",
+          "exampleMeaning": "Cô ấy đóng chiếc đinh vào.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "optimistic",
+          "meaning": "lạc quan, tích cực",
+          "pronunciation": "/ˌɒp.tɪˈmɪs.tɪk/",
+          "type": "adjective",
+          "example": "he's not very optimistic about the outcome of the talks.",
+          "exampleMeaning": "anh ấy không mấy lạc quan về kết quả của các cuộc đàm phán.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "payroll",
+          "meaning": "tổng lương, bảng lương",
+          "pronunciation": "/ˈpeɪ.rəʊl/",
+          "type": "noun",
+          "example": "The firm is growing fast with a monthly payroll of $1 million.",
+          "exampleMeaning": "Công ty đang phát triển nhanh với bảng lương hàng tháng là 1 triệu đô la.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "pedestrian",
+          "meaning": "người đi bộ",
+          "pronunciation": "/pəˈdestriən/",
+          "type": "noun",
+          "example": "Two pedestrians were injured when the car skidded.",
+          "exampleMeaning": "Hai người đi bộ bị thương khi chiếc xe trượt.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "pharmaceutical",
+          "meaning": "liên quan đến dược phẩm hoặc liên quan đến việc mua bán, sử dụng thuốc",
+          "pronunciation": "/ˌfɑː.məˈsuː.tɪ.kəl/",
+          "type": "adjective",
+          "example": "An American pharmaceutical company has produced a remarkable new drug.",
+          "exampleMeaning": "Một công ty dược phẩm Mỹ đã sản xuất một loại thuốc mới đáng chú ý.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "plausible",
+          "meaning": "hợp lý",
+          "pronunciation": "/ˈplɔː.zə.bəl/",
+          "type": "adjective",
+          "example": "There was no way the story could be made to sound even remotely plausible.",
+          "exampleMeaning": "Không có cách nào để câu chuyện này có thể nghe có vẻ hợp lý dù chỉ một chút.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "premium",
+          "meaning": "khoản tiền trả thêm",
+          "pronunciation": "/ˈpriː.mi.əm/",
+          "type": "noun",
+          "example": "Car insurance premiums have increased this year.",
+          "exampleMeaning": "Phí bảo hiểm xe hơi đã tăng trong năm nay.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "projection",
+          "meaning": "sự dự đoán về tương lai (ví dụ: dự đoán về doanh số hay thu nhập)",
+          "pronunciation": "/prəˈdʒek.ʃən/",
+          "type": "noun",
+          "example": "The company has failed to achieve last year's sales projections by 30 percent.",
+          "exampleMeaning": "Công ty đã không đạt được dự báo doanh số của năm ngoái 30 phần trăm.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "safely",
+          "meaning": "một cách an toàn",
+          "pronunciation": "/ˈseɪf.li/",
+          "type": "adverb",
+          "example": "I'm pleased the parcel arrived safely.",
+          "exampleMeaning": "Tôi rất vui vì bưu kiện đã đến an toàn.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "simplify",
+          "meaning": "đơn giản hóa",
+          "pronunciation": "/ˈsɪm.plɪ.faɪ/",
+          "type": "verb",
+          "example": "They are trying to simplify the regulations.",
+          "exampleMeaning": "Họ đang cố gắng đơn giản hóa các quy định.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "sleeve",
+          "meaning": "tay áo",
+          "pronunciation": "/sliːv/",
+          "type": "noun",
+          "example": "The sleeve of my jacket got caught on the door handle and ripped.",
+          "exampleMeaning": "Tay áo của chiếc áo khoác của tôi bị mắc vào tay nắm cửa và rách.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "solar",
+          "meaning": "liên quan đến mặt trời",
+          "pronunciation": "/ˈsəʊ.lər/",
+          "type": "adjective",
+          "example": "They are searching for intelligent life forms in other solar systems.",
+          "exampleMeaning": "Họ đang tìm kiếm các dạng sống thông minh trong các hệ mặt trời khác.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "specialty",
+          "meaning": "chuyên môn",
+          "pronunciation": "/ˈspeʃ.əl.ti/",
+          "type": "noun",
+          "example": "Her specialty is heart surgery.",
+          "exampleMeaning": "Chuyên môn của cô ấy là phẫu thuật tim.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "suburb",
+          "meaning": "ngoại ô",
+          "pronunciation": "/ˈsʌb.ɜːb/",
+          "type": "noun",
+          "example": "Box Hill is a suburb of Melbourne.",
+          "exampleMeaning": "Box Hill là một vùng ngoại ô của Melbourne.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "takeover",
+          "meaning": "sự mua lại để giành quyền kiểm soát công ty",
+          "pronunciation": "/ˈteɪkˌəʊ.vər/",
+          "type": "noun",
+          "example": "It has emerged that secret talks had been going on between the two companies before the takeover was announced.",
+          "exampleMeaning": "Đã xuất hiện rằng các cuộc đàm phán bí mật đã diễn ra giữa hai công ty trước khi thông báo mua lại.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "tech",
+          "meaning": "từ viết tắt của technology - công nghệ",
+          "pronunciation": "/tek/",
+          "type": "noun",
+          "example": "tech industry/sector/economy",
+          "exampleMeaning": "ngành công nghệ/khu vực/nền kinh tế công nghệ",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "unexpected",
+          "meaning": "không ngờ tới",
+          "pronunciation": "/ˌʌnɪkˈspektɪd/",
+          "type": "adjective",
+          "example": "The president made an unexpected announcement this morning.",
+          "exampleMeaning": "Tổng thống đã đưa ra một thông báo bất ngờ vào sáng nay.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "unspecified",
+          "meaning": "không xác định",
+          "pronunciation": "/ˌʌn.spəˈsɪf.aɪd/",
+          "type": "adjective",
+          "example": "The court awarded her an unspecified amount of money.",
+          "exampleMeaning": "Toà án đã trao cho cô ấy một khoản tiền chưa xác định.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "unsure",
+          "meaning": "không chắc chắn",
+          "pronunciation": "/ʌnˈʃɔːr/",
+          "type": "adjective",
+          "example": "I'm unsure about what to do next - can you help me?",
+          "exampleMeaning": "Tôi không chắc phải làm gì tiếp theo - bạn có thể giúp tôi không?",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "upstairs",
+          "meaning": "tầng trên, gác, lầu (của một ngôi nhà..)",
+          "pronunciation": "/ˌʌpˈsteəz/",
+          "type": "adverb/adjective",
+          "example": "He's upstairs doing his homework.",
+          "exampleMeaning": "Anh ấy ở trên lầu làm bài tập về nhà.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "verbal",
+          "meaning": "bằng lời nói, bằng miệng",
+          "pronunciation": "/ˈvɜː.bəl/",
+          "type": "adjective",
+          "example": "Do you have it down in writing, or was it just a verbal agreement?",
+          "exampleMeaning": "Bạn có ghi ra giấy không, hay chỉ là thỏa thuận bằng miệng?",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "visa",
+          "meaning": "thị thực",
+          "pronunciation": "/ˈviː.zə/",
+          "type": "noun",
+          "example": "I've applied for an extension to my visa.",
+          "exampleMeaning": "Tôi đã nộp đơn xin gia hạn visa của mình.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "wildlife",
+          "meaning": "loài hoang dã",
+          "pronunciation": "/ˈwaɪld.laɪf/",
+          "type": "noun",
+          "example": "At the museum there was a diorama of local wildlife.",
+          "exampleMeaning": "Tại bảo tàng có một diorama về động vật hoang dã địa phương.",
+          "note": "Từ vựng List 11"
+        },
+        {
+          "word": "workforce",
+          "meaning": "lực lượng lao động",
+          "pronunciation": "/ˈwɜːk.fɔːs/",
+          "type": "noun",
+          "example": "The majority of factories in the region have a workforce of 50 to 100 (people).",
+          "exampleMeaning": "Phần lớn các nhà máy trong khu vực có lực lượng lao động từ 50 đến 100 (người).",
+          "note": "Từ vựng List 11"
+        }
+      ]
+    }
+  ]
+}
