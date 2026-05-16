@@ -1,0 +1,434 @@
+{
+  "topics": [
+    {
+      "id": "list_23",
+      "name": "List 23",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "acclaim",
+          "meaning": "Sự chấp thuận và khen ngợi",
+          "pronunciation": "/əˈkleɪm/",
+          "type": "noun",
+          "example": "Despite the critical acclaim, the novel did not sell well.",
+          "exampleMeaning": "Mặc dù được giới phê bình khen ngợi, tiểu thuyết không bán chạy.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "bookcase",
+          "meaning": "tủ sách, kệ sách",
+          "pronunciation": "/ˈbʊk.keɪs/",
+          "type": "noun",
+          "example": "These bulky albums are now spread across bookcases, cupboards, trunks, and attics.",
+          "exampleMeaning": "Những album cồng kềnh này bây giờ được trải rộng khắp các giá sách, tủ chén, rương và gác mái.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "cheer",
+          "meaning": "cổ vũ, hoan hô",
+          "pronunciation": "/tʃɪər/",
+          "type": "verb",
+          "example": "Everyone cheered as the winners received their medals.",
+          "exampleMeaning": "Mọi người hò reo khi những người chiến thắng nhận huy chương.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "chronic",
+          "meaning": "trong một khoảng thời gian dài",
+          "pronunciation": "/ˈkrɒn.ɪk/",
+          "type": "adjective",
+          "example": "Mr. George is resigning because of chronic heart disease.",
+          "exampleMeaning": "Ông George đang từ chức vì bệnh tim mạn tính.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "cleanliness",
+          "meaning": "trạng thái không bẩn, sạch sẽ",
+          "pronunciation": "/ˈklen.li.nəs/",
+          "type": "noun",
+          "example": "Her job involved checking the cleanliness of restaurants.",
+          "exampleMeaning": "Công việc của cô ấy liên quan đến việc kiểm tra sự sạch sẽ của các nhà hàng.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "complication",
+          "meaning": "sự phức tạp, sự rắc rối",
+          "pronunciation": "/ˌkɒm.plɪˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "Dave couldn't find his passport at the airport and then there were further complications when Fiona lost her baggage.",
+          "exampleMeaning": "Dave đã không thể tìm thấy hộ chiếu của anh ấy tại sân bay và sau đó có thêm phức tạp khi Fiona mất hành lý của cô ấy.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "considerate",
+          "meaning": "ân cần, chu đáo, hay quan tâm tới người khác",
+          "pronunciation": "/kənˈsɪd.ər.ət/",
+          "type": "adjective",
+          "example": "The chairman's statement is considerate of the diverse interests represented by the leaders in the meeting.",
+          "exampleMeaning": "Tuyên bố của chủ tịch rất chu đáo đối với các lợi ích đa dạng được đại diện bởi các nhà lãnh đạo trong cuộc họp.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "contestant",
+          "meaning": "thí sinh, người dự thi",
+          "pronunciation": "/kənˈtes.tənt/",
+          "type": "noun",
+          "example": "The applicants were then interviewed and tested for suitability and contestants selected.",
+          "exampleMeaning": "Sau đó các ứng viên được phỏng vấn và kiểm tra về mức độ phù hợp và những người tham gia được chọn.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "daytime",
+          "meaning": "ban ngày",
+          "pronunciation": "/ˈdeɪ.taɪm/",
+          "type": "noun",
+          "example": "I'd prefer a flight that leaves in the daytime, as I'll have young children with me.",
+          "exampleMeaning": "Tôi thích một chuyến bay khởi hành vào ban ngày hơn, vì tôi sẽ có trẻ nhỏ đi cùng.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "decoration",
+          "meaning": "hành động trang trí một cái gì đó (với hy vọng làm cho nó hấp dẫn hơn)",
+          "pronunciation": "/ˌdek.əˈreɪ.ʃən/",
+          "type": "noun",
+          "example": "The molding has a floral decoration carved into it.",
+          "exampleMeaning": "Phào chỉ có trang trí hoa được khắc vào.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "deteriorate",
+          "meaning": "trở nên tồi tệ hơn, xấu đi",
+          "pronunciation": "/dɪˈtɪə.ri.ə.reɪt/",
+          "type": "verb",
+          "example": "She was taken into hospital last week when her condition suddenly deteriorated.",
+          "exampleMeaning": "Cô ấy đã được đưa vào bệnh viện tuần trước khi tình trạng của cô đột ngột xấu đi.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "discard",
+          "meaning": "vứt bỏ",
+          "pronunciation": "/dɪˈskɑːd/",
+          "type": "verb",
+          "example": "Discarded food containers and bottles littered the streets.",
+          "exampleMeaning": "Thức ăn hộp đựng và chai lọ vứt bừa bãi trên đường phố.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "drastically",
+          "meaning": "một cách trầm trọng, mãnh liệt",
+          "pronunciation": "/ˈdræs.tɪ.kəl.i/",
+          "type": "adverb",
+          "example": "Their budget has been drastically reduced.",
+          "exampleMeaning": "Ngân sách của họ đã bị cắt giảm đáng kể.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "erase",
+          "meaning": "xoá bỏ",
+          "pronunciation": "/ɪˈreɪz/",
+          "type": "verb",
+          "example": "A subdirectory filled with precious data can be erased if you are not careful.",
+          "exampleMeaning": "Một thư mục con chứa đầy dữ liệu quý giá có thể bị xóa nếu bạn không cẩn thận.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "ethics",
+          "meaning": "đạo đức, luân thường đạo lý",
+          "pronunciation": "/ˈeθ.ɪks/",
+          "type": "noun",
+          "example": "The trial was approved by the four local ethics committees.",
+          "exampleMeaning": "Phiên tòa đã được bốn ủy ban đạo đức địa phương phê duyệt.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "explorer",
+          "meaning": "nhà thám hiểm",
+          "pronunciation": "/ɪkˈsplɔː.rər/",
+          "type": "noun",
+          "example": "French explorers traded with the Indians in many parts of North America.",
+          "exampleMeaning": "Các nhà thám hiểm người Pháp đã giao thương với người Ấn Độ ở nhiều khu vực của Bắc Mỹ.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "factual",
+          "meaning": "căn cứ theo sự thực",
+          "pronunciation": "/ˈfæk.tʃu.əl/",
+          "type": "adjective",
+          "example": "She gave a clear, factual account of the attack to the police.",
+          "exampleMeaning": "Cô ấy đã cung cấp một bản tường thuật rõ ràng và thực tế về vụ tấn công cho cảnh sát.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "fixture",
+          "meaning": "vật cố định, đồ đạc đặt ở chỗ cố định",
+          "pronunciation": "/ˈfɪks.tʃər/",
+          "type": "noun",
+          "example": "All fixtures and fittings are included in the house price.",
+          "exampleMeaning": "Tất cả các thiết bị và phụ kiện đều được bao gồm trong giá nhà.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "footwear",
+          "meaning": "giày dép",
+          "pronunciation": "/ˈfʊt.weər/",
+          "type": "noun",
+          "example": "You'll need some fairly tough footwear to go hiking in the mountains.",
+          "exampleMeaning": "Bạn sẽ cần một đôi giày khá bền để đi bộ đường dài trên núi.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "genre",
+          "meaning": "thể loại",
+          "pronunciation": "/ˈʒɒn.rə/",
+          "type": "noun",
+          "example": "What genre does the book fall into - comedy or tragedy?",
+          "exampleMeaning": "Cuốn sách thuộc thể loại nào - hài kịch hay bi kịch?",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "gymnasium",
+          "meaning": "nhà thể dục",
+          "pronunciation": "/dʒɪmˈneɪ.zi.əm/",
+          "type": "noun",
+          "example": "The dance classes were held in a high school gymnasium.",
+          "exampleMeaning": "Các lớp học khiêu vũ được tổ chức trong phòng thể dục của một trường trung học.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "healthful",
+          "meaning": "lành mạnh, có lợi cho sức khoẻ",
+          "pronunciation": "/ˈhelθ.fəl/",
+          "type": "adjective",
+          "example": "A healthful diet includes plenty of green vegetables.",
+          "exampleMeaning": "Một chế độ ăn uống lành mạnh bao gồm nhiều rau xanh.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "hereby",
+          "meaning": "bằng cách này, nhờ đó",
+          "pronunciation": "/ˌhɪəˈbaɪ/",
+          "type": "adverb",
+          "example": "All such warranties are hereby excluded.",
+          "exampleMeaning": "Mọi bảo hành như vậy đều bị loại trừ tại đây.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "hesitation",
+          "meaning": "sự lưỡng lự, sự do dự",
+          "pronunciation": "/ˌhez.ɪˈteɪ.ʃən/",
+          "type": "noun",
+          "example": "Any hesitation on the part of the government will be seen as weakness.",
+          "exampleMeaning": "Bất kỳ sự do dự nào từ phía chính phủ sẽ bị coi là sự yếu kém.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "homemade",
+          "meaning": "không mua từ một cửa hàng; làm ở nhà",
+          "pronunciation": "/ˌhəʊmˈmeɪd/",
+          "type": "adjective",
+          "example": "Farmers' markets are a traditional way of selling homemade products effectively.",
+          "exampleMeaning": "Chợ nông sản là một cách truyền thống để bán các sản phẩm tự làm hiệu quả.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "hospitality",
+          "meaning": "sự hiếu khách, thân thiện",
+          "pronunciation": "/ˌhɒs.pɪˈtæl.ə.ti/",
+          "type": "noun",
+          "example": "The atmosphere and hospitality of the smaller office made a great impression on all of our customers.",
+          "exampleMeaning": "Bầu không khí và lòng hiếu khách của văn phòng nhỏ hơn đã để lại ấn tượng tốt cho tất cả khách hàng của chúng tôi.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "incoming",
+          "meaning": "mới đến, sắp tới",
+          "pronunciation": "/ˈɪn.kʌm.ɪŋ/",
+          "type": "adjective",
+          "example": "Incoming flights are being delayed because of bad weather.",
+          "exampleMeaning": "Các chuyến bay đang bị trì hoãn vì thời tiết xấu.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "induction",
+          "meaning": "sự giới thiệu (vào một tổ chức)",
+          "pronunciation": "/ɪnˈdʌk.ʃən/",
+          "type": "noun",
+          "example": "Their induction into the church took place in June.",
+          "exampleMeaning": "Lễ kết nạp họ vào nhà thờ diễn ra vào tháng Sáu.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "inefficient",
+          "meaning": "không hoạt động tốt hoặc nhanh chóng",
+          "pronunciation": "/ˌɪn.ɪˈfɪʃ.ənt/",
+          "type": "adjective",
+          "example": "The system is inherently inefficient.",
+          "exampleMeaning": "Hệ thống này vốn dĩ không hiệu quả.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "inspiration",
+          "meaning": "nguồn cảm hứng",
+          "pronunciation": "/ˌɪn.spəˈreɪ.ʃən/",
+          "type": "noun",
+          "example": "Both poets drew their inspiration from the countryside.",
+          "exampleMeaning": "Cả hai nhà thơ đều lấy cảm hứng từ vùng nông thôn.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "intently",
+          "meaning": "chăm chú",
+          "pronunciation": "/ɪnˈtent.li/",
+          "type": "adverb",
+          "example": "She looked at him intently.",
+          "exampleMeaning": "Cô ấy nhìn anh ta chăm chú.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "liter",
+          "meaning": "lít (một đơn vị đo lường cho chất lỏng)",
+          "pronunciation": "/ˈliː.tər/",
+          "type": "noun",
+          "example": "One tablespoon of sugar per 1 liter of unsweetened soy milk may be added to promote bacterial fermentation.",
+          "exampleMeaning": "Một muỗng canh đường cho mỗi 1 lít sữa đậu nành không đường có thể được thêm vào để thúc đẩy quá trình lên men của vi khuẩn.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "mower",
+          "meaning": "máy dùng để cắt cỏ",
+          "pronunciation": "/ˈməʊ.ər/",
+          "type": "noun",
+          "example": "You should clean your mower each time you use it.",
+          "exampleMeaning": "Bạn nên làm sạch máy cắt cỏ mỗi lần bạn sử dụng nó.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "nutrition",
+          "meaning": "(y học) khoa dinh dưỡng",
+          "pronunciation": "/njuːˈtrɪʃ.ən/",
+          "type": "noun",
+          "example": "A nutrition degree develops your knowledge of the science of nutrients and their effects, as well as the social factors which influence nutrition.",
+          "exampleMeaning": "Một bằng cấp về dinh dưỡng phát triển kiến thức của bạn về khoa học dinh dưỡng và tác động của chúng, cũng như các yếu tố xã hội ảnh hưởng đến dinh dưỡng.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "recession",
+          "meaning": "sự suy thoái",
+          "pronunciation": "/rɪˈseʃ.ən/",
+          "type": "noun",
+          "example": "A lot of companies have been adversely affected by the recession.",
+          "exampleMeaning": "Nhiều công ty đã bị ảnh hưởng bất lợi bởi suy thoái kinh tế.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "resemble",
+          "meaning": "trông giống như, tương tự như",
+          "pronunciation": "/rɪˈzem.bəl/",
+          "type": "verb",
+          "example": "The overlapping slates of the roofs in the mountain village resembled fish scales.",
+          "exampleMeaning": "Những lớp đá lợp chồng lên nhau trên mái nhà ở ngôi làng trên núi trông giống như vảy cá.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "restatement",
+          "meaning": "sự trình bày, sự nói lại",
+          "pronunciation": "/ˌriːˈsteɪt.mənt/",
+          "type": "noun",
+          "example": "Her recent speech was merely a restatement of her widely publicized views.",
+          "exampleMeaning": "Bài phát biểu gần đây của cô ấy chỉ đơn thuần là một sự lặp lại những quan điểm đã được công khai rộng rãi của cô ấy.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "sedan",
+          "meaning": "loại xe 4 cửa, có 4 chỗ ngồi",
+          "pronunciation": "/sɪˈdæn/",
+          "type": "noun",
+          "example": "It's a gray four-door sedan in the parking lot.",
+          "exampleMeaning": "Đó là một chiếc sedan bốn cửa màu xám trong bãi đậu xe.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "sunscreen",
+          "meaning": "kem chống nắng",
+          "pronunciation": "/ˈsʌn.skriːn/",
+          "type": "noun",
+          "example": "After four and a half years the group that had used sunscreen showed noticeably fewer signs of skin ageing.",
+          "exampleMeaning": "Sau bốn năm rưỡi, nhóm đã sử dụng kem chống nắng cho thấy ít dấu hiệu lão hóa da hơn đáng kể.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "timeline",
+          "meaning": "một chuỗi các sự kiện theo dòng thời gian",
+          "pronunciation": "/ˈtaɪmˌlaɪn/",
+          "type": "noun",
+          "example": "Despite the short timeline, supporters gathered enough signatures to get the measure on the ballot.",
+          "exampleMeaning": "Mặc dù thời gian ngắn, những người ủng hộ đã thu thập đủ chữ ký để đưa biện pháp vào lá phiếu.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "unauthorized",
+          "meaning": "không có thẩm quyền, không được cho phép",
+          "pronunciation": "/ʌnˈɔː.θə.raɪzd/",
+          "type": "adjective",
+          "example": "We use this identifier to examine the software for suspicious account activity, such as unauthorized access.",
+          "exampleMeaning": "Chúng tôi sử dụng mã định danh này để kiểm tra phần mềm về hoạt động tài khoản đáng ngờ, chẳng hạn như truy cập trái phép.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "unplug",
+          "meaning": "rút dây điện ra khỏi ổ cắm của nó",
+          "pronunciation": "/ʌnˈplʌɡ/",
+          "type": "verb",
+          "example": "If I'm very busy, I unplug the phone.",
+          "exampleMeaning": "Nếu tôi rất bận, tôi sẽ rút phích cắm điện thoại.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "unreliable",
+          "meaning": "Không đáng tin cậy",
+          "pronunciation": "/ˌʌnrɪˈlaɪəbl/",
+          "type": "adjective",
+          "example": "Several unreliable dealers have been struck off our list of authorized suppliers.",
+          "exampleMeaning": "Nhiều nhà cung cấp không đáng tin đã bị loại khỏi danh sách nhà cung cấp được ủy quyền của chúng tôi.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "video conference",
+          "meaning": "cuộc họp được thực hiện qua internet",
+          "pronunciation": "/ˈvɪd.i.əʊ ˈkɒn.fər.əns/",
+          "type": "noun",
+          "example": "Picture a private-school classroom where students have a two-way video conference with a major museum.",
+          "exampleMeaning": "Hãy tưởng tượng một lớp học tại trường tư nơi học sinh có cuộc họp video hai chiều với một bảo tàng lớn.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "violate",
+          "meaning": "vi phạm quy tắc hoặc luật pháp",
+          "pronunciation": "/ˈvaɪ.ə.leɪt/",
+          "type": "verb",
+          "example": "They were charged with violating federal law.",
+          "exampleMeaning": "Họ bị buộc tội vi phạm luật liên bang.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "wellness",
+          "meaning": "Trạng thái khỏe mạnh; không bị bệnh",
+          "pronunciation": "/ˈwel.nəs/",
+          "type": "noun",
+          "example": "Employers who emphasize worker wellness get a healthy return on their investment.",
+          "exampleMeaning": "Những nhà tuyển dụng nhấn mạnh sức khỏe của nhân viên sẽ nhận được lợi nhuận tốt từ khoản đầu tư của họ.",
+          "note": "Từ vựng List 23"
+        },
+        {
+          "word": "workbook",
+          "meaning": "sách bài tập",
+          "pronunciation": "/ˈwɜːk.bʊk/",
+          "type": "noun",
+          "example": "There's a workbook to accompany the textbook.",
+          "exampleMeaning": "Có một cuốn sách bài tập đi kèm với sách giáo khoa.",
+          "note": "Từ vựng List 23"
+        }
+      ]
+    }
+  ]
+}
