@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_3",
+      "name": "List 3",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "aisle",
+          "meaning": "lối đi hẹp",
+          "pronunciation": "/aɪl/",
+          "type": "noun",
+          "example": "Would you like an aisle seat or would you prefer to be by the window?",
+          "exampleMeaning": "Bạn muốn chỗ ngồi gần lối đi hay thích ngồi gần cửa sổ hơn?",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "architect",
+          "meaning": "kiến trúc sư",
+          "pronunciation": "/ˈɑː.kɪ.tekt/",
+          "type": "noun",
+          "example": "Bevan was the architect of the British National Health Service.",
+          "exampleMeaning": "Bevan là kiến trúc sư của Dịch vụ Y tế Quốc gia Anh.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "baggage",
+          "meaning": "hành lý",
+          "pronunciation": "/ˈbæɡ.ɪdʒ/",
+          "type": "noun",
+          "example": "No one is allowed on the plane unless their baggage has been thoroughly checked.",
+          "exampleMeaning": "Không ai được phép lên máy bay trừ khi hành lý của họ đã được kiểm tra kỹ lưỡng.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "banquet",
+          "meaning": "yến tiệc, đại tiệc",
+          "pronunciation": "/ˈbæŋ.kwɪt/",
+          "type": "noun",
+          "example": "It was the organization's annual black-tie awards banquet at a fancy New York City hotel.",
+          "exampleMeaning": "Đó là buổi tiệc trao giải hàng năm của tổ chức tại một khách sạn sang trọng ở thành phố New York.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "beverage",
+          "meaning": "đồ uống",
+          "pronunciation": "/ˈbev.ər.ɪdʒ/",
+          "type": "noun",
+          "example": "The agency regulates and controls the sale of all beverages exceeding 16% alcohol.",
+          "exampleMeaning": "Cơ quan điều chỉnh và kiểm soát việc bán tất cả đồ uống có nồng độ cồn vượt quá 16%.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "bulletin",
+          "meaning": "bản tin, thông báo",
+          "pronunciation": "/ˈbʊl.ə.t̬ɪn/",
+          "type": "noun",
+          "example": "The company publishes a weekly bulletin for its employees.",
+          "exampleMeaning": "Công ty xuất bản một bản tin hàng tuần cho nhân viên của mình.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "calendar",
+          "meaning": "lịch",
+          "pronunciation": "/ˈkæl.ən.dər/",
+          "type": "noun",
+          "example": "An old calendar for 2012 was still hanging on the wall of her office.",
+          "exampleMeaning": "Một cuốn lịch cũ cho năm 2012 vẫn treo trên tường văn phòng của cô ấy.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "certificate",
+          "meaning": "giấy chứng nhận, chứng chỉ",
+          "pronunciation": "/səˈtɪf.ɪ.kət/",
+          "type": "noun",
+          "example": "The preparatory certificate is the minimum qualification required to teach English in most language schools.",
+          "exampleMeaning": "Chứng chỉ dự bị là bằng cấp tối thiểu cần có để dạy tiếng Anh ở hầu hết các trường ngoại ngữ.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "click",
+          "meaning": "nhấn nút",
+          "pronunciation": "/klɪk/",
+          "type": "verb",
+          "example": "When you have selected the file you want, click the \"Open\" box.",
+          "exampleMeaning": "Khi bạn đã chọn tệp bạn muốn, hãy nhấp vào ô 'Mở'.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "closet",
+          "meaning": "tủ/phòng để đồ",
+          "pronunciation": "/ˈklɒzɪt/",
+          "type": "noun",
+          "example": "The hall, closets, laundry room, bathroom, and den all had their own muted colored doors.",
+          "exampleMeaning": "Hội trường, tủ quần áo, phòng giặt, phòng tắm và phòng làm việc đều có cửa màu nhạt riêng.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "container",
+          "meaning": "vật chứa, vật đựng",
+          "pronunciation": "/kənˈteɪ.nər/",
+          "type": "noun",
+          "example": "These organic olives are packaged in recycled glass containers.",
+          "exampleMeaning": "Những quả ô-liu hữu cơ này được đóng gói trong các hộp thủy tinh tái chế.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "convenience",
+          "meaning": "sự tiện lợi, sự thuận lợi",
+          "pronunciation": "/kənˈviː.ni.əns/",
+          "type": "noun",
+          "example": "Convenience and comfort are both major factors in consumer choice.",
+          "exampleMeaning": "Sự tiện lợi và thoải mái đều là các yếu tố chính trong lựa chọn của người tiêu dùng.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "copier",
+          "meaning": "máy photocopy",
+          "pronunciation": "/ˈkɒp.i.ər/",
+          "type": "noun",
+          "example": "The location of the office copier needs careful thought.",
+          "exampleMeaning": "Vị trí của máy photocopy văn phòng cần phải suy nghĩ cẩn thận.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "departure",
+          "meaning": "sự khởi hành",
+          "pronunciation": "/dɪˈpɑː.tʃər/",
+          "type": "noun",
+          "example": "Flights should be confirmed 48 hours before departure.",
+          "exampleMeaning": "Các chuyến bay nên được xác nhận 48 giờ trước khi khởi hành.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "dial",
+          "meaning": "bấm số điện thoại",
+          "pronunciation": "/daɪəl/",
+          "type": "verb",
+          "example": "Can I dial this number direct or do I have to go through the switchboard?",
+          "exampleMeaning": "Tôi có thể quay số này trực tiếp hay phải qua tổng đài?",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "distractor",
+          "meaning": "thông tin gây nhiễu, lựa chọn gây nhiễu",
+          "pronunciation": "/dɪ'stræk.tər/",
+          "type": "noun",
+          "example": "The task is built so that one distractor (or incorrect alternative) shows the same object as the correct picture but with a different attribute.",
+          "exampleMeaning": "Nhiệm vụ được xây dựng sao cho một bộ phân tâm (hoặc lựa chọn thay thế không chính xác) hiển thị cùng một đối tượng với hình ảnh chính xác nhưng có thuộc tính khác.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "donation",
+          "meaning": "đồ quyên góp, khoản tiền quyên góp",
+          "pronunciation": "/dəʊˈneɪ.ʃən/",
+          "type": "noun",
+          "example": "The museum has received a $5 million donation from the Bradley Foundation.",
+          "exampleMeaning": "Bảo tàng đã nhận được khoản quyên góp 5 triệu đô la từ Quỹ Bradley.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "drawer",
+          "meaning": "ngăn kéo",
+          "pronunciation": "/drɔːr/",
+          "type": "noun",
+          "example": "He rummaged through his desk drawer trying to find a pen.",
+          "exampleMeaning": "Anh ấy lục lọi ngăn kéo bàn của mình cố gắng tìm một cây bút.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "eligible",
+          "meaning": "đủ điều kiện, đủ tư cách, thích hợp",
+          "pronunciation": "/ˈel.ɪ.dʒə.bəl/",
+          "type": "adjective",
+          "example": "A model prisoner, he became eligible for release after serving half his sentence.",
+          "exampleMeaning": "Là một tù nhân kiểu mẫu, anh ta đủ điều kiện được trả tự do sau khi chấp hành được một nửa bản án.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "expire",
+          "meaning": "hết hạn, kết thúc",
+          "pronunciation": "/ɪkˈspaɪər/",
+          "type": "verb",
+          "example": "The contract between the two companies will expire at the end of the year.",
+          "exampleMeaning": "Hợp đồng giữa hai công ty sẽ hết hạn vào cuối năm.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "feedback",
+          "meaning": "ý kiến phản hồi",
+          "pronunciation": "/ˈfiːd.bæk/",
+          "type": "noun",
+          "example": "Have you had any feedback from customers about the new soap?",
+          "exampleMeaning": "Bạn đã nhận được phản hồi nào từ khách hàng về xà phòng mới chưa?",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "fitness",
+          "meaning": "trạng thái khỏe mạnh",
+          "pronunciation": "/ˈfɪt.nəs/",
+          "type": "noun",
+          "example": "The increase of interest in health and fitness means that most hotels now have gyms and pools.",
+          "exampleMeaning": "Sự gia tăng mối quan tâm đến sức khỏe và thể chất có nghĩa là hầu hết các khách sạn hiện nay đều có phòng tập gym và hồ bơi.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "folder",
+          "meaning": "thư mục, bìa đựng hồ sơ",
+          "pronunciation": "/ˈfəʊl.dər/",
+          "type": "noun",
+          "example": "She handed me a folder containing the schedule of talks.",
+          "exampleMeaning": "Cô ấy đưa cho tôi một tập hồ sơ chứa lịch trình của các buổi nói chuyện.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "gym",
+          "meaning": "phòng thể dục, phòng tập thể hình",
+          "pronunciation": "/dʒɪm/",
+          "type": "noun",
+          "example": "A work-out in the gym will exercise all the major muscle groups.",
+          "exampleMeaning": "Việc tập luyện trong phòng tập thể dục sẽ rèn luyện tất cả các nhóm cơ chính.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "highway",
+          "meaning": "đường cao tốc, quốc lộ",
+          "pronunciation": "/ˈhaɪ.weɪ/",
+          "type": "noun",
+          "example": "The photograph showed a lonely stretch of Arizona highway.",
+          "exampleMeaning": "Bức ảnh cho thấy một đoạn đường xa lộ Arizona vắng vẻ.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "hungry",
+          "meaning": "đói bụng",
+          "pronunciation": "/ˈhʌŋ.ɡri/",
+          "type": "adjective",
+          "example": "The children are always hungry when they get home from school.",
+          "exampleMeaning": "Lũ trẻ luôn đói khi chúng về nhà từ trường.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "inconvenience",
+          "meaning": "sự bất tiện",
+          "pronunciation": "/ˌɪnkənˈviːniəns/",
+          "type": "noun",
+          "example": "We apologize for any inconvenience caused by the late arrival of the train.",
+          "exampleMeaning": "Chúng tôi xin lỗi vì bất tiện do tàu đến muộn gây ra.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "indoor",
+          "meaning": "trong nhà",
+          "pronunciation": "/ˈɪn.dɔːr/",
+          "type": "adjective",
+          "example": "Poor indoor air quality can result in increased risk of asthma and allergies.",
+          "exampleMeaning": "Chất lượng không khí trong nhà kém có thể dẫn đến nguy cơ tăng cao của hen suyễn và dị ứng.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "ingredient",
+          "meaning": "nguyên liệu",
+          "pronunciation": "/ɪnˈɡriː.di.ənt/",
+          "type": "noun",
+          "example": "Our skin cream contains only natural ingredients.",
+          "exampleMeaning": "Kem dưỡng da của chúng tôi chỉ chứa các thành phần tự nhiên.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "inspect",
+          "meaning": "kiểm tra",
+          "pronunciation": "/ɪnˈspekt/",
+          "type": "verb",
+          "example": "The teacher walked around inspecting their work.",
+          "exampleMeaning": "Giáo viên đi xung quanh kiểm tra công việc của họ.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "inspection",
+          "meaning": "sự kiểm tra, sự thanh tra",
+          "pronunciation": "/ɪnˈspek.ʃən/",
+          "type": "noun",
+          "example": "Following an on-site inspection, the surveyor prepared a written report on the property.",
+          "exampleMeaning": "Sau khi kiểm tra tại chỗ, người khảo sát đã chuẩn bị một báo cáo bằng văn bản về tài sản.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "itinerary",
+          "meaning": "lộ trình",
+          "pronunciation": "/aɪˈtɪn.ər.ər.i/",
+          "type": "noun",
+          "example": "He drew up a detailed itinerary.",
+          "exampleMeaning": "Anh ấy đã lập một lịch trình chi tiết.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "lab",
+          "meaning": "phòng thí nghiệm",
+          "pronunciation": "/læb/",
+          "type": "noun",
+          "example": "She'd been working in the lab all day.",
+          "exampleMeaning": "Cô ấy đã làm việc trong phòng thí nghiệm cả ngày.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "mechanic",
+          "meaning": "thợ máy",
+          "pronunciation": "/məˈkæn.ɪk, mɪˈkænɪk/",
+          "type": "noun",
+          "example": "If you smell gas fumes or burning, take the car to your mechanic.",
+          "exampleMeaning": "Nếu bạn ngửi thấy mùi khí gas hoặc mùi cháy, hãy mang xe đến chỗ thợ máy của bạn.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "merger",
+          "meaning": "sự sáp nhập",
+          "pronunciation": "/ˈmɜː.dʒər/",
+          "type": "noun",
+          "example": "There are local companies ripe for merger or acquisition.",
+          "exampleMeaning": "Có những công ty địa phương đã sẵn sàng cho việc sáp nhập hoặc mua lại.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "mini",
+          "meaning": "nhỏ hơn bình thường",
+          "pronunciation": "/ˈmɪn.i/",
+          "type": "adjective",
+          "example": "Provisions may be purchased from the mini-market.",
+          "exampleMeaning": "Có thể mua các nhu yếu phẩm từ chợ nhỏ.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "photocopy",
+          "meaning": "bản sao",
+          "pronunciation": "/ˈfəʊ.təʊˌkɒp.i/",
+          "type": "noun",
+          "example": "Make as many photocopies as you need.",
+          "exampleMeaning": "Hãy tạo bao nhiêu bản sao tùy thích.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "provider",
+          "meaning": "người cung cấp, nhà cung cấp",
+          "pronunciation": "/prəˈvaɪ.dər/",
+          "type": "noun",
+          "example": "They are the largest cable-based provider outside the US with 300,000 subscribers.",
+          "exampleMeaning": "Họ là nhà cung cấp dịch vụ cáp lớn nhất bên ngoài Hoa Kỳ với 300.000 người đăng ký.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "recipient",
+          "meaning": "người nhận",
+          "pronunciation": "/rɪˈsɪpiənt/",
+          "type": "noun",
+          "example": "Former Nobel Peace Prize recipients include Jimmy Carter and Barack Obama.",
+          "exampleMeaning": "Các cựu chủ nhân Giải Nobel Hòa bình bao gồm Jimmy Carter và Barack Obama.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "recycle",
+          "meaning": "tái chế",
+          "pronunciation": "/ˌriːˈsaɪ.kəl/",
+          "type": "verb",
+          "example": "Metal, paper and glass can be recycled.",
+          "exampleMeaning": "Kim loại, giấy và thủy tinh có thể được tái chế.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "renew",
+          "meaning": "thay mới, làm mới lại",
+          "pronunciation": "/rɪˈnjuː/",
+          "type": "verb",
+          "example": "There was an ominous silence when I asked whether my contract was going to be renewed.",
+          "exampleMeaning": "Có một sự im lặng đáng ngại khi tôi hỏi liệu hợp đồng của tôi có được gia hạn hay không.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "renovate",
+          "meaning": "nâng cấp, cải tiến, tân trang",
+          "pronunciation": "/ˈren.ə.veɪt/",
+          "type": "verb",
+          "example": "You may need to renovate in stages, doing the most essential work first.",
+          "exampleMeaning": "Bạn có thể cần cải tạo theo từng giai đoạn, thực hiện công việc quan trọng nhất trước.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "respondent",
+          "meaning": "người trả lời, người được hỏi",
+          "pronunciation": "/rɪˈspɒn.dənt/",
+          "type": "noun",
+          "example": "In a recent opinion poll, a majority of respondents were against nuclear weapons.",
+          "exampleMeaning": "Trong một cuộc thăm dò ý kiến gần đây, đa số những người được hỏi đều phản đối vũ khí hạt nhân.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "rewrite",
+          "meaning": "viết lại",
+          "pronunciation": "/ˌriːˈraɪt/",
+          "type": "verb",
+          "example": "If I could rewrite the script I would change one thing.",
+          "exampleMeaning": "Nếu tôi có thể viết lại kịch bản thì tôi sẽ thay đổi một thứ.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "sandwich",
+          "meaning": "bánh mì sandwich",
+          "pronunciation": "/ˈsæn.wɪdʒ/",
+          "type": "noun",
+          "example": "They sell sandwiches and rolls.",
+          "exampleMeaning": "Họ bán bánh mì kẹp và bánh mì cuộn.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "shortly",
+          "meaning": "trong thời gian ngắn, không lâu, sớm",
+          "pronunciation": "/ˈʃɔːt.li/",
+          "type": "adverb",
+          "example": "It was Johansson who scored the all-important goal shortly before half-time.",
+          "exampleMeaning": "Chính Johansson là người đã ghi bàn thắng cực kỳ quan trọng ngay trước khi hiệp một kết thúc.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "snack",
+          "meaning": "đồ ăn nhẹ",
+          "pronunciation": "/snæk/",
+          "type": "noun",
+          "example": "I had a huge lunch, so I'll only need a snack for dinner.",
+          "exampleMeaning": "Tôi đã ăn một bữa trưa no nê, vì vậy tôi chỉ cần ăn nhẹ cho bữa tối.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "soccer",
+          "meaning": "bóng đá",
+          "pronunciation": "/ˈsɒk.ər/",
+          "type": "noun",
+          "example": "The fierce tribal loyalty among soccer supporters leads to violence between opposing fans.",
+          "exampleMeaning": "Lòng trung thành mãnh liệt giữa những người ủng hộ bóng đá dẫn đến bạo lực giữa những người hâm mộ đối lập.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "submission",
+          "meaning": "sự đệ trình, sự nộp lên",
+          "pronunciation": "/səbˈmɪʃ.ən/",
+          "type": "noun",
+          "example": "No date has yet been set for the submission of applications.",
+          "exampleMeaning": "Chưa có ngày nào được ấn định cho việc nộp đơn.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "sunny",
+          "meaning": "nhiều nắng",
+          "pronunciation": "/ˈsʌn.i/",
+          "type": "adjective",
+          "example": "These plants need a sunny spot with good drainage.",
+          "exampleMeaning": "Những cây này cần một chỗ có nắng và thoát nước tốt.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "sweater",
+          "meaning": "áo len chui đầu",
+          "pronunciation": "/ˈswet.ər/",
+          "type": "noun",
+          "example": "He was wearing a chunky navy sweater.",
+          "exampleMeaning": "Anh ấy đang mặc một chiếc áo len dày màu xanh hải quân.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "tenant",
+          "meaning": "người thuê (nhà, phòng,..)",
+          "pronunciation": "/ˈten.ənt/",
+          "type": "noun",
+          "example": "Tenants are complaining that vital repairs are not being done.",
+          "exampleMeaning": "Người thuê nhà đang phàn nàn rằng các sửa chữa quan trọng không được thực hiện.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "unreal",
+          "meaning": "không thực tế",
+          "pronunciation": "/ʌnˈrɪəl/",
+          "type": "adjective",
+          "example": "Many people have unreal expectations of what marriage will be like.",
+          "exampleMeaning": "Nhiều người có những kỳ vọng không thực tế về hôn nhân.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "warehouse",
+          "meaning": "nhà kho",
+          "pronunciation": "/ˈweə.haʊs/",
+          "type": "noun",
+          "example": "Soldiers had chased the protesters into a warehouse and set fire to it.",
+          "exampleMeaning": "Những người lính đã đuổi người biểu tình vào trong một nhà kho và đốt cháy nó.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "workplace",
+          "meaning": "chỗ làm, nơi làm việc",
+          "pronunciation": "/ˈwɜːk.pleɪs/",
+          "type": "noun",
+          "example": "We are trying to eliminate sex discrimination in the workplace.",
+          "exampleMeaning": "Chúng tôi đang cố gắng xóa bỏ sự phân biệt giới tính tại nơi làm việc.",
+          "note": "Từ vựng List 3"
+        }
+      ]
+    }
+  ]
+}
