@@ -1,0 +1,320 @@
+{
+  "topics": [
+    {
+      "id": "business_office",
+      "name": "Business & Office",
+      "icon": "business_center",
+      "words": [
+        {
+          "word": "accountant",
+          "meaning": "kế toán, người chịu trách nhiệm về tiền",
+          "pronunciation": "/ə'kaʊn.tənt/",
+          "type": "noun",
+          "example": "My accountant takes care of my taxes.",
+          "exampleMeaning": "Kế toán viên của tôi lo việc đóng thuế cho tôi.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "workshop",
+          "meaning": "phân xưởng",
+          "pronunciation": "/ˈwɜːk.ʃɒp/",
+          "type": "noun",
+          "example": "The amber products are produced in the workshop.",
+          "exampleMeaning": "Các sản phẩm hổ phách được sản xuất tại xưởng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "workplace",
+          "meaning": "chỗ làm, nơi làm việc",
+          "pronunciation": "/ˈwɜːk.pleɪs/",
+          "type": "noun",
+          "example": "We are trying to eliminate sex discrimination in the workplace.",
+          "exampleMeaning": "Chúng tôi đang cố gắng loại bỏ sự phân biệt giới tính ở nơi làm việc.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "warehouse",
+          "meaning": "nhà kho",
+          "pronunciation": "/ˈweə.haʊs/",
+          "type": "noun",
+          "example": "The robbers were holed up in a deserted warehouse.",
+          "exampleMeaning": "Bọn cướp đang ẩn náu trong một nhà kho bỏ hoang.",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "administrator",
+          "meaning": "người quản lý, người cầm quyền",
+          "pronunciation": "/ədˈmɪn.ɪ.streɪ.tər/",
+          "type": "noun",
+          "example": "From 1969 to 1971, he was administrator of the Illinois state drug abuse program.",
+          "exampleMeaning": "Từ năm 1969 đến năm 1971, ông là quản trị viên của chương trình lạm dụng ma túy bang Illinois.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "vacancy",
+          "meaning": "vị trí trống, chỗ khuyết",
+          "pronunciation": "/ˈveɪ.kən.si/",
+          "type": "noun",
+          "example": "We currently have a vacancy for a sales representative.",
+          "exampleMeaning": "Hiện tại chúng tôi đang tuyển dụng vị trí đại diện bán hàng.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "vendor",
+          "meaning": "người bán hàng",
+          "pronunciation": "/ˈven.dər/",
+          "type": "noun",
+          "example": "Our company deals with many vendors of women's clothing.",
+          "exampleMeaning": "Công ty chúng tôi giao dịch với nhiều nhà cung cấp quần áo phụ nữ.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "withdrawal",
+          "meaning": "sự thu hồi, sự rút khỏi",
+          "pronunciation": "/wɪðˈdrɔː.əl/",
+          "type": "noun",
+          "example": "The general has ordered a partial withdrawal of troops from the area.",
+          "exampleMeaning": "Tướng quân đã ra lệnh rút một phần quân khỏi khu vực.",
+          "note": "Từ vựng List 9"
+        }
+      ]
+    },
+    {
+      "id": "technology_tools",
+      "name": "Technology & Tools",
+      "icon": "computer",
+      "words": [
+        {
+          "word": "website",
+          "meaning": "trang web",
+          "pronunciation": "/ˈweb.saɪt/",
+          "type": "noun",
+          "example": "This website is currently under construction.",
+          "exampleMeaning": "Trang web này hiện đang được xây dựng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "upgrade",
+          "meaning": "nâng cấp",
+          "pronunciation": "/ʌpˈɡreɪd/",
+          "type": "verb",
+          "example": "It's very simple to upgrade the indexing software.",
+          "exampleMeaning": "Việc nâng cấp phần mềm lập chỉ mục rất đơn giản.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "wireless",
+          "meaning": "thiết bị không dây",
+          "pronunciation": "/ˈwaɪə.ləs/",
+          "type": "noun",
+          "example": "If you've been waiting to jump into wireless, the water is safe.",
+          "exampleMeaning": "Nếu bạn đang chờ đợi để kết nối mạng không dây thì nước sẽ an toàn.",
+          "note": "Từ vựng List 8"
+        }
+      ]
+    },
+    {
+      "id": "services_shopping",
+      "name": "Services & Shopping",
+      "icon": "shopping_cart",
+      "words": [
+        {
+          "word": "aisle",
+          "meaning": "lối đi hẹp",
+          "pronunciation": "/aɪl/",
+          "type": "noun",
+          "example": "Would you like an aisle seat or would you prefer to be by the window?",
+          "exampleMeaning": "Bạn muốn ngồi ở lối đi hay bạn thích ngồi cạnh cửa sổ?",
+          "note": "Từ vựng List 3"
+        },
+        {
+          "word": "waitress",
+          "meaning": "người phục vụ (nữ giới)",
+          "pronunciation": "/ˈweɪ.trəs/",
+          "type": "noun",
+          "example": "She works as a waitress.",
+          "exampleMeaning": "Cô ấy làm việc như một cô hầu bàn.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "affordable",
+          "meaning": "vừa túi tiền, có thể chi trả",
+          "pronunciation": "/əˈfɔː.də.bəl/",
+          "type": "adjective",
+          "example": "According to the guidelines, ten percent of the dwellings in the development must be affordable.",
+          "exampleMeaning": "Theo hướng dẫn, 10% số nhà ở trong khu phát triển phải vừa túi tiền.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "voucher",
+          "meaning": "mã giảm giá",
+          "pronunciation": "/ˈvaʊ.tʃər/",
+          "type": "noun",
+          "example": "Just present your travel voucher to the airline ticket agent, and she will give you the tickets.",
+          "exampleMeaning": "Chỉ cần xuất trình voucher du lịch của bạn cho đại lý vé máy bay, họ sẽ đưa vé cho bạn.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví, bao da",
+          "pronunciation": "/ˈwɒl.ɪt/",
+          "type": "noun",
+          "example": "He pulled out a big, fat wallet stuffed with banknotes.",
+          "exampleMeaning": "Anh ta rút ra một chiếc ví to dày nhét đầy tiền giấy.",
+          "note": "Từ vựng List 7"
+        }
+      ]
+    },
+    {
+      "id": "daily_life_general",
+      "name": "Daily Life & General",
+      "icon": "public",
+      "words": [
+        {
+          "word": "admission",
+          "meaning": "sự nhận vào, sự thú nhận",
+          "pronunciation": "/ədˈmɪʃ.ən/",
+          "type": "noun",
+          "example": "By his own admission he has achieved little since he took over the company.",
+          "exampleMeaning": "Tự anh ấy thừa nhận anh ấy đạt được rất ít từ khi tiếp quản công ty.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "valid",
+          "meaning": "đúng đắn, có cơ sở vững chắc",
+          "pronunciation": "/ˈvæl.ɪd/",
+          "type": "adjective",
+          "example": "For the experiment to be valid, it is essential to record the data accurately.",
+          "exampleMeaning": "Để thí nghiệm có giá trị, điều cần thiết là phải ghi lại dữ liệu một cách chính xác.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "accommodate",
+          "meaning": "cung cấp một cái gì đó cần thiết",
+          "pronunciation": "/əˈkɒm.ə.deɪt/",
+          "type": "verb",
+          "example": "The new policies fail to accommodate people with disabilities.",
+          "exampleMeaning": "Chính sách mới không phù hợp với người khuyết tật.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "weekday",
+          "meaning": "ngày thường",
+          "pronunciation": "/ˈwiːk.deɪ/",
+          "type": "noun",
+          "example": "On weekdays I'm usually in bed by ten o'clock.",
+          "exampleMeaning": "Vào các ngày trong tuần tôi thường đi ngủ lúc 10 giờ.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "verify",
+          "meaning": "xác nhận",
+          "pronunciation": "/ˈver.ɪ.faɪ/",
+          "type": "verb",
+          "example": "Under interrogation, she verified that the tapes were authentic.",
+          "exampleMeaning": "Khi bị thẩm vấn, cô ấy đã xác minh (rằng) các đoạn băng là xác thực.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "worldwide",
+          "meaning": "toàn cầu, khắp thế giới",
+          "pronunciation": "/ˌwɜːldˈwaɪd/",
+          "type": "adjective",
+          "example": "The author has a vision of an emerging worldwide Christian communion.",
+          "exampleMeaning": "Tác giả có tầm nhìn về sự hiệp thông Kitô giáo toàn cầu đang nổi lên.",
+          "note": "Từ vựng List 5"
+        },
+        {
+          "word": "accurately",
+          "meaning": "một cách đúng đắn, chính xác",
+          "pronunciation": "/ˈæk.jə.rət.li/",
+          "type": "adverb",
+          "example": "The plans should be drawn as accurately as possible.",
+          "exampleMeaning": "Các kế hoạch phải được vẽ càng chính xác càng tốt.",
+          "note": "Từ vựng List 6"
+        },
+        {
+          "word": "vegetarian",
+          "meaning": "người ăn chay",
+          "pronunciation": "/ˌvedʒ.ɪˈteə.ri.ən/",
+          "type": "noun",
+          "example": "I've been feeling much healthier since I became a vegetarian.",
+          "exampleMeaning": "Tôi cảm thấy khỏe mạnh hơn nhiều kể từ khi tôi ăn chay.",
+          "note": "Từ vựng List 7"
+        },
+        {
+          "word": "accessible",
+          "meaning": "có sẵn, dễ dàng tiếp cận",
+          "pronunciation": "/əkˈses.ə.bəl/",
+          "type": "adjective",
+          "example": "The resort is easily accessible by road, rail, and air.",
+          "exampleMeaning": "Có thể dễ dàng tiếp cận khu nghỉ dưỡng bằng đường bộ, đường sắt và đường hàng không.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "windy",
+          "meaning": "nhiều gió",
+          "pronunciation": "/ˈwɪn.di/",
+          "type": "adjective",
+          "example": "It was wet and windy for most of the week.",
+          "exampleMeaning": "Trời ẩm ướt và nhiều gió suốt cả tuần.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "yearly",
+          "meaning": "hàng năm, mỗi năm",
+          "pronunciation": "/ˈjɪə.li/",
+          "type": "adverb",
+          "example": "The company holds a yearly review meeting.",
+          "exampleMeaning": "Công ty tổ chức một cuộc họp đánh giá hàng năm.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "actress",
+          "meaning": "diễn viên nữ",
+          "pronunciation": "/ˈæk.trəs/",
+          "type": "noun",
+          "example": "She's the highest-paid actress in Hollywood.",
+          "exampleMeaning": "Cô là nữ diễn viên được trả lương cao nhất Hollywood.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "unfamiliar",
+          "meaning": "không quen thuộc",
+          "pronunciation": "/ˌʌn.fəˈmɪl.i.ər/",
+          "type": "adjective",
+          "example": "I'm unfamiliar with this system.",
+          "exampleMeaning": "Tôi không quen với hệ thống này.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "accessory",
+          "meaning": "đồng phạm",
+          "pronunciation": "/əkˈses.ər.i/",
+          "type": "noun",
+          "example": "He was charged as an accessory to murder.",
+          "exampleMeaning": "Anh ta bị buộc tội đồng lõa với vụ giết người.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "vitamin",
+          "meaning": "vitamin",
+          "pronunciation": "/ˈvɪt.ə.mɪn/",
+          "type": "noun",
+          "example": "Oranges are a good source of vitamin C.",
+          "exampleMeaning": "Cam là nguồn cung cấp vitamin C tốt.",
+          "note": "Từ vựng List 10"
+        },
+        {
+          "word": "zoo",
+          "meaning": "sở thú",
+          "pronunciation": "/zuː/",
+          "type": "noun",
+          "example": "The bad weather really took the gloss off our trip to the zoo.",
+          "exampleMeaning": "Thời tiết xấu thực sự đã làm chuyến đi sở thú của chúng tôi trở nên tồi tệ.",
+          "note": "Từ vựng List 10"
+        }
+      ]
+    }
+  ]
+}
