@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_8",
+      "name": "List 8",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accessible",
+          "meaning": "Có sẵn, dễ dàng để tiếp cận",
+          "pronunciation": "/əkˈses.ə.bəl/",
+          "type": "adjective",
+          "example": "The resort is easily accessible by road, rail, and air.",
+          "exampleMeaning": "Khu nghỉ dưỡng dễ dàng tiếp cận bằng đường bộ, đường sắt và đường hàng không.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "accomplishment",
+          "meaning": "sự hoàn thành, thành tựu",
+          "pronunciation": "/əˈkʌmplɪʃmənt/",
+          "type": "noun",
+          "example": "We celebrated the successful accomplishment of our task.",
+          "exampleMeaning": "Chúng tôi đã ăn mừng thành công trong việc hoàn thành nhiệm vụ của mình.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "accustom",
+          "meaning": "làm quen với",
+          "pronunciation": "/əˈkʌs.təm/",
+          "type": "verb",
+          "example": "It takes awhile to accustom yourself to working at night.",
+          "exampleMeaning": "Mất một thời gian để bạn quen với việc làm đêm.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "afterward",
+          "meaning": "sau đó",
+          "pronunciation": "/ˈæftərwərd/",
+          "type": "adverb",
+          "example": "We had tea, and afterward we sat in the garden for a while.",
+          "exampleMeaning": "Chúng tôi đã uống trà và sau đó chúng tôi ngồi trong vườn một lúc.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "apology",
+          "meaning": "lời xin lỗi",
+          "pronunciation": "/əˈpɒl.ə.dʒi/",
+          "type": "noun",
+          "example": "She complained to the company and they sent her a written apology.",
+          "exampleMeaning": "Cô ấy đã phàn nàn tới công ty và họ đã gửi cho cô ấy một lời xin lỗi bằng văn bản.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "appreciation",
+          "meaning": "sự cảm kích",
+          "pronunciation": "/əˌpriːʃiˈeɪʃən/",
+          "type": "noun",
+          "example": "She was grateful for the help and baked them a cake as a token of her appreciation.",
+          "exampleMeaning": "Cô ấy biết ơn vì sự giúp đỡ và đã nướng một chiếc bánh để tỏ lòng tri ân.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "assemble",
+          "meaning": "tập hợp, tập trung",
+          "pronunciation": "/əˈsem.bəl/",
+          "type": "verb",
+          "example": "At the staff meeting, the manager told the assembled company (= everyone there) that no one would lose their job.",
+          "exampleMeaning": "Tại cuộc họp nhân viên, quản lý đã nói với toàn bộ công ty (= mọi người ở đó) rằng không ai sẽ mất việc.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "automate",
+          "meaning": "tự động hóa",
+          "pronunciation": "/ˈɔː.tə.meɪt/",
+          "type": "verb",
+          "example": "Massive investment is needed to automate the production process.",
+          "exampleMeaning": "Cần đầu tư lớn để tự động hóa quy trình sản xuất.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "automatic",
+          "meaning": "tự động",
+          "pronunciation": "/ˌɔː.təˈmæt.ɪk/",
+          "type": "adjective",
+          "example": "These automatic cameras have a special focusing mechanism.",
+          "exampleMeaning": "Những chiếc máy ảnh tự động này có cơ chế lấy nét đặc biệt.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "cargo",
+          "meaning": "hàng hóa, lô hàng chuyên chở",
+          "pronunciation": "/ˈkɑː.ɡəʊ/",
+          "type": "noun",
+          "example": "The ship was carrying a cargo of wood.",
+          "exampleMeaning": "Con tàu đang chở một khối lượng gỗ.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "clinic",
+          "meaning": "phòng khám",
+          "pronunciation": "/ˈklɪn.ɪk/",
+          "type": "noun",
+          "example": "There's a well woman clinic at the health centre on Wednesday afternoons.",
+          "exampleMeaning": "Có một phòng khám sức khỏe phụ nữ tại trung tâm y tế vào các buổi chiều thứ Tư.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "cooperate",
+          "meaning": "hợp tác",
+          "pronunciation": "/kəʊˈɒp.ər.eɪt/",
+          "type": "verb",
+          "example": "The two companies have cooperated in joint ventures for the past several years.",
+          "exampleMeaning": "Hai công ty đã hợp tác trong các liên doanh trong vài năm qua.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "desktop",
+          "meaning": "màn hình nền",
+          "pronunciation": "/ˈdesk.tɒp/",
+          "type": "noun",
+          "example": "The menu bar with its windows is one of the features of the desktop.",
+          "exampleMeaning": "Thanh menu và cửa sổ của nó là một trong những tính năng của màn hình nền.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "distract",
+          "meaning": "làm xao lãng",
+          "pronunciation": "/dɪˈstrækt/",
+          "type": "verb",
+          "example": "The teacher had to separate the two friends because they tend to distract each other in class.",
+          "exampleMeaning": "Giáo viên phải tách hai người bạn ra vì họ có xu hướng làm phiền nhau trong lớp.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "dividend",
+          "meaning": "cổ tức, tiền lãi",
+          "pronunciation": "/ˈdɪv.ɪ.dend/",
+          "type": "noun",
+          "example": "In addition to their salary, employees receive a profit-related dividend.",
+          "exampleMeaning": "Ngoài tiền lương, nhân viên còn nhận thêm cổ tức liên quan đến lợi nhuận.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "exemption",
+          "meaning": "sự miễn trừ, sự ngoại lệ",
+          "pronunciation": "/ɪɡˈzemp.ʃən/",
+          "type": "noun",
+          "example": "Organizations may qualify for exemption from income tax if they operate exclusively as charities.",
+          "exampleMeaning": "Các tổ chức có thể đủ điều kiện miễn thuế thu nhập nếu họ hoạt động hoàn toàn như các tổ chức từ thiện.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "ferry",
+          "meaning": "chiếc phà",
+          "pronunciation": "/ˈfer.i/",
+          "type": "noun",
+          "example": "We took the ferry across the Channel and then joined the Paris train at Calais.",
+          "exampleMeaning": "Chúng tôi đã đi phà qua eo biển và sau đó lên tàu đi Paris tại Calais.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "finalize",
+          "meaning": "hoàn thiện",
+          "pronunciation": "/ˈfaɪ.nəl.aɪz/",
+          "type": "verb",
+          "example": "Prices are not yet finalized, but should be comparable to existing cars and will be announced next month.",
+          "exampleMeaning": "Giá cả chưa được chốt, nhưng dự kiến sẽ tương đương với các loại xe hiện có và sẽ được công bố vào tháng tới.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "furnish",
+          "meaning": "trang bị đồ đạc (phòng, nhà...)",
+          "pronunciation": "/ˈfɜː.nɪʃ/",
+          "type": "verb",
+          "example": "The apartment was sold fully furnished for $1.3 million.",
+          "exampleMeaning": "Căn hộ đã được bán đầy đủ nội thất với giá 1,3 triệu đô la.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "hourly",
+          "meaning": "mỗi giờ",
+          "pronunciation": "/ˈaʊə.li/",
+          "type": "adverb/adjective",
+          "example": "You will be responsible for carrying out hourly inspections of the customer toilets.",
+          "exampleMeaning": "Bạn sẽ chịu trách nhiệm tiến hành kiểm tra hàng giờ nhà vệ sinh của khách hàng.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "incur",
+          "meaning": "gánh chịu, nhận lấy",
+          "pronunciation": "/ɪnˈkɜːr/",
+          "type": "verb",
+          "example": "The play has incurred the anger of both audiences and critics.",
+          "exampleMeaning": "Vở kịch đã bị khán giả và giới phê bình giận dữ.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "instruct",
+          "meaning": "dạy, hướng dẫn",
+          "pronunciation": "/ɪnˈstrʌkt/",
+          "type": "verb",
+          "example": "All our staff have been instructed in sign language.",
+          "exampleMeaning": "Tất cả nhân viên của chúng tôi đã được hướng dẫn về ngôn ngữ ký hiệu.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "jet",
+          "meaning": "máy bay",
+          "pronunciation": "/dʒet/",
+          "type": "noun",
+          "example": "The accident happened as the jet was about to take off.",
+          "exampleMeaning": "Tai nạn xảy ra khi chiếc máy bay phản lực chuẩn bị cất cánh.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "jog",
+          "meaning": "chạy chậm, thong thả với tốc độ đều",
+          "pronunciation": "/dʒɒɡ/",
+          "type": "noun",
+          "example": "I like to go for a jog after work.",
+          "exampleMeaning": "Tôi thích đi chạy bộ sau giờ làm việc.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "laundry",
+          "meaning": "quần áo bẩn cần giặt",
+          "pronunciation": "/ˈlɔːn.dri/",
+          "type": "noun",
+          "example": "He'd put his dirty laundry in the clothes basket.",
+          "exampleMeaning": "Anh ấy đã bỏ đồ giặt bẩn vào giỏ quần áo.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "leisure",
+          "meaning": "thời gian rảnh, rỗi rãi",
+          "pronunciation": "/ˈleʒ.ər/",
+          "type": "noun",
+          "example": "These days we have increased opportunities for leisure.",
+          "exampleMeaning": "Những ngày này chúng tôi có nhiều cơ hội giải trí hơn.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "loyal",
+          "meaning": "trung thành, trung nghĩa",
+          "pronunciation": "/ˈlɔɪ.əl/",
+          "type": "adjective",
+          "example": "She has always remained loyal to her political principles.",
+          "exampleMeaning": "Cô ấy luôn trung thành với các nguyên tắc chính trị của mình.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "luncheon",
+          "meaning": "tiệc trưa",
+          "pronunciation": "/ˈlʌn.tʃən/",
+          "type": "noun",
+          "example": "Luncheon will be served at one, Madam.",
+          "exampleMeaning": "Bữa trưa sẽ được phục vụ vào lúc một giờ, Thưa bà.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "mandatory",
+          "meaning": "bắt buộc",
+          "pronunciation": "/ˈmæn.də.tɔː.ri/",
+          "type": "adjective",
+          "example": "The offence carries a mandatory life sentence.",
+          "exampleMeaning": "Tội phạm này mang án chung thân bắt buộc.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "mechanical",
+          "meaning": "(thuộc) máy móc; (thuộc) cơ khí; (thuộc) cơ học",
+          "pronunciation": "/məˈkæn.ɪ.kəl/",
+          "type": "adjective",
+          "example": "The breakdown was due to a mechanical failure.",
+          "exampleMeaning": "Sự hỏng hóc là do một lỗi cơ khí.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "microphone",
+          "meaning": "micrô",
+          "pronunciation": "/ˈmaɪ.krə.foʊn/",
+          "type": "noun",
+          "example": "Interviewees are placed in front of the microphone and grilled.",
+          "exampleMeaning": "Các ứng viên được đặt trước micro và bị tra khảo.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "nap",
+          "meaning": "giấc ngủ trưa, chợp mắt",
+          "pronunciation": "/næp/",
+          "type": "noun",
+          "example": "I had a short nap after lunch.",
+          "exampleMeaning": "Tôi đã chợp mắt một chút sau bữa trưa.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "overview",
+          "meaning": "khái quát, tóm tắt chung, tổng quan",
+          "pronunciation": "/ˈəʊ.və.vjuː/",
+          "type": "noun",
+          "example": "The second chapter will provide an overview of the issues involved.",
+          "exampleMeaning": "Chương thứ hai sẽ cung cấp một cái nhìn tổng quan về các vấn đề liên quan.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "pharmacy",
+          "meaning": "nhà thuốc",
+          "pronunciation": "/ˈfɑː.mə.si/",
+          "type": "noun",
+          "example": "The cream is available at/from/in pharmacies without a prescription.",
+          "exampleMeaning": "Kem có sẵn tại/của/trong các hiệu thuốc mà không cần đơn thuốc.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "projector",
+          "meaning": "máy chiếu",
+          "pronunciation": "/prəˈdʒek.tər/",
+          "type": "noun",
+          "example": "You can connect your PDA directly to a projector and go through the slides with a remote control.",
+          "exampleMeaning": "Bạn có thể kết nối PDA của mình trực tiếp với máy chiếu và điều khiển các slide bằng điều khiển từ xa.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "promotional",
+          "meaning": "(thuộc) quảng cáo (để bán hàng)",
+          "pronunciation": "/prəˈməʊ.ʃən.əl/",
+          "type": "adjective",
+          "example": "The writer recently went on a promotional tour of his homeland.",
+          "exampleMeaning": "Tác giả gần đây đã thực hiện một chuyến lưu diễn quảng bá quê hương của mình.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "quarterly",
+          "meaning": "mỗi quý, hằng quý",
+          "pronunciation": "/ˈkwɔː.təl.i/",
+          "type": "adverb",
+          "example": "The magazine will be published quarterly.",
+          "exampleMeaning": "Tạp chí sẽ được xuất bản hàng quý.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "realistic",
+          "meaning": "thực tế",
+          "pronunciation": "/ˌrɪəˈlɪs.tɪk/",
+          "type": "adjective",
+          "example": "Manufacturers and shops circumnavigate gun laws by providing realistic models which are unable to discharge missiles.",
+          "exampleMeaning": "Các nhà sản xuất và cửa hàng lách luật súng bằng cách cung cấp các mô hình chân thực nhưng không thể phóng tên lửa.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "reinforce",
+          "meaning": "củng cố, gia cố",
+          "pronunciation": "/ˌriː.ɪnˈfɔːs/",
+          "type": "verb",
+          "example": "The foundations will have to be reinforced to prevent the house from sinking further into the ground.",
+          "exampleMeaning": "Nền móng sẽ phải được gia cố để ngăn ngôi nhà lún sâu hơn vào lòng đất.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "residential",
+          "meaning": "(thuộc) nơi ở, (thuộc) nơi cư trú",
+          "pronunciation": "/ˌrez.ɪˈden.ʃəl/",
+          "type": "adjective",
+          "example": "Behind the beach are high-rise hotels and residential buildings.",
+          "exampleMeaning": "Phía sau bãi biển là những khách sạn cao tầng và các tòa nhà dân cư.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "scholarship",
+          "meaning": "học bổng",
+          "pronunciation": "/ˈskɒl.ə.ʃɪp/",
+          "type": "noun",
+          "example": "He got/won a scholarship to Harvard.",
+          "exampleMeaning": "Anh ấy nhận/được học bổng vào Harvard.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "seeker",
+          "meaning": "người tìm kiếm",
+          "pronunciation": "/ˈsiː.kər/",
+          "type": "noun",
+          "example": "But income seekers want higher returns than this.",
+          "exampleMeaning": "Nhưng những người tìm kiếm thu nhập muốn lợi nhuận cao hơn thế này.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "sender",
+          "meaning": "người gửi tin, người truyền tin",
+          "pronunciation": "/ˈsen.dər/",
+          "type": "noun",
+          "example": "Postage stamps were introduced in Britain in 1840 as a way of showing that the sender had paid for the letter to be delivered.",
+          "exampleMeaning": "Tem bưu chính được giới thiệu ở Anh vào năm 1840 như một cách để cho thấy rằng người gửi đã trả tiền cho lá thư được giao.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "shortage",
+          "meaning": "sự thiếu hụt",
+          "pronunciation": "/ˈʃɔː.tɪdʒ/",
+          "type": "noun",
+          "example": "The government's programme to grow cash crops for export is a double-edged sword because it has created a local food shortage.",
+          "exampleMeaning": "Chương trình của chính phủ để trồng cây nông nghiệp xuất khẩu là con dao hai lưỡi vì nó đã tạo ra tình trạng thiếu hụt lương thực địa phương.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "spacious",
+          "meaning": "rộng rãi",
+          "pronunciation": "/ˈspeɪ.ʃəs/",
+          "type": "adjective",
+          "example": "The boat provides spacious accommodation for five people.",
+          "exampleMeaning": "Chiếc thuyền cung cấp chỗ ở rộng rãi cho năm người.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "temporarily",
+          "meaning": "tạm thời",
+          "pronunciation": "/ˈtem.pər.er.əl.i/",
+          "type": "adverb",
+          "example": "The lecturer temporarily digressed from her subject to deal with a related theory.",
+          "exampleMeaning": "Giảng viên tạm thời lạc đề khỏi chủ đề của cô để xử lý một lý thuyết liên quan.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "thoroughly",
+          "meaning": "một cách kỹ lưỡng, tỉ mỉ",
+          "pronunciation": "/ˈθʌr.ə.li/",
+          "type": "adverb",
+          "example": "All the other teachers are thoroughly disillusioned with their colleague.",
+          "exampleMeaning": "Tất cả các giáo viên khác đều hoàn toàn vỡ mộng về đồng nghiệp của họ.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn tắm",
+          "pronunciation": "/taʊəl/",
+          "type": "noun",
+          "example": "Don't wipe your grubby hands on my clean towel!",
+          "exampleMeaning": "Đừng lau tay bẩn của bạn lên khăn sạch của tôi!",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "trash",
+          "meaning": "rác, vật vô giá trị",
+          "pronunciation": "/træʃ/",
+          "type": "noun",
+          "example": "The trash really stinks - why don't you take it out?",
+          "exampleMeaning": "Rác bốc mùi kinh khủng - sao bạn không mang nó ra ngoài?",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "unattended",
+          "meaning": "không được giám sát, không được quan tâm",
+          "pronunciation": "/ˌʌn.əˈten.dɪd/",
+          "type": "adjective",
+          "example": "Please do not leave your luggage unattended.",
+          "exampleMeaning": "Xin đừng để hành lý của bạn mà không có người trông coi.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "usage",
+          "meaning": "cách sử dụng",
+          "pronunciation": "/ˈjuː.sɪdʒ/",
+          "type": "noun",
+          "example": "Sports equipment is designed to withstand hard usage.",
+          "exampleMeaning": "Thiết bị thể thao được thiết kế để chịu đựng sự sử dụng khó khăn.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "vacuum",
+          "meaning": "không gian trống/chân không",
+          "pronunciation": "/ˈvæk.juːm/",
+          "type": "noun",
+          "example": "Other gases rush in to fill the vacuum.",
+          "exampleMeaning": "Các khí khác lao vào để lấp đầy khoảng trống.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "windy",
+          "meaning": "có gió",
+          "pronunciation": "/ˈwɪn.di/",
+          "type": "adjective",
+          "example": "It was a hot, if windy day.",
+          "exampleMeaning": "Đó là một ngày nóng, dù có gió.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "wireless",
+          "meaning": "thiết bị không dây",
+          "pronunciation": "/ˈwaɪə.ləs/",
+          "type": "noun",
+          "example": "If you've been waiting to jump into wireless, the water is safe.",
+          "exampleMeaning": "Nếu bạn đang chờ để tham gia vào thế giới không dây, thì nó an toàn.",
+          "note": "Từ vựng List 8"
+        },
+        {
+          "word": "yearly",
+          "meaning": "hằng năm, mỗi năm",
+          "pronunciation": "/ˈjɪə.li/",
+          "type": "adverb",
+          "example": "We get a yearly pay increase.",
+          "exampleMeaning": "Chúng tôi được tăng lương hàng năm.",
+          "note": "Từ vựng List 8"
+        }
+      ]
+    }
+  ]
+}
