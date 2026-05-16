@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_13",
+      "name": "List 13",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "aboard",
+          "meaning": "trên hoặc trong một phương tiện di chuyển, ví dụ: Trên thuyền",
+          "pronunciation": "/əˈbɔrd/",
+          "type": "adverb, preposition",
+          "example": "The flight attendant welcomed us aboard.",
+          "exampleMeaning": "Tiếp viên hàng không chào đón chúng tôi lên máy bay.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "acceptance",
+          "meaning": "sự chấp nhận",
+          "pronunciation": "/əkˈsɛptəns/",
+          "type": "noun",
+          "example": "The party marked his acceptance into the community.",
+          "exampleMeaning": "Buổi tiệc đánh dấu sự chấp nhận anh ấy vào cộng đồng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "advancement",
+          "meaning": "sự tiến bộ, sự thăng tiến",
+          "pronunciation": "/ədˈvɑːns.mənt/",
+          "type": "noun",
+          "example": "All she was interested in was the advancement of her own career.",
+          "exampleMeaning": "Tất cả những gì cô ấy quan tâm là sự thăng tiến trong sự nghiệp của chính mình.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "advertiser",
+          "meaning": "nhà quảng cáo",
+          "pronunciation": "/ˈæd.və.taɪ.zər/",
+          "type": "noun",
+          "example": "While claiming to promote positive images of women, advertisers are in fact doing the very opposite.",
+          "exampleMeaning": "Trong khi tuyên bố thúc đẩy hình ảnh tích cực của phụ nữ, các nhà quảng cáo thực chất đang làm điều hoàn toàn ngược lại.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "allocate",
+          "meaning": "Phân công, phân phát",
+          "pronunciation": "/ˈæl.ə.keɪt/",
+          "type": "verb",
+          "example": "As project leader, you will have to allocate people jobs/allocate jobs to people.",
+          "exampleMeaning": "Là trưởng dự án, bạn sẽ phải phân bổ công việc cho mọi người/phân bổ người vào công việc.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "alternatively",
+          "meaning": "một cách khác, cách thay thế",
+          "pronunciation": "/ɔːlˈtɜː.nə.tɪv.li/",
+          "type": "adverb",
+          "example": "It would be a six-month wait for the operation but, alternatively, you could pay for private treatment.",
+          "exampleMeaning": "Sẽ phải chờ sáu tháng để phẫu thuật, nhưng cách khác, bạn có thể trả tiền cho việc điều trị riêng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "ambitious",
+          "meaning": "có nhiều tham vọng",
+          "pronunciation": "/æmˈbɪʃ.əs/",
+          "type": "adjective",
+          "example": "She has some ambitious plans for her business.",
+          "exampleMeaning": "Cô ấy có một số kế hoạch đầy tham vọng cho doanh nghiệp của mình.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "amuse",
+          "meaning": "giải trí",
+          "pronunciation": "/əˈmjuːz/",
+          "type": "verb",
+          "example": "Could you think of a few games to amuse the children on the journey?",
+          "exampleMeaning": "Bạn có thể nghĩ ra vài trò chơi để làm vui cho bọn trẻ trong chuyến đi không?",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "appendix",
+          "meaning": "phụ lục",
+          "pronunciation": "/əˈpen.dɪks/",
+          "type": "noun",
+          "example": "There's an appendix at the end of the book with a list of dates.",
+          "exampleMeaning": "Có một phụ lục ở cuối cuốn sách với một danh sách các ngày tháng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "attorney",
+          "meaning": "luật sư",
+          "pronunciation": "/əˈtɜː.ni/",
+          "type": "noun",
+          "example": "They paid a high-powered attorney to plead their case.",
+          "exampleMeaning": "Họ đã thuê một luật sư có uy tín để bào chữa cho trường hợp của họ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "authorization",
+          "meaning": "sự cho phép, sự ủy quyền để làm điều gì đó",
+          "pronunciation": "/ˌɔː.θər.aɪˈzeɪ.ʃən/",
+          "type": "noun",
+          "example": "Medical records cannot be disclosed without authorization from the patient.",
+          "exampleMeaning": "Hồ sơ y tế không thể được tiết lộ mà không có sự cho phép từ bệnh nhân.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "booth",
+          "meaning": "gian hàng, buồng kín",
+          "pronunciation": "/buːθ/",
+          "type": "noun",
+          "example": "There was a line of people waiting for the phone booth.",
+          "exampleMeaning": "Có một hàng người đang chờ bốt điện thoại.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "campus",
+          "meaning": "khuôn viên trường đại học",
+          "pronunciation": "/ˈkæm.pəs/",
+          "type": "noun",
+          "example": "There's accommodation for about five hundred students on campus.",
+          "exampleMeaning": "Có chỗ ở cho khoảng năm trăm sinh viên tại khuôn viên trường.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "candy",
+          "meaning": "món kẹo",
+          "pronunciation": "/ˈkæn.di/",
+          "type": "noun",
+          "example": "Here's some candy for you to put in the kids' goody bags.",
+          "exampleMeaning": "Đây là một ít kẹo để bạn cho vào túi quà của bọn trẻ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "certify",
+          "meaning": "chứng nhận, chứng thực",
+          "pronunciation": "/ˈsɜː.tɪ.faɪ/",
+          "type": "verb",
+          "example": "The driver was certified (as) dead on arrival at the hospital.",
+          "exampleMeaning": "Tài xế được xác nhận đã chết khi đến bệnh viện.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "checkout",
+          "meaning": "sự trả phòng khách sạn",
+          "pronunciation": "/ˈtʃek.aʊt/",
+          "type": "noun",
+          "example": "Speak to Reception if you would like to request a later checkout.",
+          "exampleMeaning": "Hãy nói chuyện với Lễ tân nếu bạn muốn yêu cầu trả phòng muộn hơn.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "chemistry",
+          "meaning": "hóa học",
+          "pronunciation": "/ˈkem.ɪ.stri/",
+          "type": "noun",
+          "example": "Marie Curie was the woman behind enormous changes in the science of chemistry.",
+          "exampleMeaning": "Marie Curie là người phụ nữ đứng sau những thay đổi to lớn trong khoa học hóa học.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "circulation",
+          "meaning": "sự lưu hành (báo chí,...)",
+          "pronunciation": "/ˌsɜː.kjəˈleɪ.ʃən/",
+          "type": "noun",
+          "example": "It has a daily circulation of 400,000, making it the second-largest newspaper in the country.",
+          "exampleMeaning": "Nó có lượng phát hành hàng ngày là 400.000, làm cho nó trở thành tờ báo lớn thứ hai trong nước.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "clarify",
+          "meaning": "để giải thích hoặc làm rõ",
+          "pronunciation": "/ˈklær.ɪ.faɪ/",
+          "type": "verb",
+          "example": "The position of all shareholders will be clarified next month when we finalize our proposals.",
+          "exampleMeaning": "Vị trí của tất cả cổ đông sẽ được làm rõ vào tháng tới khi chúng tôi hoàn thiện các đề xuất của mình.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "classmate",
+          "meaning": "bạn học cùng lớp",
+          "pronunciation": "/ˈklɑːs.meɪt/",
+          "type": "noun",
+          "example": "Trish is taller than most of her classmates.",
+          "exampleMeaning": "Trish cao hơn hầu hết các bạn cùng lớp của cô ấy.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "compile",
+          "meaning": "biên soạn, thu thập dữ liệu",
+          "pronunciation": "/kəmˈpaɪl/",
+          "type": "verb",
+          "example": "Credit bureaus collect and compile information about consumer creditworthiness from banks, other creditors, and from public records.",
+          "exampleMeaning": "Các văn phòng tín dụng thu thập và tổng hợp thông tin về khả năng tín dụng của người tiêu dùng từ các ngân hàng, các chủ nợ khác và từ các hồ sơ công khai.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "concierge",
+          "meaning": "nhân viên hỗ trợ ở tiền sảnh khách sạn",
+          "pronunciation": "/ˌkɒn.siˈeəʒ/",
+          "type": "noun",
+          "example": "Other hotel staff who expect a tip include a concierge who books tickets for a show and a doorman who hails a taxi.",
+          "exampleMeaning": "Những nhân viên khách sạn khác mong nhận tiền tip bao gồm nhân viên hướng dẫn đặt vé cho một buổi diễn và người gác cổng gọi taxi.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "consent",
+          "meaning": "bằng lòng, tán thành, cho phép",
+          "pronunciation": "/kənˈsent/",
+          "type": "verb",
+          "example": "Pressure is being put on shareholders to consent to the takeover.",
+          "exampleMeaning": "Áp lực đang được gây lên các cổ đông để đồng ý với việc tiếp quản.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "consistently",
+          "meaning": "một cách nhất quán",
+          "pronunciation": "/kənˈsɪs.tənt.li/",
+          "type": "adverb",
+          "example": "The vehicle consistently outperforms some of the best competitors.",
+          "exampleMeaning": "Chiếc xe luôn vượt trội hơn một số đối thủ tốt nhất.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "cookie",
+          "meaning": "bánh quy",
+          "pronunciation": "/ˈkʊk.i/",
+          "type": "noun",
+          "example": "If you eat three good meals a day, you shouldn't need to snack on cookies and crisps.",
+          "exampleMeaning": "Nếu bạn ăn ba bữa ăn ngon mỗi ngày, bạn không nên cần ăn vặt với bánh quy và khoai tây chiên.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "correction",
+          "meaning": "sự sửa chữa, sự hiệu chỉnh",
+          "pronunciation": "/kəˈrek.ʃən/",
+          "type": "noun",
+          "example": "Make sure you do all those spelling corrections carefully before you send off the letter.",
+          "exampleMeaning": "Hãy chắc chắn rằng bạn thực hiện tất cả các sửa lỗi chính tả cẩn thận trước khi gửi lá thư.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "customize",
+          "meaning": "tuỳ chỉnh",
+          "pronunciation": "/ˈkʌs.tə.maɪz/",
+          "type": "verb",
+          "example": "Employees can customize the software to suit their needs.",
+          "exampleMeaning": "Nhân viên có thể tùy chỉnh phần mềm để phù hợp với nhu cầu của họ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "deck",
+          "meaning": "sân thượng",
+          "pronunciation": "/dek/",
+          "type": "noun",
+          "example": "In summer, we always eat out on the deck – except when it rains.",
+          "exampleMeaning": "Vào mùa hè, chúng ta luôn ăn ngoài sân – trừ khi trời mưa.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "dedication",
+          "meaning": "sự cống hiến, sự tận tâm",
+          "pronunciation": "/ˌded.ɪˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "The country's greatest resource is the dedication of its workers.",
+          "exampleMeaning": "Tài nguyên lớn nhất của đất nước là sự cống hiến của những người lao động.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "descriptive",
+          "meaning": "đùng để diễn tả, mô tả",
+          "pronunciation": "/dɪˈskrɪp.tɪv/",
+          "type": "adjective",
+          "example": "One of the strengths of this book lies in the descriptive passages.",
+          "exampleMeaning": "Một trong những thế mạnh của cuốn sách này nằm ở các đoạn mô tả.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "detach",
+          "meaning": "tháo ra, tách ra",
+          "pronunciation": "/dɪˈtætʃ/",
+          "type": "verb",
+          "example": "Detach the lower part of the form from this letter and return it to the above address.",
+          "exampleMeaning": "Tháo phần dưới của biểu mẫu ra khỏi lá thư này và gửi lại địa chỉ ở trên.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "diagnose",
+          "meaning": "chẩn đoán, phát hiện lỗi sai",
+          "pronunciation": "/ˌdaɪ.əɡˈnoʊz/",
+          "type": "verb",
+          "example": "It was not easy to diagnose what was wrong with the business.",
+          "exampleMeaning": "Không dễ dàng để chẩn đoán vấn đề của doanh nghiệp là gì.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "documentation",
+          "meaning": "sự chứng minh bằng tài liệu",
+          "pronunciation": "/ˌdɒk.jə.menˈteɪ.ʃən/",
+          "type": "noun",
+          "example": "Many lenders are now requiring borrowers to provide documentation of their income.",
+          "exampleMeaning": "Nhiều người cho vay hiện đang yêu cầu người vay cung cấp tài liệu chứng minh thu nhập của họ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "entrepreneur",
+          "meaning": "doanh nhân",
+          "pronunciation": "/ˌɒn.trə.prəˈnɜːr/",
+          "type": "noun",
+          "example": "He's an entrepreneur who made his money in computer software.",
+          "exampleMeaning": "Anh ấy là một doanh nhân đã kiếm tiền từ phần mềm máy tính.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "exceptional",
+          "meaning": "phi thường, đặc biệt",
+          "pronunciation": "/ɪkˈsep.ʃən.əl/",
+          "type": "adjective",
+          "example": "The company has shown exceptional growth over the past two years.",
+          "exampleMeaning": "Công ty đã cho thấy sự tăng trưởng đặc biệt trong hai năm qua.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "familiarize",
+          "meaning": "làm cho quen thân",
+          "pronunciation": "/fəˈmɪl.i.ə.raɪz/",
+          "type": "verb",
+          "example": "Teachers needed to familiarize themselves with the new software.",
+          "exampleMeaning": "Giáo viên cần làm quen với phần mềm mới.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "hotline",
+          "meaning": "đường dây nóng",
+          "pronunciation": "/ˈhɒt.laɪn/",
+          "type": "noun",
+          "example": "A national hotline has been set up for students suffering from stress.",
+          "exampleMeaning": "Một đường dây nóng quốc gia đã được thiết lập cho sinh viên bị căng thẳng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "intonation",
+          "meaning": "ngữ điệu",
+          "pronunciation": "/ˌɪn.təˈneɪ.ʃən/",
+          "type": "noun",
+          "example": "In English, some questions have a rising intonation.",
+          "exampleMeaning": "Trong tiếng Anh, một số câu hỏi có ngữ điệu tăng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "invention",
+          "meaning": "sự phát minh, sự sáng chế",
+          "pronunciation": "/ɪnˈven.ʃən/",
+          "type": "noun",
+          "example": "Fax machines were a wonderful invention at the time.",
+          "exampleMeaning": "Máy fax là một phát minh tuyệt vời vào thời điểm đó.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "irritate",
+          "meaning": "làm phiền",
+          "pronunciation": "/ˈɪr.ɪ.teɪt/",
+          "type": "verb",
+          "example": "The way she puts on that accent really irritates me.",
+          "exampleMeaning": "Cách cô ấy nói giọng đó thật sự làm tôi khó chịu.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "locker",
+          "meaning": "tủ nhỏ có khóa",
+          "pronunciation": "/ˈlɒk.ər/",
+          "type": "noun",
+          "example": "I left my things in my locker.",
+          "exampleMeaning": "Tôi đã để đồ của mình trong tủ đồ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "overlook",
+          "meaning": "bỏ qua, không chú ý tới",
+          "pronunciation": "/ˌəʊ.vəˈlʊk/",
+          "type": "verb",
+          "example": "He seems to have overlooked one important fact.",
+          "exampleMeaning": "Anh ấy dường như đã bỏ qua một sự thật quan trọng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "patent",
+          "meaning": "bằng sáng chế; giấy phép độc quyền nhãn hiệu",
+          "pronunciation": "/ˈpæt.ənt/",
+          "type": "noun",
+          "example": "Edison took out a patent on the light bulb.",
+          "exampleMeaning": "Edison đã lấy bằng sáng chế cho bóng đèn.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "payable",
+          "meaning": "có thể trả, phải trả",
+          "pronunciation": "/ˈpeɪ.ə.bəl/",
+          "type": "adjective",
+          "example": "No tax is payable on these earnings.",
+          "exampleMeaning": "Không phải nộp thuế đối với những khoản thu nhập này.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "preliminary",
+          "meaning": "các bước mở đầu, sự sắp xếp ban đầu",
+          "pronunciation": "/prɪˈlɪm.ɪ.nər.i/",
+          "type": "noun",
+          "example": "Our preliminary findings suggest an increased risk for those aged over 60.",
+          "exampleMeaning": "Những phát hiện ban đầu của chúng tôi cho thấy nguy cơ gia tăng đối với những người trên 60 tuổi.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "salesman",
+          "meaning": "người bán hàng (nam giới)",
+          "pronunciation": "/ˈseɪlz.mən/",
+          "type": "noun",
+          "example": "He began his career as an insurance salesman.",
+          "exampleMeaning": "Anh ấy bắt đầu sự nghiệp của mình như một nhân viên bán bảo hiểm.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "sauna",
+          "meaning": "phòng tắm hơi",
+          "pronunciation": "/ˈsaʊ.nə/",
+          "type": "noun",
+          "example": "The strange fever remained, making her feel as if she'd been sitting in a sauna for hours.",
+          "exampleMeaning": "Cơn sốt kỳ lạ vẫn còn, khiến cô cảm thấy như thể cô đã ngồi trong phòng xông hơi trong nhiều giờ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "smoothly",
+          "meaning": "Một cách êm ả; một cách trôi chảy",
+          "pronunciation": "/ˈsmuːð.li/",
+          "type": "adverb",
+          "example": "The road was blocked for two hours after the accident, but traffic is now flowing smoothly again.",
+          "exampleMeaning": "Con đường đã bị chặn trong hai giờ sau vụ tai nạn, nhưng giao thông bây giờ lại trôi chảy.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "sunshine",
+          "meaning": "ánh sáng mặt trời",
+          "pronunciation": "/ˈsʌn.ʃaɪn/",
+          "type": "noun",
+          "example": "Butterflies fluttered about in the sunshine.",
+          "exampleMeaning": "Những con bướm bay lượn trong ánh nắng.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "tow",
+          "meaning": "Kéo đi",
+          "pronunciation": "/təʊ/",
+          "type": "verb",
+          "example": "You shouldn't drive fast when your car is towing a caravan.",
+          "exampleMeaning": "Bạn không nên lái xe nhanh khi ô tô của bạn đang kéo một chiếc nhà di động.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "translator",
+          "meaning": "người biên dịch",
+          "pronunciation": "/trænzˈleɪ.tər/",
+          "type": "noun",
+          "example": "He works as a translator and political researcher.",
+          "exampleMeaning": "Anh ấy làm việc như một dịch giả và nhà nghiên cứu chính trị.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "tuition",
+          "meaning": "học phí",
+          "pronunciation": "/tjuˈɪʃ.ən/",
+          "type": "noun",
+          "example": "Few can afford the tuition of $12,000 a semester.",
+          "exampleMeaning": "Ít người có thể chi trả học phí 12,000 đô la mỗi học kỳ.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "unavailable",
+          "meaning": "không có sẵn",
+          "pronunciation": "/ˌʌnəˈveɪləbl/",
+          "type": "adjective",
+          "example": "Fresh fruit and vegetables had been unavailable for some time.",
+          "exampleMeaning": "Trái cây và rau tươi đã không có sẵn trong một thời gian.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "violation",
+          "meaning": "sự vi phạm (luật,...)",
+          "pronunciation": "/ˌvaɪəˈleɪʃən/",
+          "type": "noun",
+          "example": "He claimed that the way he'd been treated was a gross violation of his civil/constitutional/human rights.",
+          "exampleMeaning": "Ông ấy tuyên bố rằng cách ông ấy bị đối xử là một sự vi phạm nghiêm trọng quyền dân sự/hợp hiến/nhân quyền của ông ấy.",
+          "note": "Từ vựng List 13"
+        },
+        {
+          "word": "webpage",
+          "meaning": "trang web",
+          "pronunciation": "/ˈweb.peɪdʒ/",
+          "type": "noun",
+          "example": "A website may have many different webpages for you to click on and explore.",
+          "exampleMeaning": "Một trang web có thể có nhiều trang khác nhau để bạn nhấp vào và khám phá.",
+          "note": "Từ vựng List 13"
+        }
+      ]
+    }
+  ]
+}
