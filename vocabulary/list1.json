@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_1",
+      "name": "List 1",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accountant",
+          "meaning": "một người chịu trách nhiệm về tiền trong một doanh nghiệp, kế toán",
+          "pronunciation": "/əˈkaʊn.tənt/",
+          "type": "noun",
+          "example": "My accountant takes care of my taxes.",
+          "exampleMeaning": "Kế toán của tôi lo liệu thuế của tôi.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "airport",
+          "meaning": "sân bay",
+          "pronunciation": "/ˈeə.pɔːt/",
+          "type": "noun",
+          "example": "Security checks have become really strict at the airport.",
+          "exampleMeaning": "Kiểm tra an ninh ở sân bay đã trở nên rất nghiêm ngặt.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "applicant",
+          "meaning": "ứng viên",
+          "pronunciation": "/ˈæp.lɪ.kənt/",
+          "type": "noun",
+          "example": "Many applicants simply don't meet hiring requirements.",
+          "exampleMeaning": "Nhiều ứng viên đơn giản là không đáp ứng yêu cầu tuyển dụng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "attendant",
+          "meaning": "người phục vụ",
+          "pronunciation": "/ə'ten.dənt/",
+          "type": "noun",
+          "example": "There are around 20 parking attendants employed in Bolton who hand out 28,000 tickets a year.",
+          "exampleMeaning": "Có khoảng 20 nhân viên đỗ xe được tuyển dụng ở Bolton, những người phát 28.000 vé mỗi năm.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "bicycle",
+          "meaning": "xe đạp",
+          "pronunciation": "/ˈbaɪ.sɪ.kəl/",
+          "type": "noun",
+          "example": "You should never ride your bicycle without lights at night.",
+          "exampleMeaning": "Bạn không bao giờ nên đi xe đạp mà không có đèn vào ban đêm.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "brochure",
+          "meaning": "tờ gấp quảng cáo",
+          "pronunciation": "/ˈbrəʊ.ʃər/",
+          "type": "noun",
+          "example": "Enclosed is a brochure that highlights the benefits that you can receive as a corporate donor.",
+          "exampleMeaning": "Kèm theo đây là một tập tài liệu nêu bật những lợi ích mà bạn có thể nhận được khi là một nhà tài trợ doanh nghiệp.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "cafeteria",
+          "meaning": "quán ăn tự phục vụ",
+          "pronunciation": "/ˌkæf.əˈtɪə.ri.ə/",
+          "type": "noun",
+          "example": "Employees have four different salads to choose from for lunch in the company cafeteria.",
+          "exampleMeaning": "Nhân viên có bốn loại salad khác nhau để chọn cho bữa trưa tại nhà ăn công ty.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "caller",
+          "meaning": "người đang gọi điện cho bạn",
+          "pronunciation": "/ˈkɔː.lər/",
+          "type": "noun",
+          "example": "On Wednesday nearly all the phone lines were continuously busy, with callers waiting approximately 30 minutes.",
+          "exampleMeaning": "Vào thứ Tư gần như tất cả các đường dây điện thoại đều liên tục bận, với người gọi chờ khoảng 30 phút.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "candidate",
+          "meaning": "ứng cử viên",
+          "pronunciation": "/ˈkæn.dɪ.dət/",
+          "type": "noun",
+          "example": "There are three candidates standing in the election.",
+          "exampleMeaning": "Có ba ứng cử viên tranh cử trong cuộc bầu cử.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "chef",
+          "meaning": "đầu bếp",
+          "pronunciation": "/ʃef/",
+          "type": "noun",
+          "example": "The head chef runs the hotel kitchen with strict discipline and efficiency.",
+          "exampleMeaning": "Bếp trưởng điều hành bếp khách sạn với kỷ luật nghiêm ngặt và hiệu quả.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "clerk",
+          "meaning": "nhân viên bán hàng",
+          "pronunciation": "/klɑːrk/",
+          "type": "noun",
+          "example": "Take your purchases to the clerk, and he will wrap them for you.",
+          "exampleMeaning": "Mang hàng hoá của bạn đến nhân viên bán hàng, và anh ấy sẽ gói chúng cho bạn.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "client",
+          "meaning": "khách hàng",
+          "pronunciation": "/ˈklaɪənt/",
+          "type": "noun",
+          "example": "We always aim to give our clients personal attention.",
+          "exampleMeaning": "Chúng tôi luôn nhắm đến việc dành sự chú ý cá nhân cho khách hàng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "cloth",
+          "meaning": "cái khăn",
+          "pronunciation": "/klɒθ/",
+          "type": "noun",
+          "example": "It's the fineness of the thread that makes the cloth so soft.",
+          "exampleMeaning": "Chính sự mịn màng của sợi chỉ làm cho vải mềm như vậy.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "conference",
+          "meaning": "hội nghị, hội thảo",
+          "pronunciation": "/ˈkɒn.fər.əns/",
+          "type": "noun",
+          "example": "An international medical conference was established for the interchange of new ideas and approaches.",
+          "exampleMeaning": "Một hội nghị y tế quốc tế đã được thành lập để trao đổi những ý tưởng và phương pháp mới.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "correctly",
+          "meaning": "một cách chính xác, đúng đắn",
+          "pronunciation": "/kəˈrekt.li/",
+          "type": "adverb",
+          "example": "Correctly answer this question for your chance to win a car!",
+          "exampleMeaning": "Trả lời đúng câu hỏi này để có cơ hội trúng ô tô!",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "deadline",
+          "meaning": "hạn chót, thời gian cụ thể hoàn thành một nhiệm vụ hoặc công việc được giao",
+          "pronunciation": "/ˈded.laɪn/",
+          "type": "noun",
+          "example": "Now that the deadline is approaching we all feel under pressure.",
+          "exampleMeaning": "Bây giờ khi hạn chót đang đến gần, tất cả chúng tôi đều cảm thấy áp lực.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "downtown",
+          "meaning": "khu vực trung tâm của thành phố",
+          "pronunciation": "/ˌdaʊnˈtaʊn/",
+          "type": "noun",
+          "example": "In these areas, the historic downtowns often were only marginally important.",
+          "exampleMeaning": "Ở những khu vực này, khu trung tâm lịch sử thường chỉ giữ tầm quan trọng nhỏ.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "e-book",
+          "meaning": "sách điện tử",
+          "pronunciation": "/ˈiː.bʊk/",
+          "type": "noun",
+          "example": "An e-book can be browsed like an ordinary book if you have the right software installed on your computer.",
+          "exampleMeaning": "Một cuốn sách điện tử có thể được duyệt như một cuốn sách thông thường nếu bạn cài đặt đúng phần mềm trên máy tính của mình.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "elevator",
+          "meaning": "thang máy",
+          "pronunciation": "/ˈel.ɪ.veɪ.tər/",
+          "type": "noun",
+          "example": "I took the elevator to her office on the fourteenth floor.",
+          "exampleMeaning": "Tôi đã đi thang máy lên văn phòng của cô ấy ở tầng mười bốn.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "enclose",
+          "meaning": "vây quanh, rào quanh",
+          "pronunciation": "/ɪnˈkləʊz/",
+          "type": "verb",
+          "example": "The park that encloses the monument has recently been enlarged.",
+          "exampleMeaning": "Công viên bao quanh đài tưởng niệm gần đây đã được mở rộng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "fare",
+          "meaning": "tiền xe, tiền vé",
+          "pronunciation": "/feər/",
+          "type": "noun",
+          "example": "The airline's decision to cut air fares is likely to unsettle the market.",
+          "exampleMeaning": "Quyết định giảm giá vé máy bay của hãng hàng không có thể sẽ khiến thị trường bất ổn.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "fax",
+          "meaning": "gửi bằng máy fax",
+          "pronunciation": "/fæks/",
+          "type": "verb",
+          "example": "Please fax me a copy of your passport.",
+          "exampleMeaning": "Làm ơn gửi cho tôi một bản sao hộ chiếu của bạn qua fax.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "goods",
+          "meaning": "hàng hóa, mặt hàng",
+          "pronunciation": "/ɡʊdz/",
+          "type": "noun",
+          "example": "There is a 25% discount on all electrical goods until the end of the week.",
+          "exampleMeaning": "Có giảm giá 25% cho tất cả các mặt hàng điện tử cho đến cuối tuần.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "infer",
+          "meaning": "suy ra, phỏng đoán",
+          "pronunciation": "/ɪnˈfɜːr/",
+          "type": "verb",
+          "example": "Readers are left to infer the killer's motives.",
+          "exampleMeaning": "Người đọc được để lại để suy ra động cơ của kẻ giết người.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "invoice",
+          "meaning": "hóa đơn",
+          "pronunciation": "/ˈɪn.vɔɪs/",
+          "type": "noun",
+          "example": "The timber merchants sent an invoice for £250.",
+          "exampleMeaning": "Các thương gia gỗ đã gửi một hóa đơn trị giá £250.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "lease",
+          "meaning": "thuê",
+          "pronunciation": "/liːs/",
+          "type": "verb",
+          "example": "We lease all our computer equipment.",
+          "exampleMeaning": "Chúng tôi thuê tất cả thiết bị máy tính của mình.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "lobby",
+          "meaning": "tiền sảnh (của khách sạn)",
+          "pronunciation": "/ˈlɒb.i/",
+          "type": "noun",
+          "example": "In the hotel lobby you'll find an inviting sitting area next to reception.",
+          "exampleMeaning": "Ở sảnh khách sạn, bạn sẽ thấy một khu vực ngồi dễ chịu bên cạnh quầy lễ tân.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "logical",
+          "meaning": "theo logic, hợp lý",
+          "pronunciation": "/ˈlɒdʒ.ɪ.kəl/",
+          "type": "adjective",
+          "example": "It was a logical conclusion from the child's point of view.",
+          "exampleMeaning": "Đó là một kết luận hợp lý từ góc nhìn của đứa trẻ.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "luggage",
+          "meaning": "hành lý",
+          "pronunciation": "/ˈlʌɡ.ɪdʒ/",
+          "type": "noun",
+          "example": "They like you to check your luggage in an hour before the flight.",
+          "exampleMeaning": "Họ muốn bạn ký gửi hành lý của mình một giờ trước khi bay.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "memo",
+          "meaning": "giấy ghi chú",
+          "pronunciation": "/ˈmem.əʊ/",
+          "type": "noun",
+          "example": "She circulated a memo to the staff.",
+          "exampleMeaning": "Cô ấy đã phát hành một bản ghi nhớ cho nhân viên.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "mister",
+          "meaning": "một cách xưng hô lịch sự với 1 người đàn ông",
+          "pronunciation": "/ˈmɪs.tər/",
+          "type": "noun",
+          "example": "Look, Mister, we know our job, so don't try to tell us what to do.",
+          "exampleMeaning": "Nhìn này, thưa ông, chúng tôi biết công việc của mình, nên đừng cố bảo chúng tôi phải làm gì.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "noon",
+          "meaning": "giữa trưa",
+          "pronunciation": "/nuːn/",
+          "type": "noun",
+          "example": "We should be there by noon.",
+          "exampleMeaning": "Chúng ta nên có mặt ở đó vào buổi trưa.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "notify",
+          "meaning": "thông báo, cho biết",
+          "pronunciation": "/ˈnəʊ.tɪ.faɪ/",
+          "type": "verb",
+          "example": "Changes must be notified to the chairman.",
+          "exampleMeaning": "Những thay đổi phải được thông báo cho chủ tịch.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "o'clock",
+          "meaning": "giờ trong ngày",
+          "pronunciation": "/əˈklɒk/",
+          "type": "noun",
+          "example": "The trouble began just after ten o'clock last night.",
+          "exampleMeaning": "Rắc rối bắt đầu ngay sau mười giờ đêm qua.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "preview",
+          "meaning": "Sự xem trước, sự duyệt trước",
+          "pronunciation": "/ˈpriː.vjuː/",
+          "type": "noun",
+          "example": "There was a preview screening of the movie on Monday night.",
+          "exampleMeaning": "Đã có buổi chiếu thử của bộ phim vào tối thứ Hai.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "publish",
+          "meaning": "xuất bản, công bố, đăng tải",
+          "pronunciation": "/ˈpʌb.lɪʃ/",
+          "type": "verb",
+          "example": "The government publishes figures every six months showing how many people are unemployed.",
+          "exampleMeaning": "Chính phủ công bố số liệu mỗi sáu tháng cho thấy số người thất nghiệp.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "receipt",
+          "meaning": "hóa đơn",
+          "pronunciation": "/rɪˈsiːt/",
+          "type": "noun",
+          "example": "Make sure you are given a receipt for everything you buy.",
+          "exampleMeaning": "Hãy chắc chắn rằng bạn nhận được biên lai cho mọi thứ bạn mua.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "reception",
+          "meaning": "sự đón tiếp, tiệc chiêu đãi",
+          "pronunciation": "/rɪˈsep.ʃən/",
+          "type": "noun",
+          "example": "She was buoyed (up) by the warm reception her audience gave her.",
+          "exampleMeaning": "Cô ấy được khích lệ bởi sự đón tiếp nồng hậu mà khán giả dành cho cô.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "refund",
+          "meaning": "hoàn tiền",
+          "pronunciation": "/rɪˈfʌnd, ˈriˌfʌnd/",
+          "type": "verb",
+          "example": "When I went on business to Peru, the office refunded my expenses.",
+          "exampleMeaning": "Khi tôi đi công tác ở Peru, văn phòng đã hoàn tiền chi phí cho tôi.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "rental",
+          "meaning": "sự cho thuê",
+          "pronunciation": "/ˈren.təl/",
+          "type": "noun",
+          "example": "Property rental is quite expensive here.",
+          "exampleMeaning": "Giá thuê nhà ở đây khá đắt.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "reservation",
+          "meaning": "sự đặt trước",
+          "pronunciation": "/ˌrez.əˈveɪ.ʃən/",
+          "type": "noun",
+          "example": "I'd like to make a table reservation for two people for nine o'clock.",
+          "exampleMeaning": "Tôi muốn đặt bàn cho hai người vào lúc chín giờ.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "seminar",
+          "meaning": "buổi hội thảo, nghiên cứu khoa học, nghiên cứu chuyên đề hay có thể đơn giản là một buổi báo cáo công việc",
+          "pronunciation": "/ˈsem.ɪ.nɑːr/",
+          "type": "noun",
+          "example": "I attended practically every lecture and seminar when I was a student.",
+          "exampleMeaning": "Tôi đã tham dự hầu hết các buổi giảng và hội thảo khi tôi còn là sinh viên.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "shipment",
+          "meaning": "sự giao hàng",
+          "pronunciation": "/ˈʃɪp.mənt/",
+          "type": "noun",
+          "example": "A shipment of urgent medical supplies is expected to arrive very soon.",
+          "exampleMeaning": "Một lô hàng vật tư y tế khẩn cấp dự kiến sẽ đến rất sớm.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "sincerely",
+          "meaning": "một cách chân thành",
+          "pronunciation": "/sɪnˈsɪə.li/",
+          "type": "adverb",
+          "example": "I sincerely believe that this is the right decision.",
+          "exampleMeaning": "Tôi chân thành tin rằng đây là quyết định đúng đắn.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "sometime",
+          "meaning": "một lúc nào đó",
+          "pronunciation": "/ˈsʌm.taɪm/",
+          "type": "adverb",
+          "example": "We really should meet sometime soon to discuss the details.",
+          "exampleMeaning": "Chúng ta thực sự nên gặp nhau sớm để thảo luận chi tiết.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "subscription",
+          "meaning": "sự đăng ký",
+          "pronunciation": "/səbˈskrɪp.ʃən/",
+          "type": "noun",
+          "example": "I decided to take out (= pay for) a subscription to a gardening magazine.",
+          "exampleMeaning": "Tôi quyết định đăng ký (tức là trả tiền) một tạp chí làm vườn.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "subway",
+          "meaning": "đường hầm",
+          "pronunciation": "/ˈsʌb.weɪ/",
+          "type": "noun",
+          "example": "He ran through the pedestrian subway.",
+          "exampleMeaning": "Anh ấy chạy qua đường hầm dành cho người đi bộ.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "supervisor",
+          "meaning": "người giám sát",
+          "pronunciation": "/ˈsuː.pə.vaɪ.zər/",
+          "type": "noun",
+          "example": "All managers and supervisors should be familiar with policy and procedures relating to equal employment opportunities.",
+          "exampleMeaning": "Tất cả các quản lý và giám sát viên nên quen thuộc với chính sách và quy trình liên quan đến các cơ hội việc làm bình đẳng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "technician",
+          "meaning": "kỹ thuật viên",
+          "pronunciation": "/tekˈnɪʃ.ən/",
+          "type": "noun",
+          "example": "He became a lab technician for Technicolor and worked his way up.",
+          "exampleMeaning": "Anh ấy trở thành một kỹ thuật viên phòng thí nghiệm cho Technicolor và làm việc thăng tiến lên.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "traveler",
+          "meaning": "khách du lịch",
+          "pronunciation": "/ˈtræv.əl.ər/",
+          "type": "noun",
+          "example": "I'm not a great traveler. I'm happiest staying at home.",
+          "exampleMeaning": "Tôi không phải là một người thích du lịch. Tôi vui nhất khi ở nhà.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "vacation",
+          "meaning": "kỳ nghỉ",
+          "pronunciation": "/veɪˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "He injured himself on the next-to-last day of his vacation.",
+          "exampleMeaning": "Anh ấy bị thương vào ngày gần cuối của kỳ nghỉ.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "waiter",
+          "meaning": "nhân viên phục vụ (nam giới)",
+          "pronunciation": "/ˈweɪ.tər/",
+          "type": "noun",
+          "example": "The waiter smiled contemptuously at anyone who didn't know which wine to order.",
+          "exampleMeaning": "Người phục vụ cười khinh bỉ những ai không biết chọn loại rượu nào.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "warranty",
+          "meaning": "sự bảo hành",
+          "pronunciation": "/ˈwɒr.ən.ti/",
+          "type": "noun",
+          "example": "The laptop can be repaired for free if it's still under warranty.",
+          "exampleMeaning": "Máy tính xách tay có thể được sửa chữa miễn phí nếu nó vẫn còn bảo hành.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "website",
+          "meaning": "trang web",
+          "pronunciation": "/ˈweb.saɪt/",
+          "type": "noun",
+          "example": "This website is currently under construction.",
+          "exampleMeaning": "Trang web này hiện đang được xây dựng.",
+          "note": "Từ vựng List 1"
+        },
+        {
+          "word": "workshop",
+          "meaning": "phân xưởng",
+          "pronunciation": "/ˈwɜːk.ʃɒp/",
+          "type": "noun",
+          "example": "The amber products are produced in the workshop.",
+          "exampleMeaning": "Các sản phẩm hổ phách được sản xuất trong xưởng.",
+          "note": "Từ vựng List 1"
+        }
+      ]
+    }
+  ]
+}
