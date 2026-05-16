@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_9",
+      "name": "List 9",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "actress",
+          "meaning": "diễn viên nữ",
+          "pronunciation": "/ˈæk.trəs/",
+          "type": "noun",
+          "example": "She's the highest-paid actress in Hollywood",
+          "exampleMeaning": "Cô ấy là nữ diễn viên được trả lương cao nhất ở Hollywood",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "adjacent",
+          "meaning": "bên cạnh, gần đó",
+          "pronunciation": "/əˈdʒeɪ.sənt/",
+          "type": "adjective",
+          "example": "They lived in a house adjacent to the railway",
+          "exampleMeaning": "Họ sống trong một ngôi nhà kế cận đường sắt",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "alternate",
+          "meaning": "lựa chọn thay thế, người thay thế",
+          "pronunciation": "/ˈɔːl.tə.nət/",
+          "type": "noun",
+          "example": "He shall be entitled to exercise the vote of the director for whom he is an alternate",
+          "exampleMeaning": "Anh ấy sẽ được quyền bỏ phiếu của giám đốc mà anh ấy thay thế",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "anytime",
+          "meaning": "bất kỳ thời điểm, thời gian nào",
+          "pronunciation": "/ˈen.i.taɪm/",
+          "type": "adverb",
+          "example": "We don't expect the economic situation to change anytime soon",
+          "exampleMeaning": "Chúng tôi không mong đợi tình hình kinh tế sẽ thay đổi trong tương lai gần",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "badge",
+          "meaning": "huy hiệu, phù hiệu",
+          "pronunciation": "/bædʒ/",
+          "type": "noun",
+          "example": "New security measures require all visitors to sign in at reception and wear a visitor's badge.",
+          "exampleMeaning": "Các biện pháp an ninh mới yêu cầu tất cả khách đến phải đăng ký tại quầy lễ tân và đeo thẻ khách.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "boardroom",
+          "meaning": "phòng họp của ban giám đốc",
+          "pronunciation": "/ˈbɔːd.ruːm/",
+          "type": "noun",
+          "example": "Shareholders felt mistakes had been made at boardroom level.",
+          "exampleMeaning": "Các cổ đông cảm thấy rằng những sai lầm đã bị mắc phải ở cấp độ ban quản trị.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "brake",
+          "meaning": "phanh lại, hãm lại",
+          "pronunciation": "/breɪk/",
+          "type": "verb",
+          "example": "He would drive very fast and brake hard at the last minute",
+          "exampleMeaning": "Anh ấy lái xe rất nhanh và phanh gấp vào phút cuối",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "calculation",
+          "meaning": "sự tính toán, phép tính",
+          "pronunciation": "/ˌkæl.kjəˈleɪ.ʃən/",
+          "type": "noun",
+          "example": "The calculations that you did/made contained a few inaccuracies.",
+          "exampleMeaning": "Tính toán mà bạn đã thực hiện có một số điểm không chính xác.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "carpenter",
+          "meaning": "thợ mộc",
+          "pronunciation": "/ˈkɑː.pɪn.tər/",
+          "type": "noun",
+          "example": "A self-employed boat repairer and carpenter, he had difficulty getting a mortgage.",
+          "exampleMeaning": "Một người tự làm chủ sửa chữa thuyền và thợ mộc, anh ấy gặp khó khăn trong việc vay thế chấp.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "caterer",
+          "meaning": "người cung cấp thực phẩm",
+          "pronunciation": "/ˈkeɪ.tər.ər/",
+          "type": "noun",
+          "example": "The group included representatives from hotels, restaurants, retail companies, and contract caterers.",
+          "exampleMeaning": "Nhóm bao gồm các đại diện từ khách sạn, nhà hàng, công ty bán lẻ và các nhà cung cấp dịch vụ ăn uống theo hợp đồng.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "classify",
+          "meaning": "phân loại",
+          "pronunciation": "/ˈklæs.ɪ.faɪ/",
+          "type": "verb",
+          "example": "The books in the library are classified by/according to subject.",
+          "exampleMeaning": "Những cuốn sách trong thư viện được phân loại theo chủ đề.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "congratulate",
+          "meaning": "chúc mừng",
+          "pronunciation": "/kənˈɡrætʃ.ə.leɪt/",
+          "type": "verb",
+          "example": "He had taken the chance to congratulate him on his marriage",
+          "exampleMeaning": "Anh ấy đã nhân cơ hội để chúc mừng anh ấy về việc kết hôn",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "consultation",
+          "meaning": "cuộc hội ý, sự bàn bạc",
+          "pronunciation": "/ˌkɒn.səlˈteɪ.ʃən/",
+          "type": "noun",
+          "example": "The consultation on these options showed that Option 1 was widely rejected.",
+          "exampleMeaning": "Cuộc tham vấn về các lựa chọn này cho thấy rằng Lựa chọn 1 đã bị từ chối rộng rãi.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "coordinator",
+          "meaning": "người phối hợp, điều phối viên",
+          "pronunciation": "/kəʊˈɔː.dɪ.neɪ.tər/",
+          "type": "noun",
+          "example": "We've just appointed a coordinator who will oversee the whole project.",
+          "exampleMeaning": "Chúng tôi vừa bổ nhiệm một điều phối viên sẽ giám sát toàn bộ dự án.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "costly",
+          "meaning": "đắt tiền, tốn kém",
+          "pronunciation": "/ˈkɒst.li/",
+          "type": "adjective",
+          "example": "The industry gradually recovered after suffering two costly setbacks.",
+          "exampleMeaning": "Ngành công nghiệp dần dần phục hồi sau khi trải qua hai thất bại tốn kém.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "durable",
+          "meaning": "lâu bền, bền vững",
+          "pronunciation": "/ˈdjʊə.rə.bəl/",
+          "type": "adjective",
+          "example": "The machines have to be made of durable materials.",
+          "exampleMeaning": "Các máy móc cần được làm bằng vật liệu bền.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "equip",
+          "meaning": "trang bị",
+          "pronunciation": "/ɪˈkwɪp/",
+          "type": "verb",
+          "example": "All the police officers were equipped with shields to defend themselves against the rioters.",
+          "exampleMeaning": "Tất cả các sĩ quan cảnh sát đều được trang bị khiên để tự vệ trước những kẻ bạo loạn.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "escort",
+          "meaning": "hộ tống, đi theo",
+          "pronunciation": "/ɪˈskɔːt/",
+          "type": "verb",
+          "example": "Several little boats escorted the sailing ship into the harbour.",
+          "exampleMeaning": "Một vài chiếc thuyền nhỏ hộ tống con tàu buồm vào bến cảng.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "excursion",
+          "meaning": "cuộc du ngoạn, chuyến tham quan",
+          "pronunciation": "/ɪkˈskɜː.ʒən/",
+          "type": "noun",
+          "example": "This year's annual excursion will be to Lincoln.",
+          "exampleMeaning": "Chuyến du ngoạn hàng năm năm nay sẽ đến Lincoln.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "glove",
+          "meaning": "găng tay",
+          "pronunciation": "/ɡlʌv/",
+          "type": "noun",
+          "example": "Tuck your gloves in your pocket so that you don't lose them.",
+          "exampleMeaning": "Cất găng tay vào túi để bạn không bị mất chúng.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "graphic",
+          "meaning": "thuộc đồ họa, hình ảnh",
+          "pronunciation": "/ˈɡræfɪk/",
+          "type": "adjective",
+          "example": "The network has upgraded the graphic look of the show.",
+          "exampleMeaning": "Mạng đã nâng cấp giao diện đồ họa của chương trình.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "hardware",
+          "meaning": "đồ kim khí, phần cứng",
+          "pronunciation": "/ˈhɑːd.weər/",
+          "type": "noun",
+          "example": "The machine allows multitasking without the need to buy extra hardware.",
+          "exampleMeaning": "Máy cho phép đa nhiệm mà không cần mua thêm phần cứng.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "inexpensive",
+          "meaning": "có giá thấp; rẻ",
+          "pronunciation": "/ˌɪnɪkˈspensɪv/",
+          "type": "adjective",
+          "example": "Paper is relatively inexpensive here.",
+          "exampleMeaning": "Giấy ở đây tương đối rẻ.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "inexperience",
+          "meaning": "sự thiếu kinh nghiệm",
+          "pronunciation": "/ˌɪn.ɪkˈsper.i.əns/",
+          "type": "noun",
+          "example": "Taking advantage of her inexperience, he set out to trick and seduce her.",
+          "exampleMeaning": "Lợi dụng sự thiếu kinh nghiệm của cô ấy, anh ta đã lừa dối và quyến rũ cô.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "lengthy",
+          "meaning": "dài (về thời gian hoặc kích thước)",
+          "pronunciation": "/ˈleŋ.θi/",
+          "type": "adjective",
+          "example": "I had to go through the lengthy process of obtaining a visa.",
+          "exampleMeaning": "Tôi đã phải trải qua quá trình dài để có được thị thực.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "librarian",
+          "meaning": "thủ thư",
+          "pronunciation": "/laɪˈbreəriən/",
+          "type": "noun",
+          "example": "He writes poetry and would like to be an English teacher or librarian, but lacks the necessary qualifications.",
+          "exampleMeaning": "Anh ấy viết thơ và muốn trở thành giáo viên tiếng Anh hoặc thủ thư, nhưng thiếu các bằng cấp cần thiết.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "malfunction",
+          "meaning": "sự trục trặc, sự hỏng hóc",
+          "pronunciation": "/ˌmælˈfʌŋkʃən/",
+          "type": "noun",
+          "example": "The drug caused a malfunction in the brain.",
+          "exampleMeaning": "Thuốc gây ra sự cố trong não.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "mask",
+          "meaning": "mặt nạ",
+          "pronunciation": "/mɑːsk/",
+          "type": "noun",
+          "example": "Masks were compulsory on public transport for health reasons.",
+          "exampleMeaning": "Mặt nạ là bắt buộc trên phương tiện giao thông công cộng vì lý do sức khỏe.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "meantime",
+          "meaning": "trong khi chờ đợi",
+          "pronunciation": "/ˈmiːnˌtaɪm/",
+          "type": "noun",
+          "example": "My first novel was rejected by six publishers. In the meantime I had written a play.",
+          "exampleMeaning": "Cuốn tiểu thuyết đầu tay của tôi bị từ chối bởi sáu nhà xuất bản. Trong thời gian đó tôi đã viết một vở kịch.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "merge",
+          "meaning": "kết hợp, hợp nhất",
+          "pronunciation": "/mɜːdʒ/",
+          "type": "verb",
+          "example": "His department will merge with mine.",
+          "exampleMeaning": "Bộ phận của anh ấy sẽ hợp nhất với của tôi.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "outdate",
+          "meaning": "làm cho lỗi thời",
+          "pronunciation": "/aʊtˈdeɪt/",
+          "type": "verb",
+          "example": "Readers can still benefit from reading his account, although subsequent anthropological work outdates it.",
+          "exampleMeaning": "Người đọc vẫn có thể hưởng lợi từ việc đọc bài viết của ông ấy, mặc dù những công trình nhân học sau đó đã làm nó lỗi thời.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "patience",
+          "meaning": "sự kiên nhẫn",
+          "pronunciation": "/ˈpeɪ.ʃəns/",
+          "type": "noun",
+          "example": "Teaching children with special needs requires patience and understanding.",
+          "exampleMeaning": "Dạy trẻ em có nhu cầu đặc biệt đòi hỏi sự kiên nhẫn và thấu hiểu.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "performer",
+          "meaning": "người biểu diễn",
+          "pronunciation": "/pəˈfɔː.mər/",
+          "type": "noun",
+          "example": "She's a seasoned concert performer.",
+          "exampleMeaning": "Cô ấy là một nghệ sĩ biểu diễn hòa nhạc dày dặn kinh nghiệm.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "pharmacist",
+          "meaning": "dược sĩ, người bán dược phẩm",
+          "pronunciation": "/ˈfɑː.mə.sɪst/",
+          "type": "noun",
+          "example": "We had to wait for the pharmacist to make up her prescription.",
+          "exampleMeaning": "Chúng tôi phải chờ dược sĩ pha chế đơn thuốc của cô ấy.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "pizza",
+          "meaning": "bánh pizza",
+          "pronunciation": "/ˈpiːt.sə/",
+          "type": "noun",
+          "example": "What do you want on your pizza?",
+          "exampleMeaning": "Bạn muốn gì trên bánh pizza của mình?",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "postcard",
+          "meaning": "bưu thiếp",
+          "pronunciation": "/ˈpoʊst.kɑrd/",
+          "type": "noun",
+          "example": "The local shop has a good stock of postcards and guidebooks.",
+          "exampleMeaning": "Cửa hàng địa phương có nhiều bưu thiếp và sách hướng dẫn.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "prospective",
+          "meaning": "có triển vọng",
+          "pronunciation": "/prəˈspek.tɪv/",
+          "type": "adjective",
+          "example": "There were offers from several prospective buyers.",
+          "exampleMeaning": "Có những lời đề nghị từ một số người mua tiềm năng.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "purchaser",
+          "meaning": "người mua",
+          "pronunciation": "/ˈpɜː.tʃə.sər/",
+          "type": "noun",
+          "example": "We haven't been able to find a purchaser for our house yet.",
+          "exampleMeaning": "Chúng tôi chưa thể tìm được người mua cho ngôi nhà của chúng tôi.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "purse",
+          "meaning": "túi xách tay (của phụ nữ)",
+          "pronunciation": "/pɜːs/",
+          "type": "noun",
+          "example": "She tipped the contents of her purse out onto the table.",
+          "exampleMeaning": "Cô ấy đổ hết nội dung trong ví của mình ra bàn.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "realtor",
+          "meaning": "người môi giới (mua bán) bất động sản",
+          "pronunciation": "/ˈriːəl.tər/",
+          "type": "noun",
+          "example": "The conference attracted more than 400 local architects, developers, and realtors.",
+          "exampleMeaning": "Hội nghị đã thu hút hơn 400 kiến trúc sư, nhà phát triển và môi giới địa phương.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "rearrange",
+          "meaning": "sắp xếp lại, bố trí lại",
+          "pronunciation": "/ˌriː.əˈreɪndʒ/",
+          "type": "verb",
+          "example": "The new sofa was bigger than the old one, so they had to rearrange the rest of the furniture.",
+          "exampleMeaning": "Chiếc ghế sofa mới lớn hơn chiếc cũ, vì vậy họ phải sắp xếp lại các đồ đạc còn lại.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "reopen",
+          "meaning": "mở cửa lại",
+          "pronunciation": "/ˌriːˈəʊ.pən/",
+          "type": "verb",
+          "example": "The museum has reopened after nearly two years of reconstruction.",
+          "exampleMeaning": "Bảo tàng đã mở cửa trở lại sau gần hai năm tái thiết.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "resignation",
+          "meaning": "sự từ chức",
+          "pronunciation": "/ˌrez.ɪɡˈneɪ.ʃən/",
+          "type": "noun",
+          "example": "Her resignation came as quite a shock.",
+          "exampleMeaning": "Sự từ chức của cô ấy đến như một cú sốc khá lớn.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "reviewer",
+          "meaning": "người phê bình",
+          "pronunciation": "/rɪˈvjuː.ər/",
+          "type": "noun",
+          "example": "A Food and Drug Agency reviewer said the new treatment appears to be working effectively.",
+          "exampleMeaning": "Một nhà phê bình của Cơ quan Thực phẩm và Dược phẩm cho biết liệu pháp mới dường như đang hoạt động hiệu quả.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "revision",
+          "meaning": "sự soát lại, sửa lại",
+          "pronunciation": "/rɪˈvɪʒ.ən/",
+          "type": "noun",
+          "example": "These proposals will need a lot of revision.",
+          "exampleMeaning": "Những đề xuất này sẽ cần nhiều chỉnh sửa.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "soap",
+          "meaning": "xà phòng",
+          "pronunciation": "/səʊp/",
+          "type": "noun",
+          "example": "She bought me a box of nice-smelling soaps.",
+          "exampleMeaning": "Cô ấy đã mua cho tôi một hộp xà phòng có mùi thơm.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "spokesperson",
+          "meaning": "người phát ngôn",
+          "pronunciation": "/ˈspoʊksˌpɜː.sən/",
+          "type": "noun",
+          "example": "A spokesperson for the airline said that flights would run as scheduled.",
+          "exampleMeaning": "Người phát ngôn của hãng hàng không cho biết các chuyến bay sẽ diễn ra theo lịch trình.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "strictly",
+          "meaning": "nghiêm ngặt",
+          "pronunciation": "/ˈstrɪkt.li/",
+          "type": "adverb",
+          "example": "The speed limit is strictly enforced on urban roads.",
+          "exampleMeaning": "Giới hạn tốc độ được thực thi nghiêm ngặt trên các con đường đô thị.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "terminate",
+          "meaning": "Kết thúc, chấm dứt",
+          "pronunciation": "/ˈtɜː.mɪ.neɪt/",
+          "type": "verb",
+          "example": "They terminated my contract in October.",
+          "exampleMeaning": "Họ đã chấm dứt hợp đồng của tôi vào tháng Mười.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "tomato",
+          "meaning": "quả cà chua",
+          "pronunciation": "/təˈmɑː.təʊ/",
+          "type": "noun",
+          "example": "All the tomato plants are infected with a virus.",
+          "exampleMeaning": "Tất cả các cây cà chua đều bị nhiễm virus.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "translation",
+          "meaning": "dịch thuật",
+          "pronunciation": "/trænzˈleɪ.ʃən/",
+          "type": "noun",
+          "example": "Students will do one Spanish translation a week.",
+          "exampleMeaning": "Học sinh sẽ thực hiện một bản dịch tiếng Tây Ban Nha mỗi tuần.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "tray",
+          "meaning": "khay để đồ",
+          "pronunciation": "/treɪ/",
+          "type": "noun",
+          "example": "She was carrying a tray of drinks.",
+          "exampleMeaning": "Cô ấy đang mang một khay đồ uống.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "unfamiliar",
+          "meaning": "không quen, lạ lẫm",
+          "pronunciation": "/ˌʌnfəˈmɪliər/",
+          "type": "adjective",
+          "example": "Many of the technical terms were unfamiliar to me.",
+          "exampleMeaning": "Nhiều thuật ngữ kỹ thuật không quen thuộc với tôi.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "vendor",
+          "meaning": "người bán hàng",
+          "pronunciation": "/ˈven.dər/",
+          "type": "noun",
+          "example": "For the past few months she's been working as a street vendor, selling fruit and vegetables.",
+          "exampleMeaning": "Trong vài tháng qua, cô ấy đã làm việc như một người bán hàng rong, bán trái cây và rau củ.",
+          "note": "Từ vựng List 9"
+        },
+        {
+          "word": "withdrawal",
+          "meaning": "sự thu hồi, sự rút khỏi",
+          "pronunciation": "/wɪðˈdrɔː.əl/",
+          "type": "noun",
+          "example": "The UN will dictate the terms of troop withdrawal from the region.",
+          "exampleMeaning": "Liên Hợp Quốc sẽ quy định các điều khoản rút quân khỏi khu vực.",
+          "note": "Từ vựng List 9"
+        }
+      ]
+    }
+  ]
+}
