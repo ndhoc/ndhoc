@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_22",
+      "name": "List 22",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "abide",
+          "meaning": "chịu đựng",
+          "pronunciation": "/ə'baɪd/",
+          "type": "verb",
+          "example": "Anyone not abiding by the rules risks getting a fine",
+          "exampleMeaning": "Bất cứ ai không tuân theo các quy định đều có nguy cơ bị phạt",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "actively",
+          "meaning": "một cách tích cực, làm theo cách yêu cầu nỗ lực và hành động",
+          "pronunciation": "/ˈæk.tɪv.li/",
+          "type": "adverb",
+          "example": "I've been actively looking for a job for six months",
+          "exampleMeaning": "Tôi đã tích cực tìm kiếm việc làm trong sáu tháng",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "allergy",
+          "meaning": "dị ứng",
+          "pronunciation": "/ˈæl.ə.dʒi/",
+          "type": "noun",
+          "example": "Your rash is caused by an allergy to peanuts allergic",
+          "exampleMeaning": "Phát ban của bạn do dị ứng với đậu phộng",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "apprehensive",
+          "meaning": "Không thoải mái, lo lắng",
+          "pronunciation": "/ˌæp.rəˈhen.sɪv/",
+          "type": "adjective",
+          "example": "We're all apprehensive about tomorrow's meeting.",
+          "exampleMeaning": "Chúng tôi đều lo lắng về cuộc họp ngày mai.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "automotive",
+          "meaning": "của hoặc liên quan đến xe cơ giới",
+          "pronunciation": "/ˌɔː.təˈməʊ.tɪv/",
+          "type": "adjective",
+          "example": "The automotive industry had been looking for the downturn ever since the last one.",
+          "exampleMeaning": "Ngành công nghiệp ô tô đã đang tìm kiếm sự suy thoái kể từ lần cuối cùng.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "bacteria",
+          "meaning": "vi khuẩn",
+          "pronunciation": "/bækˈtɪəriə/",
+          "type": "noun",
+          "example": "Food must be heated to a high temperature to kill harmful bacteria.",
+          "exampleMeaning": "Thức ăn phải được đun nóng đến nhiệt độ cao để tiêu diệt vi khuẩn có hại.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "broaden",
+          "meaning": "mở rộng",
+          "pronunciation": "/ˈbrɔː.dən/",
+          "type": "verb",
+          "example": "The track broadens and becomes a road at this point.",
+          "exampleMeaning": "Con đường mở rộng và trở thành một con đường tại điểm này.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "bulb",
+          "meaning": "Hình dạng của một giọt nước mắt, ví dụ: bóng đèn",
+          "pronunciation": "/bʌlb/",
+          "type": "noun",
+          "example": "The result is an hourglass shaped vessel, with both the upper and lower bulbs holding 2 oz.",
+          "exampleMeaning": "Kết quả là một chiếc bình có hình đồng hồ cát, với cả hai bóng trên và dưới chứa 2 oz.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "by-law",
+          "meaning": "một quy tắc được đưa ra bởi một công ty hoặc xã hội để kiểm soát các hành động của các thành viên.",
+          "pronunciation": "/ˈbaɪ.lɔː/",
+          "type": "noun",
+          "example": "A by-law passed in the region said those caught smoking in public places would be fined.",
+          "exampleMeaning": "Một điều luật được thông qua trong khu vực nói rằng những người bị bắt gặp hút thuốc nơi công cộng sẽ bị phạt.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "lifeguard",
+          "meaning": "người cứu hộ",
+          "pronunciation": "/ˈlaɪf.ɡɑːd/",
+          "type": "noun",
+          "example": "Local media questioned why only 120 lifeguards were on duty.",
+          "exampleMeaning": "Truyền thông địa phương đặt câu hỏi tại sao chỉ có 120 nhân viên cứu hộ đang làm nhiệm vụ.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "modem",
+          "meaning": "môđem - một loại thiết bị ngoại vi của máy tính",
+          "pronunciation": "/ˈməʊ.dəm/",
+          "type": "noun",
+          "example": "It should be placed near a computer, a telephone line or a modem.",
+          "exampleMeaning": "Nó nên được đặt gần máy tính, đường điện thoại hoặc modem.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "monument",
+          "meaning": "đài tưởng niệm",
+          "pronunciation": "/ˈmɒn.jə.mənt/",
+          "type": "noun",
+          "example": "A monument to him was erected in St Paul's Cathedral.",
+          "exampleMeaning": "Một tượng đài dành cho ông đã được dựng lên trong Nhà thờ Thánh Paul.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "mosquito",
+          "meaning": "muỗi",
+          "pronunciation": "/məˈskiː.təʊ/",
+          "type": "noun",
+          "example": "I was awake all night scratching my mosquito bites.",
+          "exampleMeaning": "Tôi đã thức cả đêm để gãi các vết muỗi đốt.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "obligate",
+          "meaning": "bắt buộc, ép buộc",
+          "pronunciation": "/ˈɒblɪɡeɪt/",
+          "type": "verb",
+          "example": "He felt obligated to help.",
+          "exampleMeaning": "Anh ấy cảm thấy bắt buộc phải giúp đỡ.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "oblige",
+          "meaning": "làm cho ai phải tuân theo",
+          "pronunciation": "/əˈblaɪdʒ/",
+          "type": "verb",
+          "example": "Parents are obliged by law to send their children to school.",
+          "exampleMeaning": "Cha mẹ bị bắt buộc bởi luật pháp phải gửi con cái đến trường.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "occurrence",
+          "meaning": "sự kiện, chuyện xảy ra",
+          "pronunciation": "/əˈkʌr.əns/",
+          "type": "noun",
+          "example": "Vandalism used to be a rare occurrence here.",
+          "exampleMeaning": "Phá hoại từng là một sự kiện hiếm có ở đây.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "operational",
+          "meaning": "thuộc quá trình hoạt động",
+          "pronunciation": "/ˌɒp.ərˈeɪ.ʃən.əl/",
+          "type": "adjective",
+          "example": "operational activities/costs/difficulties",
+          "exampleMeaning": "các hoạt động/chi phí/khó khăn vận hành",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "outage",
+          "meaning": "sự ngừng chạy (máy; vì thiếu điện, thiếu chất đốt)",
+          "pronunciation": "/ˈaʊ.tɪdʒ/",
+          "type": "noun",
+          "example": "a power outage",
+          "exampleMeaning": "mất điện",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "overcrowd",
+          "meaning": "dồn vào, kéo vào quá đông",
+          "pronunciation": "/ˌəʊ.vəˈkraʊd/",
+          "type": "verb",
+          "example": "Too many prisoners are sent back to prison, and overcrowd the system.",
+          "exampleMeaning": "Quá nhiều tù nhân bị gửi trở lại nhà tù và làm quá tải hệ thống.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "paralegal",
+          "meaning": "trợ lý của luật sư",
+          "pronunciation": "/ˌpær.əˈliː.ɡəl/",
+          "type": "noun",
+          "example": "She worked as a paralegal in a criminal defense office.",
+          "exampleMeaning": "Cô ấy làm việc như một trợ lý pháp lý trong một văn phòng bào chữa hình sự.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "partially",
+          "meaning": "Một phần; ở một mức độ nào đó; không hoàn toàn",
+          "pronunciation": "/ˈpɑː.ʃəl.i/",
+          "type": "adverb",
+          "example": "The plan was only partially successful.",
+          "exampleMeaning": "Kế hoạch chỉ thành công một phần.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pronunciation": "/ˈpep.ər/",
+          "type": "noun",
+          "example": "Add salt and pepper to taste.",
+          "exampleMeaning": "Thêm muối và tiêu cho vừa ăn.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "permanently",
+          "meaning": "vĩnh viễn",
+          "pronunciation": "/ˈpɜː.mə.nənt.li/",
+          "type": "adverb",
+          "example": "The stroke left his right side permanently damaged.",
+          "exampleMeaning": "Cơn đột quỵ đã khiến bên phải của anh ấy bị tổn thương vĩnh viễn.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "plow",
+          "meaning": "buộc bạn phải vượt qua một trở ngại nào đó",
+          "pronunciation": "/plaʊ/",
+          "type": "verb",
+          "example": "His truck left the road and plowed through some small trees.",
+          "exampleMeaning": "Xe tải của anh ấy rời khỏi đường và lao qua một vài cây nhỏ.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "query",
+          "meaning": "hỏi",
+          "pronunciation": "/ˈkwɪə.ri/",
+          "type": "verb",
+          "example": "A few students have queried their marks.",
+          "exampleMeaning": "Một vài sinh viên đã thắc mắc về điểm số của họ.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "railway",
+          "meaning": "vận tải đường sắt",
+          "pronunciation": "/ˈreɪl.weɪ/",
+          "type": "noun",
+          "example": "a railway station/timetable/siding",
+          "exampleMeaning": "một ga đường sắt/thời gian tàu chạy/đường nhánh",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pronunciation": "/ˈreɪn.kəʊt/",
+          "type": "noun",
+          "example": "It was raining, I had no raincoat or umbrella and was soaked.",
+          "exampleMeaning": "Trời đang mưa, tôi không có áo mưa hay ô và bị ướt sũng.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "reconsider",
+          "meaning": "cân nhắc lại",
+          "pronunciation": "/ˌriː.kənˈsɪd.ər/",
+          "type": "verb",
+          "example": "He begged her to reconsider but she would not.",
+          "exampleMeaning": "Anh ấy cầu xin cô ấy suy nghĩ lại nhưng cô ấy không đồng ý.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "redesign",
+          "meaning": "thiết kế lại hoặc tái thiết kế",
+          "pronunciation": "/ˌriː.dɪˈzaɪn/",
+          "type": "verb",
+          "example": "In 1993 NASA redesigned the planned space station.",
+          "exampleMeaning": "Vào năm 1993, NASA đã thiết kế lại trạm không gian dự kiến.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "rehearsal",
+          "meaning": "buổi diễn tập",
+          "pronunciation": "/rɪˈhɜː.səl/",
+          "type": "noun",
+          "example": "She hasn't learned her lines yet, and we've got our first rehearsal tomorrow.",
+          "exampleMeaning": "Cô ấy chưa học lời thoại, và chúng ta có buổi tập đầu tiên vào ngày mai.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "relaxation",
+          "meaning": "sự nghỉ ngơi, thư giãn",
+          "pronunciation": "/ˌrɛl.ækˈseɪ.ʃən/",
+          "type": "noun",
+          "example": "Pat teaches evening classes in yoga and relaxation.",
+          "exampleMeaning": "Pat dạy các lớp học buổi tối về yoga và thư giãn.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "repetition",
+          "meaning": "sự nhắc lại, sự lặp lại",
+          "pronunciation": "/ˌrep.ɪˈtɪʃ.ən/",
+          "type": "noun",
+          "example": "The job involved the endless repetition of two or three simple tasks.",
+          "exampleMeaning": "Công việc liên quan đến việc lặp đi lặp lại không ngừng của hai hoặc ba nhiệm vụ đơn giản.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "retreat",
+          "meaning": "rút lui, lùi về",
+          "pronunciation": "/rɪˈtriːt/",
+          "type": "verb",
+          "example": "Attacks by enemy aircraft forced the tanks to retreat (from the city).",
+          "exampleMeaning": "Các cuộc tấn công của máy bay địch buộc các xe tăng phải rút lui khỏi thành phố.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "salon",
+          "meaning": "thẩm mỹ viện",
+          "pronunciation": "/səˈlɒn/",
+          "type": "noun",
+          "example": "a beauty/hairdressing salon",
+          "exampleMeaning": "một salon làm đẹp/cắt tóc",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "satellite office",
+          "meaning": "Một chi nhánh khác của một văn phòng",
+          "pronunciation": "/ˈsæt.əl.aɪt ˈɒf.ɪs/",
+          "type": "noun",
+          "example": "The company has a single national base with subsidiaries or satellite offices.",
+          "exampleMeaning": "Công ty có một trụ sở quốc gia duy nhất với các chi nhánh hoặc văn phòng vệ tinh.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "scenery",
+          "meaning": "phong cảnh",
+          "pronunciation": "/ˈsiː.nər.i/",
+          "type": "noun",
+          "example": "The scenery really was beautiful.",
+          "exampleMeaning": "Cảnh quan thực sự rất đẹp.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "serial",
+          "meaning": "liên tục, nối tiếp",
+          "pronunciation": "/ˈsɪə.ri.əl/",
+          "type": "adjective",
+          "example": "She wrote a thriller about a brutal serial killer/murderer.",
+          "exampleMeaning": "Cô ấy viết một cuốn truyện trinh thám về một kẻ giết người hàng loạt tàn ác.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "sew",
+          "meaning": "may vá",
+          "pronunciation": "/səʊ/",
+          "type": "verb",
+          "example": "My grandmother taught me to sew.",
+          "exampleMeaning": "Bà của tôi đã dạy tôi may vá.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "sketch",
+          "meaning": "bản phác thảo",
+          "pronunciation": "/sketʃ/",
+          "type": "noun",
+          "example": "The builder did a rough sketch of how the new stairs would look.",
+          "exampleMeaning": "Người thợ xây đã phác thảo sơ bộ về cách cầu thang mới sẽ trông như thế nào.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "soar",
+          "meaning": "bay lên",
+          "pronunciation": "/sɔːr/",
+          "type": "verb",
+          "example": "All night long fireworks soared into the sky.",
+          "exampleMeaning": "Pháo hoa bay vút lên trời suốt đêm.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "stimulus",
+          "meaning": "tác nhân kích khích",
+          "pronunciation": "/ˈstɪm.jə.ləs/",
+          "type": "noun",
+          "example": "Foreign investment has been a stimulus to the industry.",
+          "exampleMeaning": "Đầu tư nước ngoài đã là một kích thích cho ngành công nghiệp.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "stockbroker",
+          "meaning": "người môi giới chứng khoán",
+          "pronunciation": "/ˈstɒkˌbrəʊ.kər/",
+          "type": "noun",
+          "example": "The bonds were sold through a stockbroker.",
+          "exampleMeaning": "Trái phiếu đã được bán thông qua một nhà môi giới chứng khoán.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "tablecloth",
+          "meaning": "khăn trải bàn",
+          "pronunciation": "/ˈteɪ.bl̩.klɒθ/",
+          "type": "noun",
+          "example": "I took everything off the table and changed the tablecloth.",
+          "exampleMeaning": "Tôi đã lấy hết mọi thứ ra khỏi bàn và thay khăn trải bàn.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát nước",
+          "pronunciation": "/ˈθɜː.sti/",
+          "type": "adjective",
+          "example": "It's a curious paradox that drinking a lot of water can often make you feel thirsty.",
+          "exampleMeaning": "Điều nghịch lý thú vị là uống nhiều nước có thể khiến bạn cảm thấy khát.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "thrill",
+          "meaning": "sự phấn khích",
+          "pronunciation": "/θrɪl/",
+          "type": "noun",
+          "example": "So why do people still go hunting - is it the thrill of the chase?",
+          "exampleMeaning": "Vậy tại sao mọi người vẫn đi săn bắn - có phải là sự hứng thú của việc đuổi bắt không?",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "tile",
+          "meaning": "ngói, đá lát (để che mái nhà, tường, sàn..)",
+          "pronunciation": "/taɪl/",
+          "type": "noun",
+          "example": "Amy's shoes squeaked on the tiles as she walked down the corridor.",
+          "exampleMeaning": "Đôi giày của Amy kêu cót két trên gạch khi cô bước xuống hành lang.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "toiletry",
+          "meaning": "các vật dụng dùng khi tắm rửa (xà phòng, bàn chải..)",
+          "pronunciation": "/ˈtɔɪ.lə.tri/",
+          "type": "noun",
+          "example": "The couple said they had spent almost 300 on replacement clothes and toiletries.",
+          "exampleMeaning": "Cặp đôi nói rằng họ đã chi gần 300 vào quần áo thay thế và đồ vệ sinh cá nhân.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "trademark",
+          "meaning": "nhãn hiệu",
+          "pronunciation": "/ˈtreɪd.mɑːk/",
+          "type": "noun",
+          "example": "Velcro is a registered trademark.",
+          "exampleMeaning": "Velcro là một nhãn hiệu đã đăng ký.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "tropical",
+          "meaning": "nhiệt đới",
+          "pronunciation": "/ˈtrɒp.ɪ.kəl/",
+          "type": "adjective",
+          "example": "Leprosy is one of the few tropical diseases which could soon be eradicated.",
+          "exampleMeaning": "Bệnh phong là một trong số ít các bệnh nhiệt đới có thể sớm bị xóa bỏ.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "tuna",
+          "meaning": "cá ngừ",
+          "pronunciation": "/ˈtjuː.nə/",
+          "type": "noun",
+          "example": "tuna steaks",
+          "exampleMeaning": "bít tết cá ngừ",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "unemployed",
+          "meaning": "Không có việc làm",
+          "pronunciation": "/ˌʌnɪmˈplɔɪd/",
+          "type": "adjective",
+          "example": "Being unemployed entitles you to free medical treatment.",
+          "exampleMeaning": "Thất nghiệp cho phép bạn được điều trị y tế miễn phí.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "validate",
+          "meaning": "công nhận có giá trị, làm cho lôgich, làm cho hợp lý",
+          "pronunciation": "/ˈvæl.ɪ.deɪt/",
+          "type": "verb",
+          "example": "He feels that today's economic problems validate his opposition to the policy.",
+          "exampleMeaning": "Anh ấy cảm thấy rằng các vấn đề kinh tế ngày nay xác nhận sự phản đối của anh đối với chính sách.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "vanilla",
+          "meaning": "hương vị vani",
+          "pronunciation": "/vəˈnɪl.ə/",
+          "type": "noun",
+          "example": "vanilla essence/extract",
+          "exampleMeaning": "chiết xuất vani",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "willingness",
+          "meaning": "sự sẵn lòng",
+          "pronunciation": "/ˈwɪlɪŋnəs/",
+          "type": "noun",
+          "example": "His letter proves his willingness to help.",
+          "exampleMeaning": "Lá thư của anh ấy chứng tỏ sự sẵn lòng giúp đỡ.",
+          "note": "Từ vựng List 22"
+        },
+        {
+          "word": "wristwatch",
+          "meaning": "đồng hồ đeo tay",
+          "pronunciation": "/ˈrɪst.wɒtʃ/",
+          "type": "noun",
+          "example": "The silence in the room was broken only by the sound of his wristwatch beeping twice.",
+          "exampleMeaning": "Sự im lặng trong phòng chỉ bị phá vỡ bởi tiếng đồng hồ đeo tay của anh ấy kêu hai lần.",
+          "note": "Từ vựng List 22"
+        }
+      ]
+    }
+  ]
+}
