@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_4",
+      "name": "List 4",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accommodate",
+          "meaning": "cung cấp một cái gì đó cần thiết",
+          "pronunciation": "/əˈkɒm.ə.deɪt/",
+          "type": "verb",
+          "example": "The new policies fail to accommodate people with disabilities",
+          "exampleMeaning": "Các chính sách mới không đáp ứng được nhu cầu của người khuyết tật",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "administrative",
+          "meaning": "thuộc về hành chính, quản lý văn phòng",
+          "pronunciation": "/ədˈmɪn.ɪ.strə.tɪv/",
+          "type": "adjective",
+          "example": "We will provide financial and administrative support to member companies",
+          "exampleMeaning": "Chúng tôi sẽ cung cấp hỗ trợ tài chính và hành chính cho các công ty thành viên",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "advisor",
+          "meaning": "cố vấn",
+          "pronunciation": "/əd'vaɪ.zər/",
+          "type": "noun",
+          "example": "She is the party's main economic advisor",
+          "exampleMeaning": "Cô ấy là cố vấn kinh tế chính của đảng",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "alike",
+          "meaning": "Tương tự, gần như giống nhau",
+          "pronunciation": "/əˈlaɪk/",
+          "type": "adjective",
+          "example": "You and your father don't look very much alike.",
+          "exampleMeaning": "Bạn và cha của bạn không giống nhau lắm.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "announcer",
+          "meaning": "người báo tin, phát thanh viên",
+          "pronunciation": "/əˈnaʊnsər/",
+          "type": "noun",
+          "example": "He was the announcer for the Mamaroneck Tigers baseball team.",
+          "exampleMeaning": "Ông ấy là phát thanh viên của đội bóng chày Mamaroneck Tigers.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "aspect",
+          "meaning": "khía cạnh, điểm đặc trưng",
+          "pronunciation": "/ˈæs.pekt/",
+          "type": "noun",
+          "example": "That's the most worrying aspect of the situation.",
+          "exampleMeaning": "Đó là khía cạnh đáng lo ngại nhất của tình hình.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "audit",
+          "meaning": "kiểm toán, kiểm tra sổ sách",
+          "pronunciation": "/ˈɔː.dɪt/",
+          "type": "verb",
+          "example": "They had the books audited by a qualified accountant.",
+          "exampleMeaning": "Họ đã nhờ một kế toán có trình độ kiểm tra sổ sách.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "authorize",
+          "meaning": "cho phép, ủy quyền",
+          "pronunciation": "/ˈɔː.θər.aɪz/",
+          "type": "verb",
+          "example": "The Board of Directors has authorized a share buy-back program for up to 60 million shares of the company.",
+          "exampleMeaning": "Hội đồng Quản trị đã cho phép chương trình mua lại cổ phiếu với tối đa 60 triệu cổ phiếu của công ty.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "battery",
+          "meaning": "pin",
+          "pronunciation": "/ˈbæt.ər.i/",
+          "type": "noun",
+          "example": "This alarm clock takes two medium-sized batteries.",
+          "exampleMeaning": "Đồng hồ báo thức này sử dụng hai pin cỡ trung.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "bonus",
+          "meaning": "tiền thưởng thêm",
+          "pronunciation": "/ˈbəʊ.nəs/",
+          "type": "noun",
+          "example": "The company used to give discretionary bonus payments.",
+          "exampleMeaning": "Công ty thường trả các khoản tiền thưởng theo ý muốn.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "briefcase",
+          "meaning": "cặp đựng tài liệu",
+          "pronunciation": "/ˈbriːfˌkeɪs/",
+          "type": "noun",
+          "example": "He looked around and saw a man in a dark lounge suit with a briefcase who had just arrived in a car.",
+          "exampleMeaning": "Anh nhìn quanh và thấy một người đàn ông mặc bộ vest sẫm màu với chiếc cặp vừa mới đi ô tô đến.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "cart",
+          "meaning": "xe kéo, xe đẩy",
+          "pronunciation": "/kɑːt/",
+          "type": "noun",
+          "example": "Three separate covered carts, pulled by four horses each, came up the drive and stopped in front of the manor.",
+          "exampleMeaning": "Ba chiếc xe ngựa có mái riêng biệt, mỗi chiếc được kéo bởi bốn con ngựa, tiến lên đường lái và dừng lại trước dinh thự.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "cartridge",
+          "meaning": "hộp chứa, hộp đựng (của thiết bị đóng kín, có thể tháo lắp và thay thế)",
+          "pronunciation": "/ˈkɑː.trɪdʒ/",
+          "type": "noun",
+          "example": "Super8 film cartridges are available from good photographic stores for about £12 which thankfully includes processing.",
+          "exampleMeaning": "Các hộp phim Super8 có sẵn tại các cửa hàng nhiếp ảnh tốt với giá khoảng £12, điều này may mắn bao gồm cả việc xử lý.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "cleaner",
+          "meaning": "người dọn dẹp",
+          "pronunciation": "/ˈkliː.nər/",
+          "type": "noun",
+          "example": "Chris has an evening job as an office cleaner.",
+          "exampleMeaning": "Chris có một công việc buổi tối là nhân viên vệ sinh văn phòng.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "cloudy",
+          "meaning": "(thời tiết) nhiều mây",
+          "pronunciation": "/ˈklaʊ.di/",
+          "type": "adjective",
+          "example": "Scotland will be cloudy with wintry showers.",
+          "exampleMeaning": "Scotland sẽ có mây và mưa tuyết.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "commonly",
+          "meaning": "thông thường, thường xuyên",
+          "pronunciation": "/ˈkɒm.ən.li/",
+          "type": "adverb",
+          "example": "Elbow injuries are commonly found among tennis players.",
+          "exampleMeaning": "Chấn thương khuỷu tay thường thấy ở những người chơi quần vợt.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "commuter",
+          "meaning": "người đi làm",
+          "pronunciation": "/kəˈmjuː.tər/",
+          "type": "noun",
+          "example": "Because of disruption caused by the snow, many commuters faced long delays.",
+          "exampleMeaning": "Do gián đoạn gây ra bởi tuyết, nhiều người đi làm phải đối mặt với sự chậm trễ lâu dài.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "contractor",
+          "meaning": "bên thầu, bên thi công",
+          "pronunciation": "/kənˈtræk.tər/",
+          "type": "noun",
+          "example": "In short, the Government is handing over public works to private contractors.",
+          "exampleMeaning": "Tóm lại, Chính phủ đang giao các công trình công cộng cho các nhà thầu tư nhân.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "delicious",
+          "meaning": "ngon miệng",
+          "pronunciation": "/dɪˈlɪʃ.əs/",
+          "type": "adjective",
+          "example": "The delicious smell of freshly made coffee came from the kitchen.",
+          "exampleMeaning": "Mùi thơm ngon của cà phê mới pha đến từ nhà bếp.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "dessert",
+          "meaning": "món tráng miệng",
+          "pronunciation": "/dɪˈzɜrt/",
+          "type": "noun",
+          "example": "A full three-course meal - appetizer, main course and dessert - only cost about $25.",
+          "exampleMeaning": "Một bữa ăn ba món đầy đủ - món khai vị, món chính và món tráng miệng - chỉ có giá khoảng 25 đô la.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "developer",
+          "meaning": "chủ xây dựng nhà cửa, người kinh doanh nhà đất",
+          "pronunciation": "/dɪˈveləpər/",
+          "type": "noun",
+          "example": "The developers refurbished the house inside and out.",
+          "exampleMeaning": "Các nhà phát triển đã cải tạo ngôi nhà cả bên trong lẫn bên ngoài.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "distribution",
+          "meaning": "sự phân bổ, sự phân phối",
+          "pronunciation": "/ˌdɪs.trɪˈbjuː.ʃən/",
+          "type": "noun",
+          "example": "Has the Channel Tunnel improved the distribution of goods between the British Isles and mainland Europe?",
+          "exampleMeaning": "Đường hầm Channel có cải thiện việc phân phối hàng hóa giữa Quần đảo Anh và lục địa Châu Âu không?",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "donate",
+          "meaning": "quyên góp",
+          "pronunciation": "/dəʊˈneɪt/",
+          "type": "verb",
+          "example": "An anonymous businesswoman donated one million dollars to the charity.",
+          "exampleMeaning": "Một nữ doanh nhân ẩn danh đã quyên góp một triệu đô la cho tổ chức từ thiện.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "download",
+          "meaning": "tải xuống",
+          "pronunciation": "/ˌdaʊnˈləʊd/",
+          "type": "verb",
+          "example": "Software updates can be downloaded from the company's website.",
+          "exampleMeaning": "Các bản cập nhật phần mềm có thể được tải xuống từ trang web của công ty.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "flavor",
+          "meaning": "hương vị",
+          "pronunciation": "/ˈfleɪ.vər/",
+          "type": "noun",
+          "example": "We sell 32 different flavors of ice cream.",
+          "exampleMeaning": "Chúng tôi bán 32 hương vị kem khác nhau.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "headquarter",
+          "meaning": "trụ sở chính, tổng bộ",
+          "pronunciation": "/ˌhedˈkwɔː.tər/",
+          "type": "noun",
+          "example": "Their military headquarters were located at the Hotel Regina in Paris.",
+          "exampleMeaning": "Trụ sở quân sự của họ được đặt tại khách sạn Regina ở Paris.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "impact",
+          "meaning": "Sự tác động, sự ảnh hưởng",
+          "pronunciation": "/ˈɪm.pækt/",
+          "type": "noun",
+          "example": "The anti-smoking campaign had had quite an impact on young people.",
+          "exampleMeaning": "Chiến dịch chống hút thuốc đã có tác động khá lớn đến giới trẻ.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "ink",
+          "meaning": "mực",
+          "pronunciation": "/ɪŋk/",
+          "type": "noun",
+          "example": "He wrote very neatly in blue ink.",
+          "exampleMeaning": "Anh ấy viết rất gọn gàng bằng mực xanh.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "innovative",
+          "meaning": "có tính sáng tạo và đổi mới",
+          "pronunciation": "/ˈɪn.ə.veɪ.tɪv/",
+          "type": "adjective",
+          "example": "There will be a prize for the most innovative design.",
+          "exampleMeaning": "Sẽ có một giải thưởng cho thiết kế sáng tạo nhất.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "inquire",
+          "meaning": "hỏi (về cái gì; vấn đề gì)",
+          "pronunciation": "/ɪnˈkwaɪər/",
+          "type": "verb",
+          "example": "I called the school to inquire about the application process.",
+          "exampleMeaning": "Tôi đã gọi cho trường để hỏi về quy trình nộp đơn.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "jewelry",
+          "meaning": "đồ trang sức",
+          "pronunciation": "/ˈdʒuː.əl.ri/",
+          "type": "noun",
+          "example": "She has some lovely pieces of jewelry.",
+          "exampleMeaning": "Cô ấy có vài món trang sức đẹp.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "logo",
+          "meaning": "biểu tượng",
+          "pronunciation": "/ˈləʊ.ɡəʊ/",
+          "type": "noun",
+          "example": "His jacket sports the logo of the Giants.",
+          "exampleMeaning": "Áo khoác của anh ấy có biểu tượng của đội Giants.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "newsletter",
+          "meaning": "thư báo cáo hoặc thư thông báo",
+          "pronunciation": "/ˈnjuːzˌlet.ər/",
+          "type": "noun",
+          "example": "Our sailing club produces a monthly newsletter.",
+          "exampleMeaning": "Câu lạc bộ chèo thuyền của chúng tôi phát hành một bản tin hàng tháng.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "outstanding",
+          "meaning": "chưa giải quyết",
+          "pronunciation": "/aʊtˈstæn.dɪŋ/",
+          "type": "adjective",
+          "example": "The negotiations failed to solve outstanding issues.",
+          "exampleMeaning": "Cuộc đàm phán đã không giải quyết được các vấn đề tồn đọng.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "overnight",
+          "meaning": "qua đêm",
+          "pronunciation": "/ˌəʊvəˈnaɪt/",
+          "type": "adverb",
+          "example": "We stayed overnight in London after the theatre.",
+          "exampleMeaning": "Chúng tôi đã ở lại qua đêm ở London sau khi xem kịch.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "overtime",
+          "meaning": "giờ làm thêm",
+          "pronunciation": "/ˈəʊ.və.taɪm/",
+          "type": "noun",
+          "example": "I do about five hours' overtime a week.",
+          "exampleMeaning": "Tôi làm thêm khoảng năm giờ một tuần.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "password",
+          "meaning": "mật khẩu",
+          "pronunciation": "/ˈpɑːs.wɝːd/",
+          "type": "noun",
+          "example": "Enter a username and password to get into the system.",
+          "exampleMeaning": "Hãy nhập tên người dùng và mật khẩu để truy cập vào hệ thống.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "photographer",
+          "meaning": "nhiếp ảnh gia, thợ chụp ảnh",
+          "pronunciation": "/fəˈtɒɡrəfər/",
+          "type": "noun",
+          "example": "The couple posed for photographers before going back inside.",
+          "exampleMeaning": "Cặp đôi đã tạo dáng cho các nhiếp ảnh gia trước khi quay vào trong.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "picnic",
+          "meaning": "bữa ăn ngoài trời",
+          "pronunciation": "/ˈpɪk.nɪk/",
+          "type": "noun",
+          "example": "If the weather's nice we could have a picnic in the park.",
+          "exampleMeaning": "Nếu thời tiết đẹp chúng ta có thể đi dã ngoại ở công viên.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "prohibit",
+          "meaning": "không cho phép",
+          "pronunciation": "/prəˈhɪb.ɪt/",
+          "type": "verb",
+          "example": "Motor vehicles are prohibited from driving in the town centre.",
+          "exampleMeaning": "Các phương tiện cơ giới bị cấm lái xe trong trung tâm thị trấn.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "recipe",
+          "meaning": "công thức",
+          "pronunciation": "/ˈres.ɪ.pi/",
+          "type": "noun",
+          "example": "Baking a cake isn't difficult - it's just a matter of following the recipe.",
+          "exampleMeaning": "Nướng một cái bánh không khó - chỉ là vấn đề làm theo công thức.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "refreshment",
+          "meaning": "món ăn nhẹ",
+          "pronunciation": "/rɪˈfreʃ.mənt/",
+          "type": "noun",
+          "example": "He stopped at a bar for a little refreshment.",
+          "exampleMeaning": "Anh ấy dừng lại ở một quán bar để giải khát một chút.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "shopper",
+          "meaning": "người mua hàng",
+          "pronunciation": "/ˈʃɒp.ər/",
+          "type": "noun",
+          "example": "Shoppers stroll through the stores.",
+          "exampleMeaning": "Người mua sắm dạo quanh các cửa hàng.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "shuttle",
+          "meaning": "đi lại giữa hai điểm",
+          "pronunciation": "/ˈʃʌt.əl/",
+          "type": "verb",
+          "example": "A bus shuttles constantly between the terminal and the runways.",
+          "exampleMeaning": "Một chiếc xe buýt chạy liên tục giữa nhà ga và đường băng.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "skim",
+          "meaning": "lướt qua",
+          "pronunciation": "/skɪm/",
+          "type": "verb",
+          "example": "I've only skimmed (through/over) his letter; I haven't read it carefully yet.",
+          "exampleMeaning": "Tôi chỉ mới lướt qua lá thư của anh ấy; tôi chưa đọc kỹ nó.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "sofa",
+          "meaning": "ghế sô pha",
+          "pronunciation": "/ˈsəʊ.fə/",
+          "type": "noun",
+          "example": "They settled down on the sofa to watch the film.",
+          "exampleMeaning": "Họ ngồi xuống ghế sofa để xem phim.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "stadium",
+          "meaning": "sân vận động",
+          "pronunciation": "/ˈsteɪ.di.əm/",
+          "type": "noun",
+          "example": "Flags of all the participating countries are flying outside the stadium.",
+          "exampleMeaning": "Cờ của tất cả các quốc gia tham gia đang bay bên ngoài sân vận động.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "stationery",
+          "meaning": "văn phòng phẩm",
+          "pronunciation": "/ˈsteɪ.ʃən.ər.i/",
+          "type": "noun",
+          "example": "The company realized it was spending too much on stationery.",
+          "exampleMeaning": "Công ty nhận ra rằng họ đang chi tiêu quá nhiều cho văn phòng phẩm.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "subscribe",
+          "meaning": "đăng ký",
+          "pronunciation": "/səbˈskraɪb/",
+          "type": "verb",
+          "example": "2.3 million people subscribe to this online music service.",
+          "exampleMeaning": "2,3 triệu người đăng ký dịch vụ âm nhạc trực tuyến này.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "supervise",
+          "meaning": "theo dõi, giám sát",
+          "pronunciation": "/ˈsuː.pə.vaɪz/",
+          "type": "verb",
+          "example": "The UN is supervising the distribution of aid by local agencies in the disaster area.",
+          "exampleMeaning": "Liên Hợp Quốc đang giám sát việc phân phối viện trợ bởi các cơ quan địa phương trong khu vực thảm họa.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "tag",
+          "meaning": "nhãn dán",
+          "pronunciation": "/tæɡ/",
+          "type": "noun",
+          "example": "He put name tags on all his shirts.",
+          "exampleMeaning": "Anh ấy đã đặt nhãn tên lên tất cả áo sơ mi của mình.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "terminal",
+          "meaning": "ga chót, ga cuối cùng",
+          "pronunciation": "/ˈtɜː.mɪ.nəl/",
+          "type": "noun",
+          "example": "The whole terminal was evacuated.",
+          "exampleMeaning": "Toàn bộ nhà ga đã được sơ tán.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "venue",
+          "meaning": "nơi sự kiện diễn ra",
+          "pronunciation": "/ˈven.juː/",
+          "type": "noun",
+          "example": "An alternative venue for the concert is being sought.",
+          "exampleMeaning": "Một địa điểm thay thế cho buổi hòa nhạc đang được tìm kiếm.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "waitress",
+          "meaning": "người phục vụ (nữ giới)",
+          "pronunciation": "/ˈweɪ.trəs/",
+          "type": "noun",
+          "example": "She works as a waitress.",
+          "exampleMeaning": "Cô ấy làm việc như một nữ phục vụ.",
+          "note": "Từ vựng List 4"
+        },
+        {
+          "word": "weekday",
+          "meaning": "ngày thường",
+          "pronunciation": "/ˈwiːk.deɪ/",
+          "type": "noun",
+          "example": "On weekdays I'm usually in bed by ten o'clock.",
+          "exampleMeaning": "Vào các ngày trong tuần, tôi thường đi ngủ lúc mười giờ.",
+          "note": "Từ vựng List 4"
+        }
+      ]
+    }
+  ]
+}
