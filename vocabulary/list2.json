@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_2",
+      "name": "List 2",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "admission",
+          "meaning": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "pronunciation": "/ədˈmɪʃ.ən/",
+          "type": "noun",
+          "example": "By/On his own admission (= as he has said) he has achieved little since he took over the company.",
+          "exampleMeaning": "Chính anh ấy thừa nhận rằng anh ấy đã đạt được rất ít kể từ khi tiếp quản công ty.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "airplane",
+          "meaning": "máy bay",
+          "pronunciation": "/ˈeə.pleɪn/",
+          "type": "noun",
+          "example": "She has her own private airplane.",
+          "exampleMeaning": "Cô ấy có máy bay riêng.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "appliance",
+          "meaning": "máy móc, thiết bị",
+          "pronunciation": "/əˈplaɪ.əns/",
+          "type": "noun",
+          "example": "Are all of the kitchen appliances included in the price of the house?",
+          "exampleMeaning": "Có phải tất cả thiết bị nhà bếp đều được bao gồm trong giá của ngôi nhà không?",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "assignment",
+          "meaning": "một dự án hoặc nhiệm vụ",
+          "pronunciation": "/əˈsaɪn.mənt/",
+          "type": "noun",
+          "example": "She first visited Norway on assignment for the winter Olympics ten years ago.",
+          "exampleMeaning": "Lần đầu tiên cô ấy đến thăm Na Uy là theo nhiệm vụ cho Thế vận hội mùa đông cách đây mười năm.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "attendee",
+          "meaning": "người tham gia, người tham dự",
+          "pronunciation": "/əˌtenˈdiː/",
+          "type": "noun",
+          "example": "The Manufacturing Technology Show in Chicago attracted nearly 90,000 attendees and 1,200 exhibitors.",
+          "exampleMeaning": "Triển lãm Công nghệ Sản xuất tại Chicago đã thu hút gần 90.000 người tham dự và 1.200 nhà triển lãm.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "birthday",
+          "meaning": "sinh nhật",
+          "pronunciation": "/ˈbɜːθ.deɪ/",
+          "type": "noun",
+          "example": "Her birthday was getting nearer and I still hadn't bought her a present.",
+          "exampleMeaning": "Sinh nhật của cô ấy đang đến gần và tôi vẫn chưa mua quà cho cô ấy.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "cabinet",
+          "meaning": "tủ có nhiều ngăn",
+          "pronunciation": "/ˈkæb.ɪ.nət/",
+          "type": "noun",
+          "example": "Valuable pieces of china were on display in a glass-fronted cabinet.",
+          "exampleMeaning": "Những món đồ sứ quý giá được trưng bày trong một tủ kính.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "café",
+          "meaning": "quán cà phê",
+          "pronunciation": "/ˈkæf.eɪ/",
+          "type": "noun",
+          "example": "There's a little café on the corner that serves very good coffee.",
+          "exampleMeaning": "Có một quán cà phê nhỏ ở góc phố phục vụ cà phê rất ngon.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "cellphone",
+          "meaning": "điện thoại di động",
+          "pronunciation": "/ˈsel.fəʊn/",
+          "type": "noun",
+          "example": "It can send a text message to a cellphone or another of the new phones, using BT's Cellnet cellular network.",
+          "exampleMeaning": "Nó có thể gửi tin nhắn văn bản đến điện thoại di động hoặc một chiếc điện thoại mới khác, sử dụng mạng di động của BT Cellnet.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "clue",
+          "meaning": "gợi ý, manh mối",
+          "pronunciation": "/kluː/",
+          "type": "noun",
+          "example": "Police are still looking for clues in their search for the missing girl.",
+          "exampleMeaning": "Cảnh sát vẫn đang tìm kiếm manh mối trong cuộc tìm kiếm cô gái mất tích.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "compact",
+          "meaning": "gọn ghẽ/chật ních",
+          "pronunciation": "/kəmˈpækt/",
+          "type": "adjective",
+          "example": "The newer cameras have a flatter, more compact design.",
+          "exampleMeaning": "Máy ảnh mới hơn có thiết kế phẳng hơn, nhỏ gọn hơn.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "comprehension",
+          "meaning": "sự hiểu, sự lĩnh hội",
+          "pronunciation": "/ˌkɒm.prɪˈhen.ʃən/",
+          "type": "noun",
+          "example": "How she manages to fit so much into a working day is beyond my comprehension.",
+          "exampleMeaning": "Làm thế nào mà cô ấy xoay sở để làm được nhiều như vậy trong một ngày làm việc nằm ngoài tầm hiểu biết của tôi.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "contradict",
+          "meaning": "phủ nhận/mâu thuẫn",
+          "pronunciation": "/ˌkɒn.trəˈdɪkt/",
+          "type": "verb",
+          "example": "Recent evidence has contradicted established theories on this subject.",
+          "exampleMeaning": "Bằng chứng gần đây đã mâu thuẫn với các lý thuyết đã được thiết lập về chủ đề này.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "convenient",
+          "meaning": "tiện lợi, thuận tiện",
+          "pronunciation": "/kənˈviː.ni.ənt/",
+          "type": "adjective",
+          "example": "The house is in a convenient location for travelling to London.",
+          "exampleMeaning": "Ngôi nhà nằm ở vị trí thuận tiện để đi đến London.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "coupon",
+          "meaning": "phiếu mua hàng, phiếu giảm giá",
+          "pronunciation": "/ˈkuː.pɒn/",
+          "type": "noun",
+          "example": "This week shoppers can use discount coupons to get money off gasoline.",
+          "exampleMeaning": "Tuần này, người mua sắm có thể sử dụng phiếu giảm giá để tiết kiệm tiền xăng dầu.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "coworker",
+          "meaning": "đồng nghiệp",
+          "pronunciation": "/ˌkəʊˈwɜː.kər/",
+          "type": "noun",
+          "example": "American workers in recent years have seen their coworkers laid off or downsized out of jobs.",
+          "exampleMeaning": "Nhân viên Mỹ trong những năm gần đây đã chứng kiến đồng nghiệp của họ bị sa thải hoặc bị giảm biên chế.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "cruise",
+          "meaning": "cuộc du ngoạn biển bằng tàu",
+          "pronunciation": "/kruːz/",
+          "type": "noun",
+          "example": "They've just set off on a round-the-world cruise.",
+          "exampleMeaning": "Họ vừa bắt đầu chuyến du ngoạn vòng quanh thế giới.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "dentist",
+          "meaning": "bác sĩ nha khoa",
+          "pronunciation": "/ˈden.tɪst/",
+          "type": "noun",
+          "example": "The dentist scaled and polished my teeth last week.",
+          "exampleMeaning": "Nha sĩ đã làm sạch và đánh bóng răng của tôi tuần trước.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "depart",
+          "meaning": "rời đi, khởi hành",
+          "pronunciation": "/dɪˈpɑːt/",
+          "type": "verb",
+          "example": "We would like to remind all our guests to leave their keys at reception before they depart.",
+          "exampleMeaning": "Chúng tôi muốn nhắc nhở tất cả khách của chúng tôi hãy để lại chìa khóa tại quầy lễ tân trước khi họ rời đi.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "destination",
+          "meaning": "điểm đến",
+          "pronunciation": "/ˌdes.tɪˈneɪ.ʃən/",
+          "type": "noun",
+          "example": "It's the good weather that makes Spain such a popular tourist destination.",
+          "exampleMeaning": "Chính thời tiết tốt đã làm cho Tây Ban Nha trở thành điểm đến du lịch nổi tiếng.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "dine",
+          "meaning": "ăn tối",
+          "pronunciation": "/daɪn/",
+          "type": "verb",
+          "example": "He once dined with the president of France.",
+          "exampleMeaning": "Ông đã từng ăn tối với tổng thống Pháp.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "electrical",
+          "meaning": "thuộc về điện",
+          "pronunciation": "/ɪˈlek.trɪ.kəl/",
+          "type": "adjective",
+          "example": "An unexpected surge in electrical power caused the computer to crash.",
+          "exampleMeaning": "Một sự tăng đột biến bất ngờ trong điện lực đã khiến máy tính bị hỏng.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "exit",
+          "meaning": "rời đi",
+          "pronunciation": "/ˈeɡ.zɪt/",
+          "type": "verb",
+          "example": "I exited quickly before anyone could see me.",
+          "exampleMeaning": "Tôi đã rời đi nhanh chóng trước khi bất kỳ ai có thể nhìn thấy tôi.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "explanatory",
+          "meaning": "để giải thích hoặc làm rõ",
+          "pronunciation": "/ɪkˈsplæn.ə.tər.i/",
+          "type": "adjective",
+          "example": "The map and explanatory notes attached to the entry form were very well done.",
+          "exampleMeaning": "Bản đồ và các ghi chú giải thích kèm theo mẫu đơn nhập cảnh được làm rất tốt.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "garage",
+          "meaning": "nhà xe , ga-ra xe",
+          "pronunciation": "/ɡəˈrɑːʒ/",
+          "type": "noun",
+          "example": "We've just had a new garage built at great expense.",
+          "exampleMeaning": "Chúng tôi vừa mới xây một nhà để xe mới với chi phí lớn.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "identification",
+          "meaning": "giấy tờ nhận dạng",
+          "pronunciation": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "Wellington Barracks is a restricted area and anyone who enters should have identification.",
+          "exampleMeaning": "Doanh trại Wellington là khu vực hạn chế và bất kỳ ai vào phải có giấy tờ tùy thân.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "inference",
+          "meaning": "kết luận, sự suy luận",
+          "pronunciation": "/ˈɪn.fər.əns/",
+          "type": "noun",
+          "example": "The value of data depends on our skill in drawing inferences from it.",
+          "exampleMeaning": "Giá trị của dữ liệu phụ thuộc vào kỹ năng của chúng ta trong việc rút ra suy luận từ nó.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "instructor",
+          "meaning": "người hướng dẫn (có thể là huấn luyện viên, giáo viên)",
+          "pronunciation": "/ɪnˈstrʌk.tər/",
+          "type": "noun",
+          "example": "He worked for a time as an aerobics instructor.",
+          "exampleMeaning": "Anh ấy đã làm việc một thời gian như một huấn luyện viên thể dục nhịp điệu.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "inventory",
+          "meaning": "bản kiểm kê",
+          "pronunciation": "/ˈɪn.vən.tər.i/",
+          "type": "noun",
+          "example": "Disaster response teams are completing an inventory of damaged facilities.",
+          "exampleMeaning": "Các đội ứng phó thảm họa đang hoàn thành kiểm kê các cơ sở bị hư hỏng.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "keyboard",
+          "meaning": "bàn phím máy tính",
+          "pronunciation": "/ˈkiː.bɔːd/",
+          "type": "noun",
+          "example": "The computer comes with a wireless mouse and keyboard.",
+          "exampleMeaning": "Máy tính đi kèm với chuột và bàn phím không dây.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "laptop",
+          "meaning": "máy tính xách tay",
+          "pronunciation": "/ˈlæp.tɒp/",
+          "type": "noun",
+          "example": "She used to work at her laptop until four in the morning.",
+          "exampleMeaning": "Cô ấy thường làm việc trên máy tính xách tay của mình đến bốn giờ sáng.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "mall",
+          "meaning": "trung tâm thương mại, trung tâm mua sắm",
+          "pronunciation": "/mɔːl/",
+          "type": "noun",
+          "example": "Teenagers would go hang at the mall after school.",
+          "exampleMeaning": "Thanh thiếu niên sẽ đi chơi ở trung tâm mua sắm sau giờ học.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "manual",
+          "meaning": "sách hướng dẫn",
+          "pronunciation": "/ˈmæn.ju.əl/",
+          "type": "noun",
+          "example": "According to the manual, the wires should be the other way round.",
+          "exampleMeaning": "Theo sổ tay, dây điện nên được lắp ngược lại.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "media",
+          "meaning": "phương tiện truyền thông đại chúng",
+          "pronunciation": "/ˈmiː.di.ə/",
+          "type": "noun",
+          "example": "The news media reported extensively on the story.",
+          "exampleMeaning": "Các phương tiện truyền thông đã đưa tin rộng rãi về câu chuyện này.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "medication",
+          "meaning": "thuốc thang, dược phẩm",
+          "pronunciation": "/ˌmed.ɪˈkeɪ.ʃən/",
+          "type": "noun",
+          "example": "My grandmother has been on medication for years.",
+          "exampleMeaning": "Bà của tôi đã dùng thuốc trong nhiều năm.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "merchandise",
+          "meaning": "hàng hóa",
+          "pronunciation": "/ˈmɜː.tʃən.daɪz/",
+          "type": "noun",
+          "example": "These tokens can be exchanged for merchandise in any of our stores.",
+          "exampleMeaning": "Những thẻ này có thể được đổi lấy hàng hóa tại bất kỳ cửa hàng nào của chúng tôi.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "obtain",
+          "meaning": "đạt được, có được",
+          "pronunciation": "/əbˈteɪn/",
+          "type": "verb",
+          "example": "I've been trying to obtain permission to publish this material.",
+          "exampleMeaning": "Tôi đã cố gắng để có được sự cho phép xuất bản tài liệu này.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "occupation",
+          "meaning": "nghề nghiệp",
+          "pronunciation": "/ˌɒk.jʊˈpeɪ.ʃən/",
+          "type": "noun",
+          "example": "Her occupation is listed as 'homemaker'.",
+          "exampleMeaning": "Nghề nghiệp của cô ấy được liệt kê là 'nội trợ'.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "outdoor",
+          "meaning": "ngoài trời",
+          "pronunciation": "/ˌaʊtˈdɔːr/",
+          "type": "adjective",
+          "example": "They sell camping equipment, hiking gear and outdoor clothing.",
+          "exampleMeaning": "Họ bán thiết bị cắm trại, đồ dùng leo núi và quần áo dã ngoại.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "oval",
+          "meaning": "hình trái xoan, hình bầu dục",
+          "pronunciation": "/ˈəʊ.vəl/",
+          "type": "noun",
+          "example": "The plant has oval green leaves marbled with brownish-purple.",
+          "exampleMeaning": "Cây có lá hình bầu dục màu xanh lục có đốm màu nâu tím.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "passport",
+          "meaning": "hộ chiếu",
+          "pronunciation": "/ˈpɑːs.pɔːt/",
+          "type": "noun",
+          "example": "I was stopped as I went through passport control (= where passports are checked).",
+          "exampleMeaning": "Tôi bị dừng lại khi đi qua khu kiểm tra hộ chiếu (= nơi kiểm tra hộ chiếu).",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "postpone",
+          "meaning": "trì hoãn, hoãn lại",
+          "pronunciation": "/pəʊstˈpəʊn/",
+          "type": "verb",
+          "example": "They decided to postpone their holiday until next year.",
+          "exampleMeaning": "Họ quyết định hoãn kỳ nghỉ đến năm sau.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "precede",
+          "meaning": "ở trước, có trước, đến trước",
+          "pronunciation": "/prɪˈsiːd/",
+          "type": "verb",
+          "example": "Kofi Annan preceded Ban Ki-moon as the Secretary-General of the UN.",
+          "exampleMeaning": "Kofi Annan đã tiền nhiệm Ban Ki-moon làm Tổng Thư ký Liên Hợp Quốc.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "receptionist",
+          "meaning": "nhân viên tiếp tân",
+          "pronunciation": "/rɪˈsepʃənɪst/",
+          "type": "noun",
+          "example": "When you get here, the receptionist will direct you to my office.",
+          "exampleMeaning": "Khi bạn đến đây, lễ tân sẽ hướng dẫn bạn đến văn phòng của tôi.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "renovation",
+          "meaning": "sự nâng cấp, sự tu sửa",
+          "pronunciation": "/ˌren.əˈveɪ.ʃən/",
+          "type": "noun",
+          "example": "The expensive renovation is being financed through private investment.",
+          "exampleMeaning": "Việc tu sửa đắt tiền đang được tài trợ thông qua đầu tư tư nhân.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "replacement",
+          "meaning": "sự thay thế, vật thay thế, người thay thế",
+          "pronunciation": "/rɪˈpleɪs.mənt/",
+          "type": "noun",
+          "example": "The agency sent a replacement for the secretary who resigned.",
+          "exampleMeaning": "Cơ quan đã gửi một người thay thế cho thư ký đã từ chức.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "reschedule",
+          "meaning": "xếp lại lịch",
+          "pronunciation": "/ˌriːˈskedʒuːl/",
+          "type": "verb",
+          "example": "I rescheduled my doctor's appointment for later in the week.",
+          "exampleMeaning": "Tôi đã dời lịch hẹn với bác sĩ sang cuối tuần.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "suitcase",
+          "meaning": "vali",
+          "pronunciation": "/ˈsuːt.keɪs/",
+          "type": "noun",
+          "example": "My dress got all crushed in my suitcase.",
+          "exampleMeaning": "Váy của tôi bị nhăn hết trong vali.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "supermarket",
+          "meaning": "siêu thị",
+          "pronunciation": "/ˈsuː.pəˌmɑː.kɪt/",
+          "type": "noun",
+          "example": "She works on the checkout at the local supermarket.",
+          "exampleMeaning": "Cô ấy làm việc tại quầy thu ngân ở siêu thị địa phương.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "tactic",
+          "meaning": "chiến thuật",
+          "pronunciation": "/ˈtæk.tɪk/",
+          "type": "noun",
+          "example": "The proposal was dismissed as a diversionary tactic intended to distract attention from the real problems.",
+          "exampleMeaning": "Đề xuất đã bị bác bỏ như một chiến thuật đánh lạc hướng nhằm thu hút sự chú ý khỏi các vấn đề thực sự.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "tổ chức bảo trợ, thế lực bảo vệ, sự bao trùm",
+          "pronunciation": "/ʌmˈbrel.ə/",
+          "type": "noun",
+          "example": "He runs a group of companies under the umbrella of Universal Foods.",
+          "exampleMeaning": "Anh ấy điều hành một nhóm các công ty dưới sự điều hành của Công ty Thực phẩm Toàn cầu.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "underline",
+          "meaning": "nhấn mạnh/gạch chân",
+          "pronunciation": "/ˌʌn.dəˈlaɪn/",
+          "type": "verb",
+          "example": "The teacher underlined the importance of attention to detail.",
+          "exampleMeaning": "Giáo viên nhấn mạnh tầm quan trọng của việc chú ý đến chi tiết.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "upcoming",
+          "meaning": "sắp tới",
+          "pronunciation": "/ˈʌpˌkʌm.ɪŋ/",
+          "type": "adjective",
+          "example": "Tickets are selling well for the group's upcoming concert tour.",
+          "exampleMeaning": "Vé đang bán chạy cho chuyến lưu diễn sắp tới của nhóm.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "upgrade",
+          "meaning": "nâng cấp",
+          "pronunciation": "/ʌpˈɡreɪd/",
+          "type": "verb",
+          "example": "If your reserved car isn't available, most rental car companies will upgrade you to the next size car at no additional charge.",
+          "exampleMeaning": "Nếu chiếc xe đặt trước của bạn không có sẵn, hầu hết các công ty cho thuê xe sẽ nâng cấp cho bạn chiếc xe cỡ tiếp theo mà không phải trả thêm phí.",
+          "note": "Từ vựng List 2"
+        },
+        {
+          "word": "valid",
+          "meaning": "đúng đắn, có cơ sở/căn cứ vững chắc",
+          "pronunciation": "/ˈvæl.ɪd/",
+          "type": "adjective",
+          "example": "For the experiment to be valid, it is essential to record the data accurately.",
+          "exampleMeaning": "Để thí nghiệm có giá trị, việc ghi chép dữ liệu chính xác là điều cần thiết.",
+          "note": "Từ vựng List 2"
+        }
+      ]
+    }
+  ]
+}
