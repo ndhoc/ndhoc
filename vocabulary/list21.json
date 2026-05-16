@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_21",
+      "name": "List 21",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "accuracy",
+          "meaning": "sự chính xác",
+          "pronunciation": "/ˈæk.jə.rə.si/",
+          "type": "noun",
+          "example": "We can predict changes with a surprising degree of accuracy",
+          "exampleMeaning": "Chúng tôi có thể dự đoán thay đổi với độ chính xác đáng ngạc nhiên",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "anyhow",
+          "meaning": "Dù sao, bên cạnh đó",
+          "pronunciation": "/ˈeni.haʊ/",
+          "type": "adverb",
+          "example": "Anyhow, I didn't ask you to come here to talk about your business.",
+          "exampleMeaning": "Dù sao, tôi đã không yêu cầu bạn đến đây để nói về công việc của bạn.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "appetizer",
+          "meaning": "món khai vị",
+          "pronunciation": "/ˈæpɪtaɪzər/",
+          "type": "noun",
+          "example": "At 6.30 everyone gathered for drinks and appetizers in the lounge.",
+          "exampleMeaning": "Lúc 6 giờ 30 mọi người tụ tập để uống và ăn khai vị trong phòng khách.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "arc",
+          "meaning": "một đường cong, giống như một phần của vòng tròn, hình cung",
+          "pronunciation": "/ɑːk/",
+          "type": "noun",
+          "example": "The ball rose in a high arc and fell behind the boundary line.",
+          "exampleMeaning": "Quả bóng vút lên một vòng cung cao và rơi xuống sau đường biên giới.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "audition",
+          "meaning": "cuộc thử giọng, cuộc diễn thử",
+          "pronunciation": "/ɔːˈdɪʃ.ən/",
+          "type": "noun",
+          "example": "His audition went well and he's fairly hopeful about getting the part.",
+          "exampleMeaning": "Buổi thử vai của anh ấy đã diễn ra tốt đẹp và anh ấy khá hy vọng về việc nhận được vai diễn.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "backpack",
+          "meaning": "ba lô",
+          "pronunciation": "/ˈbæk.pæk/",
+          "type": "noun",
+          "example": "It's a frame backpack with a belt and padded shoulder straps.",
+          "exampleMeaning": "Đó là một ba lô có khung với đai và dây đeo vai có đệm.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "ballroom",
+          "meaning": "phòng khiêu vũ",
+          "pronunciation": "/ˈbɔːl.ruːm/",
+          "type": "noun",
+          "example": "There were ballrooms, three dining rooms, a social hall, beauty and barbershops, four bars, a Grand Salon and other entertainment salons.",
+          "exampleMeaning": "Có những phòng khiêu vũ, ba phòng ăn, một hội trường, cửa hiệu làm đẹp và barbershop, bốn quầy bar, một Đại Sảnh và các phòng giải trí khác.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "beneficial",
+          "meaning": "Tốt cho bạn, có lợi",
+          "pronunciation": "/ˌben.ɪˈfɪʃ.əl/",
+          "type": "adjective",
+          "example": "The improvement in sales figures had a beneficial effect on the company as a whole.",
+          "exampleMeaning": "Sự cải thiện trong số liệu bán hàng đã có tác động tích cực đến toàn bộ công ty.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "biography",
+          "meaning": "tiểu sử, lý lịch",
+          "pronunciation": "/baɪˈɒɡ.rə.fi/",
+          "type": "noun",
+          "example": "This biography offers a few glimpses of his life before he became famous.",
+          "exampleMeaning": "Cuốn tiểu sử này cung cấp vài cái nhìn thoáng qua về cuộc sống của ông trước khi ông trở nên nổi tiếng.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "bound",
+          "meaning": "Bao quanh với một cái gì đó, để che chắn hoặc khoanh kín",
+          "pronunciation": "/baʊnd/",
+          "type": "verb",
+          "example": "The town is bounded on one side by a river.",
+          "exampleMeaning": "Thị trấn được bao bọc bởi một con sông ở một bên.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "broom",
+          "meaning": "cây chổi quét",
+          "pronunciation": "/bruːm/",
+          "type": "noun",
+          "example": "I use that broom to sweep the kitchen floor.",
+          "exampleMeaning": "Tôi sử dụng cây chổi đó để quét sàn bếp.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "cheeseburger",
+          "meaning": "một chiếc bánh hamburger với phô mai tan chảy trên đó",
+          "pronunciation": "/ˈtʃiːzˌbɜː.ɡər/",
+          "type": "noun",
+          "example": "The menu includes hamburgers and cheeseburgers, sandwiches, chips, drinks, and pies.",
+          "exampleMeaning": "Thực đơn bao gồm hamburger và cheeseburger, bánh mì sandwich, khoai tây chiên, đồ uống và bánh nướng.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "chilly",
+          "meaning": "se lạnh",
+          "pronunciation": "/ˈtʃɪl.i/",
+          "type": "adjective",
+          "example": "The bathroom gets chilly in the winter.",
+          "exampleMeaning": "Phòng tắm trở nên lạnh lẽo vào mùa đông.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "circus",
+          "meaning": "một màn trình diễn sặc sỡ hoặc ồn ào",
+          "pronunciation": "/ˈsɜː.kəs/",
+          "type": "noun",
+          "example": "The whole circus happening around my vehicle puts a smile on my face.",
+          "exampleMeaning": "Cả cái rạp xiếc xảy ra xung quanh chiếc xe của tôi khiến tôi mỉm cười.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "compliment",
+          "meaning": "lời khen ngợi",
+          "pronunciation": "/ˈkɒm.plɪ.mənt/",
+          "type": "noun",
+          "example": "Thanks for your extensive constructive criticism and your compliments on my writing.",
+          "exampleMeaning": "Cảm ơn bạn vì những phê bình mang tính xây dựng cũng như những lời khen ngợi về bài viết của tôi.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "consignment",
+          "meaning": "một lô hàng hàng hóa để giao hàng",
+          "pronunciation": "/kənˈsaɪn.mənt/",
+          "type": "noun",
+          "example": "Customs officers at the port discovered a consignment of pirated computer games.",
+          "exampleMeaning": "Nhân viên hải quan tại cảng đã phát hiện một lô hàng trò chơi máy tính vi phạm bản quyền.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "continental",
+          "meaning": "thuộc lục địa, thuộc đất liền",
+          "pronunciation": "/ˌkɒn.tɪˈnen.təl/",
+          "type": "adjective",
+          "example": "For the younger generation, continental wars are something for the history books.",
+          "exampleMeaning": "Đối với thế hệ trẻ, các cuộc chiến tranh lục địa là điều thuộc về sách lịch sử.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "copyright",
+          "meaning": "bản quyền",
+          "pronunciation": "/ˈkɒp.i.raɪt/",
+          "type": "noun",
+          "example": "There was a need to develop copyright protection for computer programs.",
+          "exampleMeaning": "Cần phải phát triển bảo vệ bản quyền cho các chương trình máy tính.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "countryside",
+          "meaning": "vùng nông thôn",
+          "pronunciation": "/ˈkʌn.tri.saɪd/",
+          "type": "noun",
+          "example": "Thousands of people will walk across cities and countrysides to raise money to fight this disease.",
+          "exampleMeaning": "Hàng ngàn người sẽ đi bộ qua các thành phố và vùng nông thôn để quyên góp tiền chống lại căn bệnh này.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "demolish",
+          "meaning": "hạ gục; phá hủy hoàn toàn",
+          "pronunciation": "/dɪˈmɒl.ɪʃ/",
+          "type": "verb",
+          "example": "A number of houses were demolished so that the supermarket could be built.",
+          "exampleMeaning": "Một số ngôi nhà đã bị phá hủy để siêu thị có thể được xây dựng.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "departmental",
+          "meaning": "thuộc phòng ban",
+          "pronunciation": "/ˌdiː.pɑːtˈmen.təl/",
+          "type": "adjective",
+          "example": "He has a series of departmental meetings during the week.",
+          "exampleMeaning": "Anh ấy có một loạt các cuộc họp trong phòng ban trong tuần.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "desperate",
+          "meaning": "khẩn cấp, tuyệt vọng",
+          "pronunciation": "/ˈdes.pər.ət/",
+          "type": "adjective",
+          "example": "The earthquake survivors are in desperate need of help.",
+          "exampleMeaning": "Những người sống sót sau trận động đất đang rất cần sự giúp đỡ.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "devastate",
+          "meaning": "phá hủy hoàn toàn",
+          "pronunciation": "/ˈdev.ə.steɪt/",
+          "type": "verb",
+          "example": "Waves of corporate downsizing have devastated employee morale.",
+          "exampleMeaning": "Làn sóng cắt giảm nhân sự của công ty đã phá hoại tinh thần của nhân viên.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "diagnostic",
+          "meaning": "phép chẩn đoán, triệu chứng",
+          "pronunciation": "/ˌdaɪəɡˈnɒstɪk/",
+          "type": "noun",
+          "example": "Diagnostic of the disease is difficult in the early stages.",
+          "exampleMeaning": "Chẩn đoán bệnh rất khó khăn trong giai đoạn đầu.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "diagram",
+          "meaning": "biểu đồ",
+          "pronunciation": "/ˈdaɪ.ə.ɡræm/",
+          "type": "noun",
+          "example": "The mechanic drew me a diagram of the brake balance.",
+          "exampleMeaning": "Người thợ máy đã vẽ cho tôi một sơ đồ về sự cân bằng phanh.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "diamond",
+          "meaning": "kim cương",
+          "pronunciation": "/ˈdaɪə.mənd/",
+          "type": "noun",
+          "example": "The tiara was set with diamonds and rubies.",
+          "exampleMeaning": "Vương miện được gắn kim cương và hồng ngọc.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "disable",
+          "meaning": "vô hiệu hóa, làm mất khả năng hoạt động",
+          "pronunciation": "/dɪˈseɪ.bəl/",
+          "type": "verb",
+          "example": "This weapons system will destroy or disable any incoming missile.",
+          "exampleMeaning": "Hệ thống vũ khí này sẽ phá hủy hoặc vô hiệu hóa bất kỳ tên lửa nào đang tới.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "disgust",
+          "meaning": "sự kinh tởm, chán ghét",
+          "pronunciation": "/dɪsˈɡʌst/",
+          "type": "noun",
+          "example": "He resigned from the committee in disgust at the corruption.",
+          "exampleMeaning": "Anh ấy đã từ chức khỏi ủy ban vì phẫn nộ trước tham nhũng.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "donut",
+          "meaning": "bánh vòng",
+          "pronunciation": "/ˈdoʊ.nət/",
+          "type": "noun",
+          "example": "The menu mentioned toasted teacakes, scones, donuts, Danish pastries and flapjack.",
+          "exampleMeaning": "Thực đơn đề cập đến bánh trà nướng, bánh scone, bánh donut, bánh Đan Mạch và bánh flapjack.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "doorman",
+          "meaning": "người gác cửa",
+          "pronunciation": "/ˈdɔː.mæn/",
+          "type": "noun",
+          "example": "Doormen catch many fake ID holders by making them sign their name or asking their birth date to compare with what's on the ID.",
+          "exampleMeaning": "Nhân viên gác cửa bắt nhiều người cầm thẻ căn cước giả bằng cách yêu cầu họ ký tên hoặc hỏi ngày sinh để so sánh với thông tin trên thẻ.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "electronically",
+          "meaning": "được xử lý bằng điện tử",
+          "pronunciation": "/ˌɪl.ekˈtrɒn.ɪ.kəl.i/",
+          "type": "adverb",
+          "example": "The device allows doctors to electronically send prescriptions to local pharmacies.",
+          "exampleMeaning": "Thiết bị này cho phép các bác sĩ gửi đơn thuốc điện tử đến các hiệu thuốc địa phương.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "elevate",
+          "meaning": "nâng cao",
+          "pronunciation": "/ˈel.ɪ.veɪt/",
+          "type": "verb",
+          "example": "These factors helped to elevate the town to the position of one of the most beautiful in the country.",
+          "exampleMeaning": "Những yếu tố này đã giúp nâng thị trấn lên vị trí của một trong những thị trấn đẹp nhất cả nước.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "engagement",
+          "meaning": "sự tham gia",
+          "pronunciation": "/ɪnˈɡeɪdʒ.mənt/",
+          "type": "noun",
+          "example": "He was known for his engagement with the problems of the most difficult students.",
+          "exampleMeaning": "Ông được biết đến vì sự gắn bó của mình với những vấn đề của những học sinh khó khăn nhất.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "enrollment",
+          "meaning": "sự kết nạp, sự ghi danh",
+          "pronunciation": "/ɪnˈrəʊl.mənt/",
+          "type": "noun",
+          "example": "Enrollment during the school year is limited to about 40 students.",
+          "exampleMeaning": "Số lượng học sinh trong suốt năm học giới hạn khoảng 40 em.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "euro",
+          "meaning": "một đơn vị tiền được sử dụng ở một số quốc gia châu Âu",
+          "pronunciation": "/ˈjʊə.rəʊ/",
+          "type": "noun",
+          "example": "Most EU states have crossed the Rubicon and adopted the euro.",
+          "exampleMeaning": "Hầu hết các quốc gia EU đã vượt qua Rubicon và chấp nhận đồng euro.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "forbid",
+          "meaning": "ngăn cấm",
+          "pronunciation": "/fəˈbɪd/",
+          "type": "verb",
+          "example": "The law forbids the sale of cigarettes to people under the age of 16.",
+          "exampleMeaning": "Luật pháp cấm bán thuốc lá cho người dưới 16 tuổi.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "fork",
+          "meaning": "cái nĩa",
+          "pronunciation": "/fɔːk/",
+          "type": "noun",
+          "example": "She prodded the cake with her fork to see if it was cooked.",
+          "exampleMeaning": "Cô ấy chọc cái bánh bằng nĩa để xem nó đã chín chưa.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "foster",
+          "meaning": "khuyến khích, cổ vũ",
+          "pronunciation": "/ˈfɒs.tər/",
+          "type": "verb",
+          "example": "Online writing workshops, discussion sites and newsletters foster a sense of writing community.",
+          "exampleMeaning": "Các khóa học viết trực tuyến, các trang web thảo luận và bản tin nuôi dưỡng cảm giác về cộng đồng viết.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "getaway",
+          "meaning": "sự chạy trốn, sự trốn thoát",
+          "pronunciation": "/ˈɡet.əˌweɪ/",
+          "type": "noun",
+          "example": "The two masked men made their getaway in a stolen van.",
+          "exampleMeaning": "Hai người đàn ông đeo mặt nạ đã trốn thoát trên một chiếc xe van bị đánh cắp.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "gossip",
+          "meaning": "ngồi lê đôi mách, bàn tán sau lưng",
+          "pronunciation": "/ˈɡɒs.ɪp/",
+          "type": "verb",
+          "example": "The girls all gossiped and chatted, laughing really hard when Noah came to the door, and leaned on the frame.",
+          "exampleMeaning": "Các cô gái đều buôn chuyện và trò chuyện, cười rất to khi Noah đến cửa và tựa vào khung cửa.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "hacker",
+          "meaning": "Người lấy dữ liệu máy tính mà không được phép, tin tặc",
+          "pronunciation": "/ˈhæk.ər/",
+          "type": "noun",
+          "example": "Problems can occur when a company does not know a hacker has broken into its system.",
+          "exampleMeaning": "Các vấn đề có thể xảy ra khi một công ty không biết rằng một hacker đã xâm nhập vào hệ thống của mình.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "hardworking",
+          "meaning": "làm việc chăm chỉ",
+          "pronunciation": "/ˌhɑːdˈwɜː.kɪŋ/",
+          "type": "adjective",
+          "example": "The majority of farmers are good, honest, hardworking people, and farming is bouncing back.",
+          "exampleMeaning": "Phần lớn nông dân là những người tốt, trung thực, chăm chỉ và ngành nông nghiệp đang hồi phục.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "impatient",
+          "meaning": "Thiếu kiên nhẫn, nóng vội",
+          "pronunciation": "/ɪmˈpeɪ.ʃənt/",
+          "type": "adjective",
+          "example": "He's a good teacher, but inclined to be a bit impatient with slow learners.",
+          "exampleMeaning": "Anh ấy là một giáo viên giỏi, nhưng có xu hướng hơi thiếu kiên nhẫn với những người học chậm.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "indirect",
+          "meaning": "gián tiếp",
+          "pronunciation": "/ˌɪn.dɪˈrekt/",
+          "type": "adjective",
+          "example": "He made only an indirect reference to what had happened at the meeting.",
+          "exampleMeaning": "Anh ta chỉ đề cập gián tiếp đến những gì đã xảy ra trong cuộc họp.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "interpreter",
+          "meaning": "người phiên dịch/phiên dịch viên",
+          "pronunciation": "/ɪnˈtɜː.prɪ.tər/",
+          "type": "noun",
+          "example": "Speaking through an interpreter, the President said that the talks were going well.",
+          "exampleMeaning": "Phát biểu thông qua một phiên dịch viên, Tổng thống cho biết các cuộc đàm phán đang diễn ra tốt đẹp.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "intersection",
+          "meaning": "ngã tư đường",
+          "pronunciation": "/ˌɪn.təˈsek.ʃən/",
+          "type": "noun",
+          "example": "Traffic lights have been placed at all major intersections.",
+          "exampleMeaning": "Đèn giao thông đã được đặt tại tất cả các giao lộ chính.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "irrelevant",
+          "meaning": "không liên quan đến chủ đề, không quan trọng",
+          "pronunciation": "/ɪˈrel.ə.vənt/",
+          "type": "adjective",
+          "example": "Whether I believe you or not is irrelevant now.",
+          "exampleMeaning": "Việc tôi có tin bạn hay không bây giờ không còn quan trọng nữa.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "jeans",
+          "meaning": "quần bò",
+          "pronunciation": "/dʒiːnz/",
+          "type": "noun",
+          "example": "I always wear jeans.",
+          "exampleMeaning": "Tôi luôn mặc quần jean.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "journalism",
+          "meaning": "nghề làm báo, ngành báo chí",
+          "pronunciation": "/ˈdʒɜː.nə.lɪ.zəm/",
+          "type": "noun",
+          "example": "I'd like a career in journalism.",
+          "exampleMeaning": "Tôi muốn có một sự nghiệp trong ngành báo chí.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "letterhead",
+          "meaning": "phần tiêu đề trên giấy viết thư, bao gồm tên và địa chỉ của một người, công ty hoặc tổ chức.",
+          "pronunciation": "/ˈlet.ə.hed/",
+          "type": "noun",
+          "example": "Colleagues at work enjoy having a letterhead with their name at the top.",
+          "exampleMeaning": "Đồng nghiệp tại nơi làm việc thích có tiêu đề thư với tên của họ ở phía trên cùng.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "volleyball",
+          "meaning": "bóng chuyền",
+          "pronunciation": "/ˈvɒl.i.bɔːl/",
+          "type": "noun",
+          "example": "In physical education, we play volleyball or do exercises.",
+          "exampleMeaning": "Trong giờ thể dục, chúng tôi chơi bóng chuyền hoặc tập thể dục.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "wheelchair",
+          "meaning": "xe lăn",
+          "pronunciation": "/ˈwiːl.tʃeər/",
+          "type": "noun",
+          "example": "He spent the last ten years of his life in a wheelchair after a fall that left him paralysed from the waist down.",
+          "exampleMeaning": "Anh ấy đã trải qua mười năm cuối đời trên xe lăn sau một cú ngã khiến anh bị liệt từ thắt lưng trở xuống.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "whoever",
+          "meaning": "bất cứ ai",
+          "pronunciation": "/huːˈev.ər/",
+          "type": "pronoun",
+          "example": "Whoever uprooted that tree ought to be ashamed of themselves.",
+          "exampleMeaning": "Ai đã nhổ cây này phải cảm thấy xấu hổ về bản thân.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "wool",
+          "meaning": "lông cừu",
+          "pronunciation": "/wʊl/",
+          "type": "noun",
+          "example": "Australia is one of the world's main producers of wool.",
+          "exampleMeaning": "Úc là một trong những nhà sản xuất len chính của thế giới.",
+          "note": "Từ vựng List 21"
+        },
+        {
+          "word": "wrinkle",
+          "meaning": "nếp nhăn, nếp gấp",
+          "pronunciation": "/ˈrɪŋ.kəl/",
+          "type": "noun",
+          "example": "You need to iron out the wrinkles in your skirt.",
+          "exampleMeaning": "Bạn cần là phẳng những nếp nhăn trên váy của bạn.",
+          "note": "Từ vựng List 21"
+        }
+      ]
+    }
+  ]
+}
