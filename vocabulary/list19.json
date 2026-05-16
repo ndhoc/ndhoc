@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": "list_19",
+      "name": "List 19",
+      "icon": "menu_book",
+      "words": [
+        {
+          "word": "adapter",
+          "meaning": "bộ chuyển đổi",
+          "pronunciation": "/əˈdæp.tər/",
+          "type": "noun",
+          "example": "The adapter converts the lens focal length to 5.5 mm",
+          "exampleMeaning": "Bộ chuyển đổi giúp tiêu cự của ống kính thành 5.5 mm",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "advisable",
+          "meaning": "Nên, thích hợp, đáng theo",
+          "pronunciation": "/ədˈvaɪ.zə.bəl/",
+          "type": "adjective",
+          "example": "It's advisable to book seats at least a week in advance",
+          "exampleMeaning": "Nên đặt chỗ trước ít nhất một tuần",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "archive",
+          "meaning": "kho lưu trữ, nơi lưu trữ",
+          "pronunciation": "/ˈɑː.kaɪv/",
+          "type": "noun",
+          "example": "The author's manuscripts are in the college archives.",
+          "exampleMeaning": "Bản thảo của tác giả nằm trong kho lưu trữ của trường đại học.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "artistic",
+          "meaning": "sáng tạo, giỏi nghệ thuật",
+          "pronunciation": "/ɑːˈtɪs.tɪk/",
+          "type": "adjective",
+          "example": "All of this takes a high level of artistic skill to create rockwork that looks natural.",
+          "exampleMeaning": "Tất cả điều này cần một mức độ kỹ năng nghệ thuật cao để tạo ra đá trông tự nhiên.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "assurance",
+          "meaning": "sự chắc chắn, sự đảm bảo",
+          "pronunciation": "/əˈʃʊə.rəns/",
+          "type": "noun",
+          "example": "Despite the government's repeated assurances to the contrary, taxation has risen over the past decade.",
+          "exampleMeaning": "Bất chấp những đảm bảo lặp đi lặp lại của chính phủ rằng điều ngược lại, thuế đã tăng trong thập kỷ qua.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "athletic",
+          "meaning": "thuộc thể thao",
+          "pronunciation": "/æθˈletɪk/",
+          "type": "adjective",
+          "example": "The university is very proud of its athletic facilities.",
+          "exampleMeaning": "Trường đại học rất tự hào về các cơ sở thể thao của mình.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "attire",
+          "meaning": "quần áo",
+          "pronunciation": "/əˈtaɪər/",
+          "type": "noun",
+          "example": "The waiters too would be dressed in traditional attire.",
+          "exampleMeaning": "Các bồi bàn cũng sẽ mặc trang phục truyền thống.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "auditor",
+          "meaning": "kiểm toán viên, người kiểm tra sổ sách",
+          "pronunciation": "/ˈɔː.dɪ.tər/",
+          "type": "noun",
+          "example": "The external auditors (= from outside the company) come in once a year.",
+          "exampleMeaning": "Các kiểm toán viên bên ngoài (từ bên ngoài công ty) đến một lần mỗi năm.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "bankruptcy",
+          "meaning": "sự phá sản, vỡ nợ",
+          "pronunciation": "/ˈbæŋk.rəp.si/",
+          "type": "noun",
+          "example": "The country's largest automaker is rumored to be on the brink of bankruptcy.",
+          "exampleMeaning": "Nhà sản xuất ô tô lớn nhất cả nước được đồn đại là đang trên bờ vực phá sản.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "bulk",
+          "meaning": "với số lượng lớn, một đống",
+          "pronunciation": "/bʌlk/",
+          "type": "noun",
+          "example": "It was a document of surprising bulk.",
+          "exampleMeaning": "Đó là một tài liệu có khối lượng đáng kinh ngạc.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ sữa",
+          "pronunciation": "/ˈbʌt.ər/",
+          "type": "noun",
+          "example": "Mash the potatoes and then mix in the butter and herbs.",
+          "exampleMeaning": "Nghiền khoai tây rồi trộn bơ và thảo mộc vào.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "centimeter",
+          "meaning": "đơn vị đo xăng-ti-mét",
+          "pronunciation": "/ˈsen.tɪˌmiː.tər/",
+          "type": "noun",
+          "example": "There is a ten centimeter gap between the table and the wall.",
+          "exampleMeaning": "Có một khoảng cách mười centimet giữa bàn và tường.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "circulate",
+          "meaning": "di chuyển trong một vòng tròn",
+          "pronunciation": "/ˈsɜː.kjə.leɪt/",
+          "type": "verb",
+          "example": "Hot water circulates through the heating system.",
+          "exampleMeaning": "Nước nóng lưu thông qua hệ thống sưởi.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "comb",
+          "meaning": "chải để gỡ rối",
+          "pronunciation": "/koʊm/",
+          "type": "verb",
+          "example": "I've been trying to comb out the knots in her hair.",
+          "exampleMeaning": "Tôi đã cố gắng chải hết những nút rối trong tóc của cô ấy.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "comfortably",
+          "meaning": "làm một cái gì đó một cách dễ dàng, thoải mái",
+          "pronunciation": "/ˈkʌmftəbli/",
+          "type": "adverb",
+          "example": "We could live fairly comfortably on Edward's salary.",
+          "exampleMeaning": "Chúng ta có thể sống khá thoải mái với lương của Edward.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "fog",
+          "meaning": "sương mù",
+          "pronunciation": "/fɒɡ/",
+          "type": "noun",
+          "example": "Dense fog has made driving conditions dangerous.",
+          "exampleMeaning": "Sương mù dày đặc đã khiến điều kiện lái xe trở nên nguy hiểm.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "formally",
+          "meaning": "một cách chính thức",
+          "pronunciation": "/ˈfɔː.mə.li/",
+          "type": "adverb",
+          "example": "The deal will be formally announced on Tuesday.",
+          "exampleMeaning": "Thỏa thuận sẽ được công bố chính thức vào thứ Ba.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "gram",
+          "meaning": "đơn vị đo khối lượng gram",
+          "pronunciation": "/ɡræm/",
+          "type": "noun",
+          "example": "To make this cake, you'll need 175 grams each of sugar and flour, and two eggs.",
+          "exampleMeaning": "Để làm bánh này, bạn sẽ cần 175 gram đường và bột mì, và hai quả trứng.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "handbook",
+          "meaning": "sổ tay hướng dẫn",
+          "pronunciation": "/ˈhænd.bʊk/",
+          "type": "noun",
+          "example": "The student handbook describes all the campus activities.",
+          "exampleMeaning": "Sổ tay sinh viên mô tả tất cả các hoạt động trong khuôn viên trường.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "headphone",
+          "meaning": "tai nghe",
+          "pronunciation": "/ˈhed.fəʊn/",
+          "type": "noun",
+          "example": "After completing this task, they put on the headphones.",
+          "exampleMeaning": "Sau khi hoàn thành nhiệm vụ này, họ đeo tai nghe.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "heater",
+          "meaning": "lò sưởi, hệ thống sưởi",
+          "pronunciation": "/ˈhiː.tər/",
+          "type": "noun",
+          "example": "The heater in this car takes a long time to have any effect.",
+          "exampleMeaning": "Máy sưởi trong chiếc xe này mất rất nhiều thời gian để có bất kỳ hiệu quả nào.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "helmet",
+          "meaning": "mũ bảo hiểm",
+          "pronunciation": "/ˈhel.mət/",
+          "type": "noun",
+          "example": "To keep the helmet in position, fasten the strap beneath the chin.",
+          "exampleMeaning": "Để giữ mũ bảo hiểm ở đúng vị trí, hãy cài dây dưới cằm.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "hiker",
+          "meaning": "người đi bộ đường dài",
+          "pronunciation": "/ˈhaɪ.kər/",
+          "type": "noun",
+          "example": "The wooded area is attractive to hikers and hunters.",
+          "exampleMeaning": "Khu vực rừng cây thu hút những người đi bộ đường dài và thợ săn.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "homeless",
+          "meaning": "vô gia cư",
+          "pronunciation": "/ˈhəʊm.ləs/",
+          "type": "adjective",
+          "example": "Accommodation needs to be found for thousands of homeless families.",
+          "exampleMeaning": "Cần phải tìm chỗ ở cho hàng ngàn gia đình vô gia cư.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "lighter",
+          "meaning": "nhẹ hơn",
+          "pronunciation": "/ˈlaɪ.tər/",
+          "type": "adjective",
+          "example": "It has been fully restored and modernised and offers bigger, lighter, airier spaces than you might expect.",
+          "exampleMeaning": "Nó đã được khôi phục hoàn toàn và hiện đại hóa, mang lại những không gian rộng rãi, sáng sủa và thông thoáng hơn so với bạn mong đợi.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "loudly",
+          "meaning": "ầm ĩ, inh ỏi",
+          "pronunciation": "/ˈlaʊd.li/",
+          "type": "adverb",
+          "example": "She screamed as loudly as she could.",
+          "exampleMeaning": "Cô ấy hét lên to hết sức có thể.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "loyalty",
+          "meaning": "sự trung thành",
+          "pronunciation": "/ˈlɔɪ.əl.ti/",
+          "type": "noun",
+          "example": "They swore their loyalty to the king.",
+          "exampleMeaning": "Họ thề trung thành với nhà vua.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "microwave",
+          "meaning": "lò vi sóng",
+          "pronunciation": "/ˈmaɪ.krə.weɪv/",
+          "type": "noun",
+          "example": "I took my lunch out of the microwave.",
+          "exampleMeaning": "Tôi lấy bữa trưa của mình ra khỏi lò vi sóng.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "misidentify",
+          "meaning": "nhận dạng nhầm",
+          "pronunciation": "/ˌmɪs.aɪˈden.tɪ.faɪ/",
+          "type": "verb",
+          "example": "The reality is that civilians have been hit in strike after strike as targets are misidentified.",
+          "exampleMeaning": "Thực tế là dân thường bị tấn công hết đợt này đến đợt khác khi các mục tiêu bị xác định sai.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "neat",
+          "meaning": "sạch sẽ",
+          "pronunciation": "/niːt/",
+          "type": "adjective",
+          "example": "I've made the front lawn all neat and tidy.",
+          "exampleMeaning": "Tôi đã làm cho bãi cỏ trước nhà gọn gàng và sạch sẽ.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "nomination",
+          "meaning": "sự đề cử/sự bổ nhiệm",
+          "pronunciation": "/ˌnɒmɪˈneɪʃən/",
+          "type": "noun",
+          "example": "Membership of the club is by nomination only.",
+          "exampleMeaning": "Tư cách thành viên của câu lạc bộ chỉ bằng đề cử.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "officially",
+          "meaning": "được thực hiện bởi chính phủ hoặc văn phòng phụ trách",
+          "pronunciation": "/əˈfɪʃ.əl.i/",
+          "type": "adverb",
+          "example": "The library will be officially opened by the local MP.",
+          "exampleMeaning": "Thư viện sẽ được chính thức khai trương bởi đại biểu quốc hội địa phương.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "outfit",
+          "meaning": "một bộ trang phục, một set đồ",
+          "pronunciation": "/ˈaʊt.fɪt/",
+          "type": "noun",
+          "example": "She was wearing an expensive new outfit.",
+          "exampleMeaning": "Cô ấy đang mặc một bộ trang phục mới đắt tiền.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "pastry",
+          "meaning": "bánh ngọt, bánh có nhân",
+          "pronunciation": "/ˈpeɪ.stri/",
+          "type": "noun",
+          "example": "He worked on the filling while I prepared the pastry.",
+          "exampleMeaning": "Anh ấy làm nhân bánh trong khi tôi chuẩn bị bột bánh.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "personalize",
+          "meaning": "cá nhân hóa",
+          "pronunciation": "/ˈpɜː.sən.əl.aɪz/",
+          "type": "verb",
+          "example": "All our courses are personalized to the needs of the individual.",
+          "exampleMeaning": "Tất cả các khóa học của chúng tôi đều được cá nhân hóa theo nhu cầu của từng người.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "poorly",
+          "meaning": "Tệ; không đủ",
+          "pronunciation": "/ˈpʊə.li/",
+          "type": "adverb",
+          "example": "A business as poorly managed as that one doesn't deserve to succeed.",
+          "exampleMeaning": "Một doanh nghiệp được quản lý kém như vậy không xứng đáng để thành công.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "prestigious",
+          "meaning": "có uy tín",
+          "pronunciation": "/presˈtɪdʒ.əs/",
+          "type": "adjective",
+          "example": "The car won some of the industry's most prestigious awards.",
+          "exampleMeaning": "Chiếc xe đã giành được một số giải thưởng danh giá nhất của ngành.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "purser",
+          "meaning": "người quản lý (trên tàu thuỷ chở khách)",
+          "pronunciation": "/ˈpɜː.sər/",
+          "type": "noun",
+          "example": "The extra crew included a purser, three more men in the kitchen and two extra stewards.",
+          "exampleMeaning": "Thủy thủ đoàn bổ sung bao gồm một quản lý hành khách, ba người nữa trong bếp và hai tiếp viên bổ sung.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "reassure",
+          "meaning": "cam đoan, bảo đảm",
+          "pronunciation": "/ˌriː.əˈʃɔːr/",
+          "type": "verb",
+          "example": "The president hastened to reassure his people that he was in perfect health.",
+          "exampleMeaning": "Tổng thống đã nhanh chóng trấn an người dân của mình rằng ông đang có sức khỏe hoàn hảo.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "resume",
+          "meaning": "tiếp tục hoặc bắt đầu lại",
+          "pronunciation": "/rɪ'zjuːm/",
+          "type": "verb",
+          "example": "Normal services will be resumed in the spring.",
+          "exampleMeaning": "Các dịch vụ sẽ được tiếp tục vào mùa xuân.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "reunion",
+          "meaning": "sự sum họp",
+          "pronunciation": "/riːˈjuː.ni.ən/",
+          "type": "noun",
+          "example": "We're having a family reunion next week.",
+          "exampleMeaning": "Chúng tôi sẽ có một buổi họp mặt gia đình vào tuần tới.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "revolutionize",
+          "meaning": "cách mạng hóa",
+          "pronunciation": "/ˌrev.əˈluː.ʃən.aɪz/",
+          "type": "verb",
+          "example": "Newton's discoveries revolutionized physics.",
+          "exampleMeaning": "Những phát hiện của Newton đã cách mạng hóa vật lý.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "seafood",
+          "meaning": "hải sản",
+          "pronunciation": "/ˈsiː.fuːd/",
+          "type": "noun",
+          "example": "a seafood restaurant",
+          "exampleMeaning": "một nhà hàng hải sản",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "signify",
+          "meaning": "biểu thị",
+          "pronunciation": "/ˈsɪɡ.nɪ.faɪ/",
+          "type": "verb",
+          "example": "Nobody really knows what the marks on the ancient stones signify.",
+          "exampleMeaning": "Không ai thực sự biết những dấu vết trên các viên đá cổ đại có ý nghĩa gì.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "slot",
+          "meaning": "cái khe",
+          "pronunciation": "/slɒt/",
+          "type": "noun",
+          "example": "He slid a coin into the slot of the jukebox.",
+          "exampleMeaning": "Anh ấy thả một đồng xu vào khe của máy hát tự động.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "steer",
+          "meaning": "Lái (tàu thuỷ, ô tô..)",
+          "pronunciation": "/stɪər/",
+          "type": "verb",
+          "example": "She carefully steered the car around the potholes.",
+          "exampleMeaning": "Cô ấy cẩn thận điều khiển xe tránh những ổ gà.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "sue",
+          "meaning": "kiện",
+          "pronunciation": "/suː/",
+          "type": "verb",
+          "example": "He was so furious about the accusations in the letter that he threatened to sue.",
+          "exampleMeaning": "Anh ấy đã tức giận đến mức dọa kiện về những lời buộc tội trong bức thư.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "superb",
+          "meaning": "rất tốt",
+          "pronunciation": "/suːˈpɜːb/",
+          "type": "adjective",
+          "example": "The exhibition includes several superb nudes.",
+          "exampleMeaning": "Buổi triển lãm bao gồm một số bức tranh khỏa thân tuyệt đẹp.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "traditionally",
+          "meaning": "theo truyền thống",
+          "pronunciation": "/trəˈdɪʃ.ən.əl.i/",
+          "type": "adverb",
+          "example": "Quaker meetings are traditionally held in silence.",
+          "exampleMeaning": "Các buổi họp của Quaker truyền thống được tổ chức trong im lặng.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "tremendous",
+          "meaning": "phi thường hoặc xuất sắc",
+          "pronunciation": "/trɪˈmen.dəs/",
+          "type": "adjective",
+          "example": "It was a tremendous coup for the local paper to get an exclusive interview with Prince Charles.",
+          "exampleMeaning": "Đó là một thành công lớn cho tờ báo địa phương khi có được cuộc phỏng vấn độc quyền với Hoàng tử Charles.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "underway",
+          "meaning": "Đang xảy ra",
+          "pronunciation": "/ˌʌn.dəˈweɪ/",
+          "type": "adverb/adjective",
+          "example": "Economic recovery is already underway.",
+          "exampleMeaning": "Sự phục hồi kinh tế đã đang diễn ra.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "unpleasant",
+          "meaning": "Không đẹp, không thoải mái",
+          "pronunciation": "/ʌnˈplez.ənt/",
+          "type": "adjective",
+          "example": "The medicine left an unpleasant aftertaste.",
+          "exampleMeaning": "Thuốc để lại một dư vị khó chịu.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "violin",
+          "meaning": "vĩ cầm",
+          "pronunciation": "/ˌvaɪəˈlɪn/",
+          "type": "noun",
+          "example": "She plays the violin with great expression.",
+          "exampleMeaning": "Cô ấy chơi violin với sự biểu cảm tuyệt vời.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "ward",
+          "meaning": "phường, khu vực trong thành phố",
+          "pronunciation": "/wɔːd/",
+          "type": "noun",
+          "example": "...the marginal wards of Reading Kentwood and Tilehurst West.",
+          "exampleMeaning": "...các khu ngoại vi của Reading Kentwood và Tilehurst West.",
+          "note": "Từ vựng List 19"
+        },
+        {
+          "word": "worthwhile",
+          "meaning": "đáng giá",
+          "pronunciation": "/ˌwɜːθˈwaɪl/",
+          "type": "adjective",
+          "example": "She considers teaching a worthwhile career.",
+          "exampleMeaning": "Cô ấy coi việc giảng dạy là một nghề đáng giá.",
+          "note": "Từ vựng List 19"
+        }
+      ]
+    }
+  ]
+}
