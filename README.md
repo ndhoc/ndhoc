@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a 2nd year at Ho Chi Minh University of Technology and Engineering.
+I'm currently a 3rd year at Ho Chi Minh University of Technology and Engineering.
 
 - cout << "Hello World\n";
 
